@@ -1,0 +1,7447 @@
+Name,MapDate,DSCI
+High Plains,20000104,71
+High Plains,20000111,79
+High Plains,20000118,97
+High Plains,20000125,101
+High Plains,20000201,99
+High Plains,20000208,98
+High Plains,20000215,96
+High Plains,20000222,94
+High Plains,20000229,81
+High Plains,20000307,74
+High Plains,20000314,57
+High Plains,20000321,57
+High Plains,20000328,50
+High Plains,20000404,55
+High Plains,20000411,55
+High Plains,20000418,67
+High Plains,20000425,52
+High Plains,20000502,50
+High Plains,20000509,48
+High Plains,20000516,48
+High Plains,20000523,45
+High Plains,20000530,38
+High Plains,20000606,47
+High Plains,20000613,69
+High Plains,20000620,77
+High Plains,20000627,82
+High Plains,20000704,97
+High Plains,20000711,100
+High Plains,20000718,95
+High Plains,20000725,86
+High Plains,20000801,85
+High Plains,20000808,80
+High Plains,20000815,86
+High Plains,20000822,79
+High Plains,20000829,92
+High Plains,20000905,108
+High Plains,20000912,124
+High Plains,20000919,135
+High Plains,20000926,124
+High Plains,20001003,132
+High Plains,20001010,129
+High Plains,20001017,135
+High Plains,20001024,143
+High Plains,20001031,122
+High Plains,20001107,65
+High Plains,20001114,55
+High Plains,20001121,54
+High Plains,20001128,54
+High Plains,20001205,50
+High Plains,20001212,48
+High Plains,20001219,45
+High Plains,20001226,40
+High Plains,20010102,40
+High Plains,20010109,34
+High Plains,20010116,32
+High Plains,20010123,50
+High Plains,20010130,39
+High Plains,20010206,37
+High Plains,20010213,36
+High Plains,20010220,36
+High Plains,20010227,32
+High Plains,20010306,32
+High Plains,20010313,37
+High Plains,20010320,37
+High Plains,20010327,37
+High Plains,20010403,33
+High Plains,20010410,30
+High Plains,20010417,26
+High Plains,20010424,23
+High Plains,20010501,21
+High Plains,20010508,20
+High Plains,20010515,24
+High Plains,20010522,24
+High Plains,20010529,24
+High Plains,20010605,24
+High Plains,20010612,32
+High Plains,20010619,32
+High Plains,20010626,43
+High Plains,20010703,61
+High Plains,20010710,58
+High Plains,20010717,55
+High Plains,20010724,59
+High Plains,20010731,57
+High Plains,20010807,62
+High Plains,20010814,60
+High Plains,20010821,60
+High Plains,20010828,65
+High Plains,20010904,77
+High Plains,20010911,88
+High Plains,20010918,73
+High Plains,20010925,68
+High Plains,20011002,72
+High Plains,20011009,76
+High Plains,20011016,75
+High Plains,20011023,83
+High Plains,20011030,88
+High Plains,20011106,92
+High Plains,20011113,104
+High Plains,20011120,104
+High Plains,20011127,93
+High Plains,20011204,101
+High Plains,20011211,103
+High Plains,20011218,104
+High Plains,20011225,105
+High Plains,20020101,108
+High Plains,20020108,121
+High Plains,20020115,124
+High Plains,20020122,125
+High Plains,20020129,125
+High Plains,20020205,134
+High Plains,20020212,137
+High Plains,20020219,142
+High Plains,20020226,155
+High Plains,20020305,157
+High Plains,20020312,169
+High Plains,20020319,169
+High Plains,20020326,178
+High Plains,20020402,191
+High Plains,20020409,195
+High Plains,20020416,211
+High Plains,20020423,223
+High Plains,20020430,224
+High Plains,20020507,237
+High Plains,20020514,225
+High Plains,20020521,212
+High Plains,20020528,216
+High Plains,20020604,215
+High Plains,20020611,215
+High Plains,20020618,232
+High Plains,20020625,236
+High Plains,20020702,265
+High Plains,20020709,265
+High Plains,20020716,266
+High Plains,20020723,295
+High Plains,20020730,313
+High Plains,20020806,320
+High Plains,20020813,308
+High Plains,20020820,303
+High Plains,20020827,298
+High Plains,20020903,290
+High Plains,20020910,280
+High Plains,20020917,275
+High Plains,20020924,272
+High Plains,20021001,283
+High Plains,20021008,266
+High Plains,20021015,274
+High Plains,20021022,274
+High Plains,20021029,269
+High Plains,20021105,263
+High Plains,20021112,263
+High Plains,20021119,263
+High Plains,20021126,262
+High Plains,20021203,262
+High Plains,20021210,277
+High Plains,20021217,280
+High Plains,20021224,279
+High Plains,20021231,282
+High Plains,20030107,294
+High Plains,20030114,302
+High Plains,20030121,304
+High Plains,20030128,306
+High Plains,20030204,304
+High Plains,20030211,306
+High Plains,20030218,300
+High Plains,20030225,298
+High Plains,20030304,305
+High Plains,20030311,308
+High Plains,20030318,310
+High Plains,20030325,285
+High Plains,20030401,272
+High Plains,20030408,267
+High Plains,20030415,269
+High Plains,20030422,263
+High Plains,20030429,262
+High Plains,20030506,234
+High Plains,20030513,205
+High Plains,20030520,190
+High Plains,20030527,191
+High Plains,20030603,186
+High Plains,20030610,172
+High Plains,20030617,165
+High Plains,20030624,149
+High Plains,20030701,130
+High Plains,20030708,139
+High Plains,20030715,169
+High Plains,20030722,206
+High Plains,20030729,225
+High Plains,20030805,232
+High Plains,20030812,237
+High Plains,20030819,256
+High Plains,20030826,280
+High Plains,20030902,265
+High Plains,20030909,267
+High Plains,20030916,239
+High Plains,20030923,238
+High Plains,20030930,238
+High Plains,20031007,237
+High Plains,20031014,242
+High Plains,20031021,241
+High Plains,20031028,244
+High Plains,20031104,242
+High Plains,20031111,242
+High Plains,20031118,241
+High Plains,20031125,242
+High Plains,20031202,241
+High Plains,20031209,245
+High Plains,20031216,246
+High Plains,20031223,245
+High Plains,20031230,245
+High Plains,20040106,240
+High Plains,20040113,239
+High Plains,20040120,242
+High Plains,20040127,242
+High Plains,20040203,243
+High Plains,20040210,242
+High Plains,20040217,244
+High Plains,20040224,245
+High Plains,20040302,236
+High Plains,20040309,229
+High Plains,20040316,227
+High Plains,20040323,233
+High Plains,20040330,230
+High Plains,20040406,230
+High Plains,20040413,229
+High Plains,20040420,232
+High Plains,20040427,229
+High Plains,20040504,234
+High Plains,20040511,235
+High Plains,20040518,224
+High Plains,20040525,225
+High Plains,20040601,218
+High Plains,20040608,221
+High Plains,20040615,219
+High Plains,20040622,201
+High Plains,20040629,194
+High Plains,20040706,190
+High Plains,20040713,190
+High Plains,20040720,192
+High Plains,20040727,180
+High Plains,20040803,190
+High Plains,20040810,181
+High Plains,20040817,184
+High Plains,20040824,172
+High Plains,20040831,170
+High Plains,20040907,161
+High Plains,20040914,167
+High Plains,20040921,166
+High Plains,20040928,155
+High Plains,20041005,157
+High Plains,20041012,155
+High Plains,20041019,154
+High Plains,20041026,152
+High Plains,20041102,150
+High Plains,20041109,150
+High Plains,20041116,149
+High Plains,20041123,149
+High Plains,20041130,144
+High Plains,20041207,144
+High Plains,20041214,144
+High Plains,20041221,147
+High Plains,20041228,149
+High Plains,20050104,149
+High Plains,20050111,149
+High Plains,20050118,149
+High Plains,20050125,152
+High Plains,20050201,152
+High Plains,20050208,150
+High Plains,20050215,156
+High Plains,20050222,156
+High Plains,20050301,159
+High Plains,20050308,160
+High Plains,20050315,160
+High Plains,20050322,160
+High Plains,20050329,158
+High Plains,20050405,152
+High Plains,20050412,140
+High Plains,20050419,142
+High Plains,20050426,136
+High Plains,20050503,141
+High Plains,20050510,137
+High Plains,20050517,111
+High Plains,20050524,113
+High Plains,20050531,114
+High Plains,20050607,100
+High Plains,20050614,79
+High Plains,20050621,79
+High Plains,20050628,78
+High Plains,20050705,75
+High Plains,20050712,76
+High Plains,20050719,94
+High Plains,20050726,110
+High Plains,20050802,111
+High Plains,20050809,112
+High Plains,20050816,92
+High Plains,20050823,85
+High Plains,20050830,84
+High Plains,20050906,87
+High Plains,20050913,88
+High Plains,20050920,88
+High Plains,20050927,86
+High Plains,20051004,88
+High Plains,20051011,70
+High Plains,20051018,69
+High Plains,20051025,70
+High Plains,20051101,74
+High Plains,20051108,73
+High Plains,20051115,74
+High Plains,20051122,74
+High Plains,20051129,67
+High Plains,20051206,71
+High Plains,20051213,72
+High Plains,20051220,73
+High Plains,20051227,73
+High Plains,20060103,74
+High Plains,20060110,75
+High Plains,20060117,83
+High Plains,20060124,86
+High Plains,20060131,98
+High Plains,20060207,100
+High Plains,20060214,102
+High Plains,20060221,101
+High Plains,20060228,107
+High Plains,20060307,110
+High Plains,20060314,114
+High Plains,20060321,120
+High Plains,20060328,119
+High Plains,20060404,112
+High Plains,20060411,109
+High Plains,20060418,113
+High Plains,20060425,116
+High Plains,20060502,115
+High Plains,20060509,112
+High Plains,20060516,116
+High Plains,20060523,128
+High Plains,20060530,145
+High Plains,20060606,155
+High Plains,20060613,183
+High Plains,20060620,183
+High Plains,20060627,189
+High Plains,20060704,199
+High Plains,20060711,196
+High Plains,20060718,239
+High Plains,20060725,252
+High Plains,20060801,265
+High Plains,20060808,279
+High Plains,20060815,274
+High Plains,20060822,260
+High Plains,20060829,241
+High Plains,20060905,237
+High Plains,20060912,233
+High Plains,20060919,221
+High Plains,20060926,199
+High Plains,20061003,202
+High Plains,20061010,195
+High Plains,20061017,195
+High Plains,20061024,195
+High Plains,20061031,186
+High Plains,20061107,188
+High Plains,20061114,193
+High Plains,20061121,193
+High Plains,20061128,195
+High Plains,20061205,199
+High Plains,20061212,200
+High Plains,20061219,199
+High Plains,20061226,186
+High Plains,20070102,174
+High Plains,20070109,181
+High Plains,20070116,177
+High Plains,20070123,173
+High Plains,20070130,173
+High Plains,20070206,173
+High Plains,20070213,173
+High Plains,20070220,171
+High Plains,20070227,152
+High Plains,20070306,144
+High Plains,20070313,144
+High Plains,20070320,147
+High Plains,20070327,149
+High Plains,20070403,111
+High Plains,20070410,111
+High Plains,20070417,111
+High Plains,20070424,102
+High Plains,20070501,97
+High Plains,20070508,80
+High Plains,20070515,81
+High Plains,20070522,78
+High Plains,20070529,74
+High Plains,20070605,69
+High Plains,20070612,61
+High Plains,20070619,60
+High Plains,20070626,59
+High Plains,20070703,66
+High Plains,20070710,77
+High Plains,20070717,84
+High Plains,20070724,97
+High Plains,20070731,106
+High Plains,20070807,104
+High Plains,20070814,102
+High Plains,20070821,97
+High Plains,20070828,82
+High Plains,20070904,80
+High Plains,20070911,79
+High Plains,20070918,80
+High Plains,20070925,77
+High Plains,20071002,79
+High Plains,20071009,79
+High Plains,20071016,78
+High Plains,20071023,77
+High Plains,20071030,78
+High Plains,20071106,82
+High Plains,20071113,87
+High Plains,20071120,88
+High Plains,20071127,91
+High Plains,20071204,98
+High Plains,20071211,97
+High Plains,20071218,95
+High Plains,20071225,95
+High Plains,20080101,95
+High Plains,20080108,96
+High Plains,20080115,98
+High Plains,20080122,98
+High Plains,20080129,101
+High Plains,20080205,105
+High Plains,20080212,104
+High Plains,20080219,104
+High Plains,20080226,104
+High Plains,20080304,104
+High Plains,20080311,106
+High Plains,20080318,107
+High Plains,20080325,106
+High Plains,20080401,104
+High Plains,20080408,105
+High Plains,20080415,104
+High Plains,20080422,106
+High Plains,20080429,107
+High Plains,20080506,98
+High Plains,20080513,94
+High Plains,20080520,104
+High Plains,20080527,78
+High Plains,20080603,76
+High Plains,20080610,69
+High Plains,20080617,66
+High Plains,20080624,60
+High Plains,20080701,60
+High Plains,20080708,61
+High Plains,20080715,71
+High Plains,20080722,88
+High Plains,20080729,91
+High Plains,20080805,98
+High Plains,20080812,88
+High Plains,20080819,71
+High Plains,20080826,75
+High Plains,20080902,70
+High Plains,20080909,65
+High Plains,20080916,60
+High Plains,20080923,58
+High Plains,20080930,57
+High Plains,20081007,56
+High Plains,20081014,40
+High Plains,20081021,39
+High Plains,20081028,39
+High Plains,20081104,39
+High Plains,20081111,38
+High Plains,20081118,40
+High Plains,20081125,40
+High Plains,20081202,46
+High Plains,20081209,46
+High Plains,20081216,47
+High Plains,20081223,47
+High Plains,20081230,43
+High Plains,20090106,42
+High Plains,20090113,41
+High Plains,20090120,40
+High Plains,20090127,42
+High Plains,20090203,39
+High Plains,20090210,38
+High Plains,20090217,38
+High Plains,20090224,40
+High Plains,20090303,50
+High Plains,20090310,49
+High Plains,20090317,51
+High Plains,20090324,53
+High Plains,20090331,48
+High Plains,20090407,40
+High Plains,20090414,36
+High Plains,20090421,23
+High Plains,20090428,26
+High Plains,20090505,20
+High Plains,20090512,16
+High Plains,20090519,20
+High Plains,20090526,12
+High Plains,20090602,23
+High Plains,20090609,21
+High Plains,20090616,18
+High Plains,20090623,11
+High Plains,20090630,10
+High Plains,20090707,10
+High Plains,20090714,9
+High Plains,20090721,10
+High Plains,20090728,11
+High Plains,20090804,15
+High Plains,20090811,17
+High Plains,20090818,13
+High Plains,20090825,14
+High Plains,20090901,13
+High Plains,20090908,19
+High Plains,20090915,15
+High Plains,20090922,12
+High Plains,20090929,13
+High Plains,20091006,12
+High Plains,20091013,13
+High Plains,20091020,11
+High Plains,20091027,6
+High Plains,20091103,6
+High Plains,20091110,7
+High Plains,20091117,7
+High Plains,20091124,8
+High Plains,20091201,8
+High Plains,20091208,10
+High Plains,20091215,11
+High Plains,20091222,11
+High Plains,20091229,12
+High Plains,20100105,12
+High Plains,20100112,16
+High Plains,20100119,17
+High Plains,20100126,16
+High Plains,20100202,18
+High Plains,20100209,17
+High Plains,20100216,25
+High Plains,20100223,25
+High Plains,20100302,25
+High Plains,20100309,27
+High Plains,20100316,29
+High Plains,20100323,29
+High Plains,20100330,29
+High Plains,20100406,29
+High Plains,20100413,30
+High Plains,20100420,30
+High Plains,20100427,30
+High Plains,20100504,30
+High Plains,20100511,27
+High Plains,20100518,23
+High Plains,20100525,19
+High Plains,20100601,19
+High Plains,20100608,19
+High Plains,20100615,18
+High Plains,20100622,19
+High Plains,20100629,19
+High Plains,20100706,12
+High Plains,20100713,12
+High Plains,20100720,12
+High Plains,20100727,12
+High Plains,20100803,11
+High Plains,20100810,11
+High Plains,20100817,14
+High Plains,20100824,14
+High Plains,20100831,18
+High Plains,20100907,18
+High Plains,20100914,20
+High Plains,20100921,28
+High Plains,20100928,39
+High Plains,20101005,39
+High Plains,20101012,38
+High Plains,20101019,41
+High Plains,20101026,44
+High Plains,20101102,44
+High Plains,20101109,52
+High Plains,20101116,50
+High Plains,20101123,45
+High Plains,20101130,49
+High Plains,20101207,49
+High Plains,20101214,55
+High Plains,20101221,59
+High Plains,20101228,62
+High Plains,20110104,59
+High Plains,20110111,61
+High Plains,20110118,61
+High Plains,20110125,61
+High Plains,20110201,61
+High Plains,20110208,59
+High Plains,20110215,59
+High Plains,20110222,59
+High Plains,20110301,62
+High Plains,20110308,61
+High Plains,20110315,58
+High Plains,20110322,64
+High Plains,20110329,67
+High Plains,20110405,71
+High Plains,20110412,71
+High Plains,20110419,66
+High Plains,20110426,61
+High Plains,20110503,66
+High Plains,20110510,73
+High Plains,20110517,68
+High Plains,20110524,54
+High Plains,20110531,51
+High Plains,20110607,52
+High Plains,20110614,53
+High Plains,20110621,51
+High Plains,20110628,56
+High Plains,20110705,58
+High Plains,20110712,54
+High Plains,20110719,54
+High Plains,20110726,57
+High Plains,20110802,63
+High Plains,20110809,61
+High Plains,20110816,62
+High Plains,20110823,62
+High Plains,20110830,64
+High Plains,20110906,67
+High Plains,20110913,75
+High Plains,20110920,68
+High Plains,20110927,68
+High Plains,20111004,78
+High Plains,20111011,66
+High Plains,20111018,68
+High Plains,20111025,70
+High Plains,20111101,79
+High Plains,20111108,79
+High Plains,20111115,80
+High Plains,20111122,81
+High Plains,20111129,76
+High Plains,20111206,67
+High Plains,20111213,66
+High Plains,20111220,68
+High Plains,20111227,66
+High Plains,20120103,69
+High Plains,20120110,75
+High Plains,20120117,81
+High Plains,20120124,91
+High Plains,20120131,92
+High Plains,20120207,83
+High Plains,20120214,86
+High Plains,20120221,86
+High Plains,20120228,84
+High Plains,20120306,81
+High Plains,20120313,86
+High Plains,20120320,84
+High Plains,20120327,84
+High Plains,20120403,96
+High Plains,20120410,90
+High Plains,20120417,87
+High Plains,20120424,88
+High Plains,20120501,79
+High Plains,20120508,73
+High Plains,20120515,75
+High Plains,20120522,99
+High Plains,20120529,107
+High Plains,20120605,118
+High Plains,20120612,134
+High Plains,20120619,169
+High Plains,20120626,210
+High Plains,20120703,237
+High Plains,20120710,256
+High Plains,20120717,280
+High Plains,20120724,308
+High Plains,20120731,314
+High Plains,20120807,319
+High Plains,20120814,324
+High Plains,20120821,328
+High Plains,20120828,335
+High Plains,20120904,359
+High Plains,20120911,364
+High Plains,20120918,364
+High Plains,20120925,368
+High Plains,20121002,376
+High Plains,20121009,376
+High Plains,20121016,372
+High Plains,20121023,369
+High Plains,20121030,367
+High Plains,20121106,365
+High Plains,20121113,359
+High Plains,20121120,359
+High Plains,20121127,363
+High Plains,20121204,364
+High Plains,20121211,363
+High Plains,20121218,365
+High Plains,20121225,365
+High Plains,20130101,365
+High Plains,20130108,361
+High Plains,20130115,363
+High Plains,20130122,363
+High Plains,20130129,363
+High Plains,20130205,364
+High Plains,20130212,356
+High Plains,20130219,356
+High Plains,20130226,353
+High Plains,20130305,350
+High Plains,20130312,348
+High Plains,20130319,348
+High Plains,20130326,345
+High Plains,20130402,345
+High Plains,20130409,332
+High Plains,20130416,304
+High Plains,20130423,294
+High Plains,20130430,287
+High Plains,20130507,280
+High Plains,20130514,275
+High Plains,20130521,258
+High Plains,20130528,242
+High Plains,20130604,224
+High Plains,20130611,221
+High Plains,20130618,224
+High Plains,20130625,219
+High Plains,20130702,220
+High Plains,20130709,221
+High Plains,20130716,223
+High Plains,20130723,225
+High Plains,20130730,220
+High Plains,20130806,204
+High Plains,20130813,193
+High Plains,20130820,189
+High Plains,20130827,200
+High Plains,20130903,196
+High Plains,20130910,196
+High Plains,20130917,161
+High Plains,20130924,153
+High Plains,20131001,136
+High Plains,20131008,113
+High Plains,20131015,99
+High Plains,20131022,89
+High Plains,20131029,88
+High Plains,20131105,83
+High Plains,20131112,83
+High Plains,20131119,89
+High Plains,20131126,89
+High Plains,20131203,89
+High Plains,20131210,89
+High Plains,20131217,91
+High Plains,20131224,90
+High Plains,20131231,90
+High Plains,20140107,90
+High Plains,20140114,90
+High Plains,20140121,90
+High Plains,20140128,98
+High Plains,20140204,98
+High Plains,20140211,94
+High Plains,20140218,90
+High Plains,20140225,91
+High Plains,20140304,91
+High Plains,20140311,89
+High Plains,20140318,94
+High Plains,20140325,96
+High Plains,20140401,101
+High Plains,20140408,104
+High Plains,20140415,103
+High Plains,20140422,108
+High Plains,20140429,108
+High Plains,20140506,116
+High Plains,20140513,109
+High Plains,20140520,109
+High Plains,20140527,109
+High Plains,20140603,104
+High Plains,20140610,84
+High Plains,20140617,79
+High Plains,20140624,77
+High Plains,20140701,71
+High Plains,20140708,72
+High Plains,20140715,64
+High Plains,20140722,64
+High Plains,20140729,69
+High Plains,20140805,70
+High Plains,20140812,66
+High Plains,20140819,65
+High Plains,20140826,62
+High Plains,20140902,51
+High Plains,20140909,44
+High Plains,20140916,42
+High Plains,20140923,41
+High Plains,20140930,40
+High Plains,20141007,39
+High Plains,20141014,36
+High Plains,20141021,36
+High Plains,20141028,37
+High Plains,20141104,39
+High Plains,20141111,43
+High Plains,20141118,43
+High Plains,20141125,53
+High Plains,20141202,57
+High Plains,20141209,57
+High Plains,20141216,56
+High Plains,20141223,58
+High Plains,20141230,58
+High Plains,20150106,58
+High Plains,20150113,58
+High Plains,20150120,61
+High Plains,20150127,67
+High Plains,20150203,68
+High Plains,20150210,72
+High Plains,20150217,79
+High Plains,20150224,80
+High Plains,20150303,80
+High Plains,20150310,82
+High Plains,20150317,94
+High Plains,20150324,109
+High Plains,20150331,121
+High Plains,20150407,124
+High Plains,20150414,128
+High Plains,20150421,121
+High Plains,20150428,125
+High Plains,20150505,126
+High Plains,20150512,98
+High Plains,20150519,67
+High Plains,20150526,38
+High Plains,20150602,34
+High Plains,20150609,26
+High Plains,20150616,21
+High Plains,20150623,19
+High Plains,20150630,19
+High Plains,20150707,15
+High Plains,20150714,11
+High Plains,20150721,12
+High Plains,20150728,16
+High Plains,20150804,16
+High Plains,20150811,7
+High Plains,20150818,6
+High Plains,20150825,6
+High Plains,20150901,8
+High Plains,20150908,14
+High Plains,20150915,14
+High Plains,20150922,22
+High Plains,20150929,25
+High Plains,20151006,27
+High Plains,20151013,34
+High Plains,20151020,50
+High Plains,20151027,45
+High Plains,20151103,45
+High Plains,20151110,43
+High Plains,20151117,42
+High Plains,20151124,39
+High Plains,20151201,36
+High Plains,20151208,36
+High Plains,20151215,26
+High Plains,20151222,24
+High Plains,20151229,23
+High Plains,20160105,25
+High Plains,20160112,26
+High Plains,20160119,25
+High Plains,20160126,25
+High Plains,20160202,30
+High Plains,20160209,29
+High Plains,20160216,29
+High Plains,20160223,30
+High Plains,20160301,33
+High Plains,20160308,38
+High Plains,20160315,45
+High Plains,20160322,53
+High Plains,20160329,58
+High Plains,20160405,62
+High Plains,20160412,70
+High Plains,20160419,45
+High Plains,20160426,31
+High Plains,20160503,16
+High Plains,20160510,10
+High Plains,20160517,9
+High Plains,20160524,9
+High Plains,20160531,10
+High Plains,20160607,16
+High Plains,20160614,20
+High Plains,20160621,25
+High Plains,20160628,39
+High Plains,20160705,35
+High Plains,20160712,32
+High Plains,20160719,48
+High Plains,20160726,54
+High Plains,20160802,56
+High Plains,20160809,59
+High Plains,20160816,53
+High Plains,20160823,52
+High Plains,20160830,49
+High Plains,20160906,45
+High Plains,20160913,44
+High Plains,20160920,44
+High Plains,20160927,41
+High Plains,20161004,36
+High Plains,20161011,32
+High Plains,20161018,39
+High Plains,20161025,48
+High Plains,20161101,62
+High Plains,20161108,67
+High Plains,20161115,75
+High Plains,20161122,78
+High Plains,20161129,84
+High Plains,20161206,85
+High Plains,20161213,83
+High Plains,20161220,83
+High Plains,20161227,75
+High Plains,20170103,75
+High Plains,20170110,69
+High Plains,20170117,62
+High Plains,20170124,61
+High Plains,20170131,57
+High Plains,20170207,57
+High Plains,20170214,57
+High Plains,20170221,57
+High Plains,20170228,55
+High Plains,20170307,57
+High Plains,20170314,58
+High Plains,20170321,66
+High Plains,20170328,57
+High Plains,20170404,41
+High Plains,20170411,36
+High Plains,20170418,34
+High Plains,20170425,24
+High Plains,20170502,8
+High Plains,20170509,15
+High Plains,20170516,16
+High Plains,20170523,18
+High Plains,20170530,32
+High Plains,20170606,52
+High Plains,20170613,54
+High Plains,20170620,59
+High Plains,20170627,77
+High Plains,20170704,83
+High Plains,20170711,97
+High Plains,20170718,110
+High Plains,20170725,121
+High Plains,20170801,117
+High Plains,20170808,108
+High Plains,20170815,103
+High Plains,20170822,91
+High Plains,20170829,93
+High Plains,20170905,93
+High Plains,20170912,101
+High Plains,20170919,97
+High Plains,20170926,75
+High Plains,20171003,69
+High Plains,20171010,63
+High Plains,20171017,51
+High Plains,20171024,53
+High Plains,20171031,53
+High Plains,20171107,52
+High Plains,20171114,53
+High Plains,20171121,57
+High Plains,20171128,65
+High Plains,20171205,83
+High Plains,20171212,105
+High Plains,20171219,111
+High Plains,20171226,114
+High Plains,20180102,117
+High Plains,20180109,135
+High Plains,20180116,136
+High Plains,20180123,135
+High Plains,20180130,137
+High Plains,20180206,139
+High Plains,20180213,131
+High Plains,20180220,135
+High Plains,20180227,132
+High Plains,20180306,134
+High Plains,20180313,139
+High Plains,20180320,136
+High Plains,20180327,134
+High Plains,20180403,132
+High Plains,20180410,132
+High Plains,20180417,122
+High Plains,20180424,123
+High Plains,20180501,126
+High Plains,20180508,127
+High Plains,20180515,125
+High Plains,20180522,119
+High Plains,20180529,119
+High Plains,20180605,121
+High Plains,20180612,117
+High Plains,20180619,105
+High Plains,20180626,98
+High Plains,20180703,93
+High Plains,20180710,93
+High Plains,20180717,92
+High Plains,20180724,93
+High Plains,20180731,95
+High Plains,20180807,94
+High Plains,20180814,105
+High Plains,20180821,108
+High Plains,20180828,102
+High Plains,20180904,99
+High Plains,20180911,98
+High Plains,20180918,103
+High Plains,20180925,109
+High Plains,20181002,105
+High Plains,20181009,93
+High Plains,20181016,87
+High Plains,20181023,87
+High Plains,20181030,81
+High Plains,20181106,81
+High Plains,20181113,79
+High Plains,20181120,77
+High Plains,20181127,77
+High Plains,20181204,69
+High Plains,20181211,69
+High Plains,20181218,69
+High Plains,20181225,70
+High Plains,20190101,67
+High Plains,20190108,67
+High Plains,20190115,69
+High Plains,20190122,64
+High Plains,20190129,63
+High Plains,20190205,65
+High Plains,20190212,64
+High Plains,20190219,61
+High Plains,20190226,52
+High Plains,20190305,46
+High Plains,20190312,36
+High Plains,20190319,17
+High Plains,20190326,13
+High Plains,20190402,12
+High Plains,20190409,12
+High Plains,20190416,10
+High Plains,20190423,12
+High Plains,20190430,10
+High Plains,20190507,8
+High Plains,20190514,6
+High Plains,20190521,6
+High Plains,20190528,4
+High Plains,20190604,6
+High Plains,20190611,8
+High Plains,20190618,10
+High Plains,20190625,8
+High Plains,20190702,7
+High Plains,20190709,7
+High Plains,20190716,4
+High Plains,20190723,4
+High Plains,20190730,9
+High Plains,20190806,12
+High Plains,20190813,12
+High Plains,20190820,12
+High Plains,20190827,14
+High Plains,20190903,17
+High Plains,20190910,20
+High Plains,20190917,19
+High Plains,20190924,24
+High Plains,20191001,28
+High Plains,20191008,32
+High Plains,20191015,34
+High Plains,20191022,47
+High Plains,20191029,44
+High Plains,20191105,44
+High Plains,20191112,44
+High Plains,20191119,47
+High Plains,20191126,49
+High Plains,20191203,47
+High Plains,20191210,51
+High Plains,20191217,47
+High Plains,20191224,47
+High Plains,20191231,41
+High Plains,20200107,39
+High Plains,20200114,39
+High Plains,20200121,42
+High Plains,20200128,40
+High Plains,20200204,39
+High Plains,20200211,34
+High Plains,20200218,32
+High Plains,20200225,28
+High Plains,20200303,29
+High Plains,20200310,29
+High Plains,20200317,29
+High Plains,20200324,30
+High Plains,20200331,30
+High Plains,20200407,28
+High Plains,20200414,31
+High Plains,20200421,43
+High Plains,20200428,54
+High Plains,20200505,64
+High Plains,20200512,72
+High Plains,20200519,78
+High Plains,20200526,75
+High Plains,20200602,90
+High Plains,20200609,97
+High Plains,20200616,115
+High Plains,20200623,123
+High Plains,20200630,127
+High Plains,20200707,124
+High Plains,20200714,130
+High Plains,20200721,134
+High Plains,20200728,137
+High Plains,20200804,137
+High Plains,20200811,142
+High Plains,20200818,148
+High Plains,20200825,163
+High Plains,20200901,168
+High Plains,20200908,179
+High Plains,20200915,175
+High Plains,20200922,185
+High Plains,20200929,209
+High Plains,20201006,221
+High Plains,20201013,232
+High Plains,20201020,244
+High Plains,20201027,244
+High Plains,20201103,242
+High Plains,20201110,242
+High Plains,20201117,246
+High Plains,20201124,253
+High Plains,20201201,260
+High Plains,20201208,263
+High Plains,20201215,261
+High Plains,20201222,261
+High Plains,20201229,262
+High Plains,20210105,259
+High Plains,20210112,258
+High Plains,20210119,258
+High Plains,20210126,261
+High Plains,20210202,259
+High Plains,20210209,259
+High Plains,20210216,246
+High Plains,20210223,251
+High Plains,20210302,250
+High Plains,20210309,256
+High Plains,20210316,214
+High Plains,20210323,204
+High Plains,20210330,206
+High Plains,20210406,213
+High Plains,20210413,213
+High Plains,20210420,209
+High Plains,20210427,211
+High Plains,20210504,206
+High Plains,20210511,198
+High Plains,20210518,182
+High Plains,20210525,171
+High Plains,20210601,163
+High Plains,20210608,169
+High Plains,20210615,175
+High Plains,20210622,188
+High Plains,20210629,189
+High Plains,20210706,190
+High Plains,20210713,194
+High Plains,20210720,197
+High Plains,20210727,199
+High Plains,20210803,200
+High Plains,20210810,207
+High Plains,20210817,213
+High Plains,20210824,212
+High Plains,20210831,207
+High Plains,20210907,198
+High Plains,20210914,201
+High Plains,20210921,203
+High Plains,20210928,212
+High Plains,20211005,212
+High Plains,20211012,208
+High Plains,20211019,187
+High Plains,20211026,187
+High Plains,20211102,172
+High Plains,20211109,173
+High Plains,20211116,173
+High Plains,20211123,180
+High Plains,20211130,188
+High Plains,20211207,193
+High Plains,20211214,190
+High Plains,20211221,197
+High Plains,20211228,197
+High Plains,20220104,195
+High Plains,20220111,195
+High Plains,20220118,196
+High Plains,20220125,200
+High Plains,20220201,200
+High Plains,20220208,206
+High Plains,20220215,213
+High Plains,20220222,215
+High Plains,20220301,220
+High Plains,20220308,220
+High Plains,20220315,224
+High Plains,20220322,210
+High Plains,20220329,218
+High Plains,20220405,217
+High Plains,20220412,219
+High Plains,20220419,224
+High Plains,20220426,220
+High Plains,20220503,209
+High Plains,20220510,205
+High Plains,20220517,205
+High Plains,20220524,202
+High Plains,20220531,182
+High Plains,20220607,167
+High Plains,20220614,155
+High Plains,20220621,157
+High Plains,20220628,154
+High Plains,20220705,150
+High Plains,20220712,150
+High Plains,20220719,162
+High Plains,20220726,166
+High Plains,20220802,164
+High Plains,20220809,168
+High Plains,20220816,168
+High Plains,20220823,167
+High Plains,20220830,171
+High Plains,20220906,176
+High Plains,20220913,187
+High Plains,20220920,207
+High Plains,20220927,213
+High Plains,20221004,212
+High Plains,20221011,219
+High Plains,20221018,229
+High Plains,20221025,236
+High Plains,20221101,244
+High Plains,20221108,246
+High Plains,20221115,243
+High Plains,20221122,244
+High Plains,20221129,241
+High Plains,20221206,242
+High Plains,20221213,242
+High Plains,20221220,230
+High Plains,20221227,230
+High Plains,20230103,216
+High Plains,20230110,215
+High Plains,20230117,213
+High Plains,20230124,208
+High Plains,20230131,206
+High Plains,20230207,204
+High Plains,20230214,198
+High Plains,20230221,195
+High Plains,20230228,189
+High Plains,20230307,185
+High Plains,20230314,183
+High Plains,20230321,182
+High Plains,20230328,179
+High Plains,20230404,176
+High Plains,20230411,176
+High Plains,20230418,173
+High Plains,20230425,177
+High Plains,20230502,174
+High Plains,20230509,173
+High Plains,20230516,138
+High Plains,20230523,136
+High Plains,20230530,136
+High Plains,20230606,126
+High Plains,20230613,120
+High Plains,20230620,127
+High Plains,20230627,117
+High Plains,20230704,110
+High Plains,20230711,97
+High Plains,20230718,102
+High Plains,20230725,100
+High Plains,20230801,100
+High Plains,20230808,94
+High Plains,20230815,89
+High Plains,20230822,90
+High Plains,20230829,90
+High Plains,20230905,95
+High Plains,20230912,95
+High Plains,20230919,95
+High Plains,20230926,91
+High Plains,20231003,91
+High Plains,20231010,92
+Midwest,20000104,122
+Midwest,20000111,126
+Midwest,20000118,132
+Midwest,20000125,137
+Midwest,20000201,148
+Midwest,20000208,149
+Midwest,20000215,148
+Midwest,20000222,133
+Midwest,20000229,136
+Midwest,20000307,140
+Midwest,20000314,133
+Midwest,20000321,132
+Midwest,20000328,131
+Midwest,20000404,151
+Midwest,20000411,150
+Midwest,20000418,155
+Midwest,20000425,143
+Midwest,20000502,153
+Midwest,20000509,149
+Midwest,20000516,167
+Midwest,20000523,106
+Midwest,20000530,81
+Midwest,20000606,75
+Midwest,20000613,95
+Midwest,20000620,67
+Midwest,20000627,44
+Midwest,20000704,23
+Midwest,20000711,19
+Midwest,20000718,25
+Midwest,20000725,24
+Midwest,20000801,18
+Midwest,20000808,11
+Midwest,20000815,11
+Midwest,20000822,12
+Midwest,20000829,13
+Midwest,20000905,22
+Midwest,20000912,26
+Midwest,20000919,49
+Midwest,20000926,33
+Midwest,20001003,40
+Midwest,20001010,38
+Midwest,20001017,49
+Midwest,20001024,68
+Midwest,20001031,70
+Midwest,20001107,46
+Midwest,20001114,27
+Midwest,20001121,25
+Midwest,20001128,29
+Midwest,20001205,30
+Midwest,20001212,31
+Midwest,20001219,22
+Midwest,20001226,20
+Midwest,20010102,19
+Midwest,20010109,23
+Midwest,20010116,23
+Midwest,20010123,45
+Midwest,20010130,20
+Midwest,20010206,20
+Midwest,20010213,12
+Midwest,20010220,4
+Midwest,20010227,3
+Midwest,20010306,3
+Midwest,20010313,2
+Midwest,20010320,4
+Midwest,20010327,24
+Midwest,20010403,26
+Midwest,20010410,19
+Midwest,20010417,16
+Midwest,20010424,24
+Midwest,20010501,43
+Midwest,20010508,66
+Midwest,20010515,76
+Midwest,20010522,47
+Midwest,20010529,41
+Midwest,20010605,28
+Midwest,20010612,19
+Midwest,20010619,22
+Midwest,20010626,22
+Midwest,20010703,23
+Midwest,20010710,14
+Midwest,20010717,45
+Midwest,20010724,47
+Midwest,20010731,49
+Midwest,20010807,39
+Midwest,20010814,46
+Midwest,20010821,32
+Midwest,20010828,25
+Midwest,20010904,41
+Midwest,20010911,21
+Midwest,20010918,21
+Midwest,20010925,10
+Midwest,20011002,6
+Midwest,20011009,11
+Midwest,20011016,6
+Midwest,20011023,6
+Midwest,20011030,9
+Midwest,20011106,10
+Midwest,20011113,16
+Midwest,20011120,17
+Midwest,20011127,5
+Midwest,20011204,6
+Midwest,20011211,3
+Midwest,20011218,1
+Midwest,20011225,4
+Midwest,20020101,6
+Midwest,20020108,10
+Midwest,20020115,11
+Midwest,20020122,10
+Midwest,20020129,17
+Midwest,20020205,18
+Midwest,20020212,19
+Midwest,20020219,19
+Midwest,20020226,22
+Midwest,20020305,22
+Midwest,20020312,23
+Midwest,20020319,21
+Midwest,20020326,19
+Midwest,20020402,18
+Midwest,20020409,22
+Midwest,20020416,25
+Midwest,20020423,17
+Midwest,20020430,13
+Midwest,20020507,11
+Midwest,20020514,1
+Midwest,20020521,0
+Midwest,20020528,3
+Midwest,20020604,6
+Midwest,20020611,3
+Midwest,20020618,4
+Midwest,20020625,2
+Midwest,20020702,12
+Midwest,20020709,14
+Midwest,20020716,26
+Midwest,20020723,52
+Midwest,20020730,60
+Midwest,20020806,67
+Midwest,20020813,72
+Midwest,20020820,46
+Midwest,20020827,42
+Midwest,20020903,53
+Midwest,20020910,70
+Midwest,20020917,73
+Midwest,20020924,70
+Midwest,20021001,63
+Midwest,20021008,53
+Midwest,20021015,55
+Midwest,20021022,48
+Midwest,20021029,44
+Midwest,20021105,48
+Midwest,20021112,43
+Midwest,20021119,49
+Midwest,20021126,50
+Midwest,20021203,60
+Midwest,20021210,71
+Midwest,20021217,75
+Midwest,20021224,73
+Midwest,20021231,80
+Midwest,20030107,103
+Midwest,20030114,112
+Midwest,20030121,132
+Midwest,20030128,133
+Midwest,20030204,132
+Midwest,20030211,132
+Midwest,20030218,126
+Midwest,20030225,130
+Midwest,20030304,133
+Midwest,20030311,134
+Midwest,20030318,153
+Midwest,20030325,157
+Midwest,20030401,129
+Midwest,20030408,110
+Midwest,20030415,128
+Midwest,20030422,117
+Midwest,20030429,126
+Midwest,20030506,74
+Midwest,20030513,28
+Midwest,20030520,27
+Midwest,20030527,25
+Midwest,20030603,24
+Midwest,20030610,19
+Midwest,20030617,28
+Midwest,20030624,57
+Midwest,20030701,26
+Midwest,20030708,20
+Midwest,20030715,17
+Midwest,20030722,22
+Midwest,20030729,30
+Midwest,20030805,31
+Midwest,20030812,52
+Midwest,20030819,83
+Midwest,20030826,121
+Midwest,20030902,101
+Midwest,20030909,134
+Midwest,20030916,120
+Midwest,20030923,119
+Midwest,20030930,113
+Midwest,20031007,106
+Midwest,20031014,102
+Midwest,20031021,106
+Midwest,20031028,111
+Midwest,20031104,97
+Midwest,20031111,96
+Midwest,20031118,96
+Midwest,20031125,92
+Midwest,20031202,90
+Midwest,20031209,88
+Midwest,20031216,80
+Midwest,20031223,79
+Midwest,20031230,78
+Midwest,20040106,74
+Midwest,20040113,72
+Midwest,20040120,71
+Midwest,20040127,71
+Midwest,20040203,63
+Midwest,20040210,61
+Midwest,20040217,61
+Midwest,20040224,59
+Midwest,20040302,60
+Midwest,20040309,49
+Midwest,20040316,48
+Midwest,20040323,48
+Midwest,20040330,39
+Midwest,20040406,39
+Midwest,20040413,48
+Midwest,20040420,58
+Midwest,20040427,58
+Midwest,20040504,59
+Midwest,20040511,52
+Midwest,20040518,28
+Midwest,20040525,18
+Midwest,20040601,4
+Midwest,20040608,2
+Midwest,20040615,2
+Midwest,20040622,2
+Midwest,20040629,4
+Midwest,20040706,7
+Midwest,20040713,8
+Midwest,20040720,8
+Midwest,20040727,6
+Midwest,20040803,7
+Midwest,20040810,6
+Midwest,20040817,7
+Midwest,20040824,10
+Midwest,20040831,8
+Midwest,20040907,2
+Midwest,20040914,3
+Midwest,20040921,4
+Midwest,20040928,26
+Midwest,20041005,48
+Midwest,20041012,48
+Midwest,20041019,34
+Midwest,20041026,31
+Midwest,20041102,19
+Midwest,20041109,17
+Midwest,20041116,16
+Midwest,20041123,13
+Midwest,20041130,6
+Midwest,20041207,2
+Midwest,20041214,3
+Midwest,20041221,5
+Midwest,20041228,13
+Midwest,20050104,11
+Midwest,20050111,10
+Midwest,20050118,10
+Midwest,20050125,10
+Midwest,20050201,10
+Midwest,20050208,12
+Midwest,20050215,7
+Midwest,20050222,7
+Midwest,20050301,7
+Midwest,20050308,7
+Midwest,20050315,7
+Midwest,20050322,7
+Midwest,20050329,6
+Midwest,20050405,5
+Midwest,20050412,5
+Midwest,20050419,19
+Midwest,20050426,16
+Midwest,20050503,27
+Midwest,20050510,56
+Midwest,20050517,33
+Midwest,20050524,50
+Midwest,20050531,56
+Midwest,20050607,78
+Midwest,20050614,64
+Midwest,20050621,67
+Midwest,20050628,89
+Midwest,20050705,92
+Midwest,20050712,113
+Midwest,20050719,136
+Midwest,20050726,135
+Midwest,20050802,133
+Midwest,20050809,139
+Midwest,20050816,116
+Midwest,20050823,94
+Midwest,20050830,86
+Midwest,20050906,103
+Midwest,20050913,115
+Midwest,20050920,100
+Midwest,20050927,91
+Midwest,20051004,89
+Midwest,20051011,87
+Midwest,20051018,93
+Midwest,20051025,93
+Midwest,20051101,95
+Midwest,20051108,96
+Midwest,20051115,84
+Midwest,20051122,83
+Midwest,20051129,81
+Midwest,20051206,82
+Midwest,20051213,81
+Midwest,20051220,83
+Midwest,20051227,83
+Midwest,20060103,77
+Midwest,20060110,78
+Midwest,20060117,79
+Midwest,20060124,79
+Midwest,20060131,65
+Midwest,20060207,58
+Midwest,20060214,62
+Midwest,20060221,60
+Midwest,20060228,73
+Midwest,20060307,90
+Midwest,20060314,66
+Midwest,20060321,68
+Midwest,20060328,66
+Midwest,20060404,51
+Midwest,20060411,47
+Midwest,20060418,51
+Midwest,20060425,52
+Midwest,20060502,42
+Midwest,20060509,46
+Midwest,20060516,33
+Midwest,20060523,30
+Midwest,20060530,26
+Midwest,20060606,21
+Midwest,20060613,35
+Midwest,20060620,40
+Midwest,20060627,48
+Midwest,20060704,58
+Midwest,20060711,78
+Midwest,20060718,98
+Midwest,20060725,107
+Midwest,20060801,106
+Midwest,20060808,106
+Midwest,20060815,102
+Midwest,20060822,103
+Midwest,20060829,84
+Midwest,20060905,80
+Midwest,20060912,76
+Midwest,20060919,78
+Midwest,20060926,75
+Midwest,20061003,76
+Midwest,20061010,83
+Midwest,20061017,83
+Midwest,20061024,75
+Midwest,20061031,72
+Midwest,20061107,75
+Midwest,20061114,78
+Midwest,20061121,78
+Midwest,20061128,78
+Midwest,20061205,67
+Midwest,20061212,70
+Midwest,20061219,77
+Midwest,20061226,77
+Midwest,20070102,78
+Midwest,20070109,80
+Midwest,20070116,75
+Midwest,20070123,67
+Midwest,20070130,68
+Midwest,20070206,70
+Midwest,20070213,69
+Midwest,20070220,73
+Midwest,20070227,62
+Midwest,20070306,40
+Midwest,20070313,41
+Midwest,20070320,41
+Midwest,20070327,44
+Midwest,20070403,34
+Midwest,20070410,30
+Midwest,20070417,24
+Midwest,20070424,30
+Midwest,20070501,31
+Midwest,20070508,35
+Midwest,20070515,51
+Midwest,20070522,55
+Midwest,20070529,54
+Midwest,20070605,67
+Midwest,20070612,77
+Midwest,20070619,86
+Midwest,20070626,90
+Midwest,20070703,83
+Midwest,20070710,103
+Midwest,20070717,112
+Midwest,20070724,125
+Midwest,20070731,139
+Midwest,20070807,156
+Midwest,20070814,169
+Midwest,20070821,163
+Midwest,20070828,147
+Midwest,20070904,148
+Midwest,20070911,136
+Midwest,20070918,134
+Midwest,20070925,130
+Midwest,20071002,122
+Midwest,20071009,118
+Midwest,20071016,113
+Midwest,20071023,77
+Midwest,20071030,53
+Midwest,20071106,54
+Midwest,20071113,54
+Midwest,20071120,56
+Midwest,20071127,52
+Midwest,20071204,49
+Midwest,20071211,39
+Midwest,20071218,33
+Midwest,20071225,33
+Midwest,20080101,32
+Midwest,20080108,26
+Midwest,20080115,25
+Midwest,20080122,24
+Midwest,20080129,24
+Midwest,20080205,20
+Midwest,20080212,20
+Midwest,20080219,17
+Midwest,20080226,17
+Midwest,20080304,17
+Midwest,20080311,15
+Midwest,20080318,15
+Midwest,20080325,14
+Midwest,20080401,14
+Midwest,20080408,12
+Midwest,20080415,4
+Midwest,20080422,4
+Midwest,20080429,3
+Midwest,20080506,3
+Midwest,20080513,3
+Midwest,20080520,3
+Midwest,20080527,5
+Midwest,20080603,4
+Midwest,20080610,7
+Midwest,20080617,3
+Midwest,20080624,4
+Midwest,20080701,4
+Midwest,20080708,7
+Midwest,20080715,6
+Midwest,20080722,9
+Midwest,20080729,10
+Midwest,20080805,11
+Midwest,20080812,12
+Midwest,20080819,30
+Midwest,20080826,54
+Midwest,20080902,58
+Midwest,20080909,58
+Midwest,20080916,55
+Midwest,20080923,68
+Midwest,20080930,73
+Midwest,20081007,71
+Midwest,20081014,69
+Midwest,20081021,72
+Midwest,20081028,63
+Midwest,20081104,63
+Midwest,20081111,62
+Midwest,20081118,59
+Midwest,20081125,60
+Midwest,20081202,67
+Midwest,20081209,63
+Midwest,20081216,61
+Midwest,20081223,58
+Midwest,20081230,48
+Midwest,20090106,46
+Midwest,20090113,41
+Midwest,20090120,40
+Midwest,20090127,40
+Midwest,20090203,30
+Midwest,20090210,31
+Midwest,20090217,30
+Midwest,20090224,30
+Midwest,20090303,27
+Midwest,20090310,27
+Midwest,20090317,27
+Midwest,20090324,30
+Midwest,20090331,30
+Midwest,20090407,30
+Midwest,20090414,33
+Midwest,20090421,31
+Midwest,20090428,24
+Midwest,20090505,24
+Midwest,20090512,21
+Midwest,20090519,17
+Midwest,20090526,22
+Midwest,20090602,26
+Midwest,20090609,28
+Midwest,20090616,27
+Midwest,20090623,26
+Midwest,20090630,26
+Midwest,20090707,34
+Midwest,20090714,42
+Midwest,20090721,48
+Midwest,20090728,48
+Midwest,20090804,50
+Midwest,20090811,48
+Midwest,20090818,47
+Midwest,20090825,33
+Midwest,20090901,29
+Midwest,20090908,37
+Midwest,20090915,38
+Midwest,20090922,60
+Midwest,20090929,56
+Midwest,20091006,45
+Midwest,20091013,33
+Midwest,20091020,35
+Midwest,20091027,23
+Midwest,20091103,19
+Midwest,20091110,18
+Midwest,20091117,16
+Midwest,20091124,16
+Midwest,20091201,16
+Midwest,20091208,16
+Midwest,20091215,16
+Midwest,20091222,16
+Midwest,20091229,16
+Midwest,20100105,16
+Midwest,20100112,16
+Midwest,20100119,16
+Midwest,20100126,13
+Midwest,20100202,13
+Midwest,20100209,13
+Midwest,20100216,13
+Midwest,20100223,13
+Midwest,20100302,14
+Midwest,20100309,21
+Midwest,20100316,22
+Midwest,20100323,22
+Midwest,20100330,23
+Midwest,20100406,26
+Midwest,20100413,33
+Midwest,20100420,39
+Midwest,20100427,49
+Midwest,20100504,43
+Midwest,20100511,43
+Midwest,20100518,40
+Midwest,20100525,39
+Midwest,20100601,45
+Midwest,20100608,44
+Midwest,20100615,42
+Midwest,20100622,42
+Midwest,20100629,31
+Midwest,20100706,31
+Midwest,20100713,29
+Midwest,20100720,26
+Midwest,20100727,24
+Midwest,20100803,23
+Midwest,20100810,23
+Midwest,20100817,23
+Midwest,20100824,23
+Midwest,20100831,36
+Midwest,20100907,31
+Midwest,20100914,34
+Midwest,20100921,37
+Midwest,20100928,38
+Midwest,20101005,37
+Midwest,20101012,45
+Midwest,20101019,51
+Midwest,20101026,47
+Midwest,20101102,57
+Midwest,20101109,60
+Midwest,20101116,64
+Midwest,20101123,64
+Midwest,20101130,37
+Midwest,20101207,31
+Midwest,20101214,24
+Midwest,20101221,25
+Midwest,20101228,27
+Midwest,20110104,27
+Midwest,20110111,27
+Midwest,20110118,31
+Midwest,20110125,31
+Midwest,20110201,33
+Midwest,20110208,31
+Midwest,20110215,31
+Midwest,20110222,28
+Midwest,20110301,20
+Midwest,20110308,17
+Midwest,20110315,12
+Midwest,20110322,11
+Midwest,20110329,13
+Midwest,20110405,14
+Midwest,20110412,14
+Midwest,20110419,13
+Midwest,20110426,8
+Midwest,20110503,5
+Midwest,20110510,5
+Midwest,20110517,1
+Midwest,20110524,1
+Midwest,20110531,1
+Midwest,20110607,1
+Midwest,20110614,1
+Midwest,20110621,1
+Midwest,20110628,3
+Midwest,20110705,3
+Midwest,20110712,2
+Midwest,20110719,10
+Midwest,20110726,22
+Midwest,20110802,44
+Midwest,20110809,49
+Midwest,20110816,52
+Midwest,20110823,55
+Midwest,20110830,71
+Midwest,20110906,71
+Midwest,20110913,80
+Midwest,20110920,77
+Midwest,20110927,60
+Midwest,20111004,65
+Midwest,20111011,73
+Midwest,20111018,63
+Midwest,20111025,67
+Midwest,20111101,78
+Midwest,20111108,75
+Midwest,20111115,67
+Midwest,20111122,66
+Midwest,20111129,58
+Midwest,20111206,53
+Midwest,20111213,55
+Midwest,20111220,49
+Midwest,20111227,48
+Midwest,20120103,48
+Midwest,20120110,48
+Midwest,20120117,48
+Midwest,20120124,55
+Midwest,20120131,55
+Midwest,20120207,55
+Midwest,20120214,55
+Midwest,20120221,55
+Midwest,20120228,55
+Midwest,20120306,55
+Midwest,20120313,55
+Midwest,20120320,54
+Midwest,20120327,57
+Midwest,20120403,62
+Midwest,20120410,66
+Midwest,20120417,62
+Midwest,20120424,63
+Midwest,20120501,65
+Midwest,20120508,37
+Midwest,20120515,40
+Midwest,20120522,59
+Midwest,20120529,55
+Midwest,20120605,68
+Midwest,20120612,82
+Midwest,20120619,124
+Midwest,20120626,137
+Midwest,20120703,157
+Midwest,20120710,186
+Midwest,20120717,219
+Midwest,20120724,249
+Midwest,20120731,246
+Midwest,20120807,250
+Midwest,20120814,242
+Midwest,20120821,240
+Midwest,20120828,238
+Midwest,20120904,211
+Midwest,20120911,211
+Midwest,20120918,213
+Midwest,20120925,215
+Midwest,20121002,216
+Midwest,20121009,213
+Midwest,20121016,200
+Midwest,20121023,191
+Midwest,20121030,172
+Midwest,20121106,171
+Midwest,20121113,157
+Midwest,20121120,158
+Midwest,20121127,172
+Midwest,20121204,173
+Midwest,20121211,166
+Midwest,20121218,166
+Midwest,20121225,165
+Midwest,20130101,165
+Midwest,20130108,165
+Midwest,20130115,161
+Midwest,20130122,157
+Midwest,20130129,157
+Midwest,20130205,142
+Midwest,20130212,139
+Midwest,20130219,140
+Midwest,20130226,137
+Midwest,20130305,132
+Midwest,20130312,112
+Midwest,20130319,109
+Midwest,20130326,104
+Midwest,20130402,104
+Midwest,20130409,97
+Midwest,20130416,62
+Midwest,20130423,46
+Midwest,20130430,43
+Midwest,20130507,35
+Midwest,20130514,35
+Midwest,20130521,27
+Midwest,20130528,14
+Midwest,20130604,13
+Midwest,20130611,10
+Midwest,20130618,9
+Midwest,20130625,3
+Midwest,20130702,2
+Midwest,20130709,3
+Midwest,20130716,7
+Midwest,20130723,21
+Midwest,20130730,21
+Midwest,20130806,27
+Midwest,20130813,33
+Midwest,20130820,53
+Midwest,20130827,80
+Midwest,20130903,84
+Midwest,20130910,94
+Midwest,20130917,100
+Midwest,20130924,95
+Midwest,20131001,98
+Midwest,20131008,90
+Midwest,20131015,85
+Midwest,20131022,84
+Midwest,20131029,83
+Midwest,20131105,75
+Midwest,20131112,68
+Midwest,20131119,63
+Midwest,20131126,63
+Midwest,20131203,63
+Midwest,20131210,61
+Midwest,20131217,61
+Midwest,20131224,54
+Midwest,20131231,54
+Midwest,20140107,54
+Midwest,20140114,54
+Midwest,20140121,55
+Midwest,20140128,56
+Midwest,20140204,56
+Midwest,20140211,55
+Midwest,20140218,54
+Midwest,20140225,47
+Midwest,20140304,46
+Midwest,20140311,48
+Midwest,20140318,49
+Midwest,20140325,49
+Midwest,20140401,55
+Midwest,20140408,45
+Midwest,20140415,38
+Midwest,20140422,39
+Midwest,20140429,29
+Midwest,20140506,30
+Midwest,20140513,24
+Midwest,20140520,23
+Midwest,20140527,25
+Midwest,20140603,26
+Midwest,20140610,18
+Midwest,20140617,12
+Midwest,20140624,14
+Midwest,20140701,11
+Midwest,20140708,11
+Midwest,20140715,10
+Midwest,20140722,11
+Midwest,20140729,12
+Midwest,20140805,14
+Midwest,20140812,13
+Midwest,20140819,18
+Midwest,20140826,16
+Midwest,20140902,8
+Midwest,20140909,7
+Midwest,20140916,6
+Midwest,20140923,6
+Midwest,20140930,10
+Midwest,20141007,10
+Midwest,20141014,3
+Midwest,20141021,4
+Midwest,20141028,5
+Midwest,20141104,10
+Midwest,20141111,11
+Midwest,20141118,11
+Midwest,20141125,14
+Midwest,20141202,15
+Midwest,20141209,15
+Midwest,20141216,17
+Midwest,20141223,17
+Midwest,20141230,17
+Midwest,20150106,16
+Midwest,20150113,19
+Midwest,20150120,20
+Midwest,20150127,43
+Midwest,20150203,31
+Midwest,20150210,35
+Midwest,20150217,35
+Midwest,20150224,29
+Midwest,20150303,25
+Midwest,20150310,34
+Midwest,20150317,49
+Midwest,20150324,55
+Midwest,20150331,68
+Midwest,20150407,70
+Midwest,20150414,66
+Midwest,20150421,64
+Midwest,20150428,67
+Midwest,20150505,72
+Midwest,20150512,72
+Midwest,20150519,56
+Midwest,20150526,49
+Midwest,20150602,22
+Midwest,20150609,14
+Midwest,20150616,22
+Midwest,20150623,11
+Midwest,20150630,4
+Midwest,20150707,1
+Midwest,20150714,2
+Midwest,20150721,2
+Midwest,20150728,7
+Midwest,20150804,10
+Midwest,20150811,8
+Midwest,20150818,11
+Midwest,20150825,10
+Midwest,20150901,8
+Midwest,20150908,13
+Midwest,20150915,12
+Midwest,20150922,16
+Midwest,20150929,22
+Midwest,20151006,26
+Midwest,20151013,36
+Midwest,20151020,58
+Midwest,20151027,65
+Midwest,20151103,52
+Midwest,20151110,51
+Midwest,20151117,36
+Midwest,20151124,19
+Midwest,20151201,18
+Midwest,20151208,13
+Midwest,20151215,15
+Midwest,20151222,15
+Midwest,20151229,14
+Midwest,20160105,5
+Midwest,20160112,2
+Midwest,20160119,2
+Midwest,20160126,2
+Midwest,20160202,2
+Midwest,20160209,1
+Midwest,20160216,1
+Midwest,20160223,1
+Midwest,20160301,1
+Midwest,20160308,2
+Midwest,20160315,2
+Midwest,20160322,2
+Midwest,20160329,9
+Midwest,20160405,9
+Midwest,20160412,12
+Midwest,20160419,17
+Midwest,20160426,20
+Midwest,20160503,12
+Midwest,20160510,12
+Midwest,20160517,4
+Midwest,20160524,9
+Midwest,20160531,14
+Midwest,20160607,15
+Midwest,20160614,31
+Midwest,20160621,32
+Midwest,20160628,30
+Midwest,20160705,37
+Midwest,20160712,33
+Midwest,20160719,33
+Midwest,20160726,26
+Midwest,20160802,25
+Midwest,20160809,27
+Midwest,20160816,16
+Midwest,20160823,14
+Midwest,20160830,12
+Midwest,20160906,12
+Midwest,20160913,8
+Midwest,20160920,8
+Midwest,20160927,12
+Midwest,20161004,5
+Midwest,20161011,9
+Midwest,20161018,15
+Midwest,20161025,13
+Midwest,20161101,20
+Midwest,20161108,25
+Midwest,20161115,40
+Midwest,20161122,52
+Midwest,20161129,52
+Midwest,20161206,49
+Midwest,20161213,46
+Midwest,20161220,38
+Midwest,20161227,28
+Midwest,20170103,26
+Midwest,20170110,29
+Midwest,20170117,23
+Midwest,20170124,23
+Midwest,20170131,17
+Midwest,20170207,17
+Midwest,20170214,19
+Midwest,20170221,29
+Midwest,20170228,35
+Midwest,20170307,38
+Midwest,20170314,37
+Midwest,20170321,37
+Midwest,20170328,33
+Midwest,20170404,21
+Midwest,20170411,11
+Midwest,20170418,10
+Midwest,20170425,7
+Midwest,20170502,0
+Midwest,20170509,0
+Midwest,20170516,0
+Midwest,20170523,1
+Midwest,20170530,5
+Midwest,20170606,9
+Midwest,20170613,29
+Midwest,20170620,15
+Midwest,20170627,15
+Midwest,20170704,15
+Midwest,20170711,16
+Midwest,20170718,25
+Midwest,20170725,30
+Midwest,20170801,30
+Midwest,20170808,29
+Midwest,20170815,32
+Midwest,20170822,31
+Midwest,20170829,28
+Midwest,20170905,28
+Midwest,20170912,48
+Midwest,20170919,54
+Midwest,20170926,51
+Midwest,20171003,61
+Midwest,20171010,54
+Midwest,20171017,38
+Midwest,20171024,33
+Midwest,20171031,29
+Midwest,20171107,27
+Midwest,20171114,27
+Midwest,20171121,27
+Midwest,20171128,28
+Midwest,20171205,31
+Midwest,20171212,38
+Midwest,20171219,47
+Midwest,20171226,42
+Midwest,20180102,43
+Midwest,20180109,43
+Midwest,20180116,47
+Midwest,20180123,49
+Midwest,20180130,51
+Midwest,20180206,52
+Midwest,20180213,52
+Midwest,20180220,45
+Midwest,20180227,24
+Midwest,20180306,21
+Midwest,20180313,21
+Midwest,20180320,17
+Midwest,20180327,19
+Midwest,20180403,16
+Midwest,20180410,16
+Midwest,20180417,10
+Midwest,20180424,11
+Midwest,20180501,15
+Midwest,20180508,25
+Midwest,20180515,30
+Midwest,20180522,29
+Midwest,20180529,28
+Midwest,20180605,27
+Midwest,20180612,30
+Midwest,20180619,23
+Midwest,20180626,26
+Midwest,20180703,26
+Midwest,20180710,33
+Midwest,20180717,37
+Midwest,20180724,54
+Midwest,20180731,57
+Midwest,20180807,63
+Midwest,20180814,76
+Midwest,20180821,71
+Midwest,20180828,64
+Midwest,20180904,44
+Midwest,20180911,31
+Midwest,20180918,31
+Midwest,20180925,29
+Midwest,20181002,27
+Midwest,20181009,12
+Midwest,20181016,7
+Midwest,20181023,7
+Midwest,20181030,6
+Midwest,20181106,2
+Midwest,20181113,2
+Midwest,20181120,2
+Midwest,20181127,3
+Midwest,20181204,2
+Midwest,20181211,2
+Midwest,20181218,2
+Midwest,20181225,3
+Midwest,20190101,1
+Midwest,20190108,1
+Midwest,20190115,0
+Midwest,20190122,0
+Midwest,20190129,0
+Midwest,20190205,0
+Midwest,20190212,0
+Midwest,20190219,0
+Midwest,20190226,0
+Midwest,20190305,0
+Midwest,20190312,0
+Midwest,20190319,0
+Midwest,20190326,0
+Midwest,20190402,0
+Midwest,20190409,0
+Midwest,20190416,0
+Midwest,20190423,0
+Midwest,20190430,0
+Midwest,20190507,0
+Midwest,20190514,0
+Midwest,20190521,1
+Midwest,20190528,4
+Midwest,20190604,4
+Midwest,20190611,2
+Midwest,20190618,3
+Midwest,20190625,3
+Midwest,20190702,4
+Midwest,20190709,5
+Midwest,20190716,2
+Midwest,20190723,5
+Midwest,20190730,8
+Midwest,20190806,16
+Midwest,20190813,24
+Midwest,20190820,29
+Midwest,20190827,27
+Midwest,20190903,31
+Midwest,20190910,31
+Midwest,20190917,28
+Midwest,20190924,35
+Midwest,20191001,43
+Midwest,20191008,36
+Midwest,20191015,35
+Midwest,20191022,24
+Midwest,20191029,16
+Midwest,20191105,4
+Midwest,20191112,1
+Midwest,20191119,1
+Midwest,20191126,1
+Midwest,20191203,0
+Midwest,20191210,0
+Midwest,20191217,0
+Midwest,20191224,1
+Midwest,20191231,0
+Midwest,20200107,0
+Midwest,20200114,0
+Midwest,20200121,0
+Midwest,20200128,0
+Midwest,20200204,0
+Midwest,20200211,0
+Midwest,20200218,0
+Midwest,20200225,0
+Midwest,20200303,0
+Midwest,20200310,0
+Midwest,20200317,0
+Midwest,20200324,0
+Midwest,20200331,0
+Midwest,20200407,0
+Midwest,20200414,0
+Midwest,20200421,2
+Midwest,20200428,1
+Midwest,20200505,1
+Midwest,20200512,8
+Midwest,20200519,13
+Midwest,20200526,13
+Midwest,20200602,13
+Midwest,20200609,12
+Midwest,20200616,23
+Midwest,20200623,27
+Midwest,20200630,27
+Midwest,20200707,35
+Midwest,20200714,46
+Midwest,20200721,49
+Midwest,20200728,50
+Midwest,20200804,44
+Midwest,20200811,37
+Midwest,20200818,40
+Midwest,20200825,56
+Midwest,20200901,59
+Midwest,20200908,54
+Midwest,20200915,44
+Midwest,20200922,46
+Midwest,20200929,56
+Midwest,20201006,62
+Midwest,20201013,68
+Midwest,20201020,68
+Midwest,20201027,52
+Midwest,20201103,48
+Midwest,20201110,51
+Midwest,20201117,46
+Midwest,20201124,45
+Midwest,20201201,48
+Midwest,20201208,51
+Midwest,20201215,54
+Midwest,20201222,56
+Midwest,20201229,59
+Midwest,20210105,51
+Midwest,20210112,54
+Midwest,20210119,57
+Midwest,20210126,53
+Midwest,20210202,50
+Midwest,20210209,49
+Midwest,20210216,53
+Midwest,20210223,53
+Midwest,20210302,53
+Midwest,20210309,66
+Midwest,20210316,64
+Midwest,20210323,66
+Midwest,20210330,60
+Midwest,20210406,60
+Midwest,20210413,39
+Midwest,20210420,45
+Midwest,20210427,68
+Midwest,20210504,67
+Midwest,20210511,52
+Midwest,20210518,59
+Midwest,20210525,62
+Midwest,20210601,62
+Midwest,20210608,89
+Midwest,20210615,100
+Midwest,20210622,102
+Midwest,20210629,86
+Midwest,20210706,89
+Midwest,20210713,83
+Midwest,20210720,82
+Midwest,20210727,82
+Midwest,20210803,85
+Midwest,20210810,90
+Midwest,20210817,95
+Midwest,20210824,101
+Midwest,20210831,83
+Midwest,20210907,79
+Midwest,20210914,86
+Midwest,20210921,82
+Midwest,20210928,82
+Midwest,20211005,80
+Midwest,20211012,71
+Midwest,20211019,67
+Midwest,20211026,64
+Midwest,20211102,62
+Midwest,20211109,63
+Midwest,20211116,57
+Midwest,20211123,58
+Midwest,20211130,61
+Midwest,20211207,62
+Midwest,20211214,64
+Midwest,20211221,60
+Midwest,20211228,58
+Midwest,20220104,54
+Midwest,20220111,55
+Midwest,20220118,55
+Midwest,20220125,57
+Midwest,20220201,62
+Midwest,20220208,65
+Midwest,20220215,71
+Midwest,20220222,66
+Midwest,20220301,67
+Midwest,20220308,63
+Midwest,20220315,62
+Midwest,20220322,58
+Midwest,20220329,40
+Midwest,20220405,34
+Midwest,20220412,28
+Midwest,20220419,25
+Midwest,20220426,14
+Midwest,20220503,13
+Midwest,20220510,10
+Midwest,20220517,10
+Midwest,20220524,12
+Midwest,20220531,11
+Midwest,20220607,10
+Midwest,20220614,11
+Midwest,20220621,28
+Midwest,20220628,52
+Midwest,20220705,68
+Midwest,20220712,62
+Midwest,20220719,67
+Midwest,20220726,67
+Midwest,20220802,66
+Midwest,20220809,55
+Midwest,20220816,54
+Midwest,20220823,47
+Midwest,20220830,42
+Midwest,20220906,42
+Midwest,20220913,47
+Midwest,20220920,57
+Midwest,20220927,74
+Midwest,20221004,101
+Midwest,20221011,122
+Midwest,20221018,141
+Midwest,20221025,154
+Midwest,20221101,152
+Midwest,20221108,143
+Midwest,20221115,135
+Midwest,20221122,137
+Midwest,20221129,132
+Midwest,20221206,130
+Midwest,20221213,123
+Midwest,20221220,108
+Midwest,20221227,113
+Midwest,20230103,93
+Midwest,20230110,75
+Midwest,20230117,75
+Midwest,20230124,69
+Midwest,20230131,65
+Midwest,20230207,61
+Midwest,20230214,53
+Midwest,20230221,47
+Midwest,20230228,35
+Midwest,20230307,31
+Midwest,20230314,26
+Midwest,20230321,25
+Midwest,20230328,25
+Midwest,20230404,25
+Midwest,20230411,24
+Midwest,20230418,24
+Midwest,20230425,25
+Midwest,20230502,39
+Midwest,20230509,43
+Midwest,20230516,32
+Midwest,20230523,38
+Midwest,20230530,86
+Midwest,20230606,123
+Midwest,20230613,147
+Midwest,20230620,170
+Midwest,20230627,184
+Midwest,20230704,180
+Midwest,20230711,184
+Midwest,20230718,163
+Midwest,20230725,164
+Midwest,20230801,156
+Midwest,20230808,141
+Midwest,20230815,124
+Midwest,20230822,122
+Midwest,20230829,128
+Midwest,20230905,146
+Midwest,20230912,157
+Midwest,20230919,172
+Midwest,20230926,168
+Midwest,20231003,171
+Midwest,20231010,168
+Northeast,20000104,10
+Northeast,20000111,19
+Northeast,20000118,19
+Northeast,20000125,17
+Northeast,20000201,15
+Northeast,20000208,15
+Northeast,20000215,15
+Northeast,20000222,0
+Northeast,20000229,0
+Northeast,20000307,5
+Northeast,20000314,5
+Northeast,20000321,7
+Northeast,20000328,10
+Northeast,20000404,11
+Northeast,20000411,7
+Northeast,20000418,10
+Northeast,20000425,6
+Northeast,20000502,6
+Northeast,20000509,6
+Northeast,20000516,6
+Northeast,20000523,6
+Northeast,20000530,1
+Northeast,20000606,1
+Northeast,20000613,2
+Northeast,20000620,2
+Northeast,20000627,4
+Northeast,20000704,1
+Northeast,20000711,0
+Northeast,20000718,0
+Northeast,20000725,0
+Northeast,20000801,0
+Northeast,20000808,0
+Northeast,20000815,0
+Northeast,20000822,0
+Northeast,20000829,0
+Northeast,20000905,0
+Northeast,20000912,0
+Northeast,20000919,0
+Northeast,20000926,0
+Northeast,20001003,11
+Northeast,20001010,8
+Northeast,20001017,2
+Northeast,20001024,1
+Northeast,20001031,18
+Northeast,20001107,36
+Northeast,20001114,7
+Northeast,20001121,5
+Northeast,20001128,20
+Northeast,20001205,25
+Northeast,20001212,31
+Northeast,20001219,12
+Northeast,20001226,12
+Northeast,20010102,12
+Northeast,20010109,12
+Northeast,20010116,14
+Northeast,20010123,32
+Northeast,20010130,31
+Northeast,20010206,24
+Northeast,20010213,28
+Northeast,20010220,15
+Northeast,20010227,17
+Northeast,20010306,15
+Northeast,20010313,15
+Northeast,20010320,13
+Northeast,20010327,21
+Northeast,20010403,18
+Northeast,20010410,10
+Northeast,20010417,9
+Northeast,20010424,5
+Northeast,20010501,8
+Northeast,20010508,95
+Northeast,20010515,125
+Northeast,20010522,149
+Northeast,20010529,119
+Northeast,20010605,47
+Northeast,20010612,38
+Northeast,20010619,29
+Northeast,20010626,22
+Northeast,20010703,29
+Northeast,20010710,33
+Northeast,20010717,26
+Northeast,20010724,33
+Northeast,20010731,52
+Northeast,20010807,73
+Northeast,20010814,94
+Northeast,20010821,92
+Northeast,20010828,114
+Northeast,20010904,99
+Northeast,20010911,117
+Northeast,20010918,123
+Northeast,20010925,98
+Northeast,20011002,71
+Northeast,20011009,82
+Northeast,20011016,82
+Northeast,20011023,109
+Northeast,20011030,125
+Northeast,20011106,141
+Northeast,20011113,149
+Northeast,20011120,162
+Northeast,20011127,162
+Northeast,20011204,166
+Northeast,20011211,155
+Northeast,20011218,171
+Northeast,20011225,165
+Northeast,20020101,165
+Northeast,20020108,169
+Northeast,20020115,162
+Northeast,20020122,160
+Northeast,20020129,182
+Northeast,20020205,176
+Northeast,20020212,192
+Northeast,20020219,209
+Northeast,20020226,214
+Northeast,20020305,216
+Northeast,20020312,228
+Northeast,20020319,227
+Northeast,20020326,223
+Northeast,20020402,185
+Northeast,20020409,187
+Northeast,20020416,162
+Northeast,20020423,152
+Northeast,20020430,132
+Northeast,20020507,127
+Northeast,20020514,105
+Northeast,20020521,74
+Northeast,20020528,72
+Northeast,20020604,62
+Northeast,20020611,56
+Northeast,20020618,48
+Northeast,20020625,49
+Northeast,20020702,48
+Northeast,20020709,61
+Northeast,20020716,69
+Northeast,20020723,113
+Northeast,20020730,115
+Northeast,20020806,111
+Northeast,20020813,117
+Northeast,20020820,128
+Northeast,20020827,123
+Northeast,20020903,148
+Northeast,20020910,197
+Northeast,20020917,190
+Northeast,20020924,183
+Northeast,20021001,116
+Northeast,20021008,125
+Northeast,20021015,108
+Northeast,20021022,69
+Northeast,20021029,64
+Northeast,20021105,50
+Northeast,20021112,47
+Northeast,20021119,33
+Northeast,20021126,17
+Northeast,20021203,16
+Northeast,20021210,18
+Northeast,20021217,13
+Northeast,20021224,12
+Northeast,20021231,11
+Northeast,20030107,12
+Northeast,20030114,18
+Northeast,20030121,17
+Northeast,20030128,17
+Northeast,20030204,17
+Northeast,20030211,17
+Northeast,20030218,17
+Northeast,20030225,17
+Northeast,20030304,29
+Northeast,20030311,29
+Northeast,20030318,34
+Northeast,20030325,33
+Northeast,20030401,30
+Northeast,20030408,25
+Northeast,20030415,24
+Northeast,20030422,27
+Northeast,20030429,34
+Northeast,20030506,34
+Northeast,20030513,29
+Northeast,20030520,32
+Northeast,20030527,27
+Northeast,20030603,24
+Northeast,20030610,22
+Northeast,20030617,15
+Northeast,20030624,16
+Northeast,20030701,20
+Northeast,20030708,26
+Northeast,20030715,26
+Northeast,20030722,20
+Northeast,20030729,11
+Northeast,20030805,10
+Northeast,20030812,4
+Northeast,20030819,4
+Northeast,20030826,5
+Northeast,20030902,5
+Northeast,20030909,5
+Northeast,20030916,16
+Northeast,20030923,19
+Northeast,20030930,15
+Northeast,20031007,0
+Northeast,20031014,0
+Northeast,20031021,0
+Northeast,20031028,0
+Northeast,20031104,0
+Northeast,20031111,0
+Northeast,20031118,0
+Northeast,20031125,0
+Northeast,20031202,0
+Northeast,20031209,0
+Northeast,20031216,0
+Northeast,20031223,0
+Northeast,20031230,0
+Northeast,20040106,0
+Northeast,20040113,0
+Northeast,20040120,0
+Northeast,20040127,0
+Northeast,20040203,0
+Northeast,20040210,0
+Northeast,20040217,0
+Northeast,20040224,0
+Northeast,20040302,0
+Northeast,20040309,13
+Northeast,20040316,13
+Northeast,20040323,13
+Northeast,20040330,14
+Northeast,20040406,0
+Northeast,20040413,0
+Northeast,20040420,0
+Northeast,20040427,0
+Northeast,20040504,0
+Northeast,20040511,0
+Northeast,20040518,0
+Northeast,20040525,0
+Northeast,20040601,0
+Northeast,20040608,0
+Northeast,20040615,0
+Northeast,20040622,0
+Northeast,20040629,5
+Northeast,20040706,5
+Northeast,20040713,11
+Northeast,20040720,7
+Northeast,20040727,6
+Northeast,20040803,6
+Northeast,20040810,0
+Northeast,20040817,0
+Northeast,20040824,0
+Northeast,20040831,0
+Northeast,20040907,0
+Northeast,20040914,0
+Northeast,20040921,0
+Northeast,20040928,0
+Northeast,20041005,0
+Northeast,20041012,0
+Northeast,20041019,0
+Northeast,20041026,0
+Northeast,20041102,0
+Northeast,20041109,0
+Northeast,20041116,22
+Northeast,20041123,22
+Northeast,20041130,0
+Northeast,20041207,0
+Northeast,20041214,0
+Northeast,20041221,0
+Northeast,20041228,0
+Northeast,20050104,0
+Northeast,20050111,0
+Northeast,20050118,0
+Northeast,20050125,0
+Northeast,20050201,0
+Northeast,20050208,0
+Northeast,20050215,0
+Northeast,20050222,0
+Northeast,20050301,0
+Northeast,20050308,0
+Northeast,20050315,0
+Northeast,20050322,0
+Northeast,20050329,0
+Northeast,20050405,0
+Northeast,20050412,0
+Northeast,20050419,25
+Northeast,20050426,0
+Northeast,20050503,0
+Northeast,20050510,0
+Northeast,20050517,2
+Northeast,20050524,5
+Northeast,20050531,20
+Northeast,20050607,20
+Northeast,20050614,17
+Northeast,20050621,15
+Northeast,20050628,39
+Northeast,20050705,31
+Northeast,20050712,5
+Northeast,20050719,13
+Northeast,20050726,13
+Northeast,20050802,18
+Northeast,20050809,35
+Northeast,20050816,48
+Northeast,20050823,47
+Northeast,20050830,42
+Northeast,20050906,38
+Northeast,20050913,54
+Northeast,20050920,67
+Northeast,20050927,72
+Northeast,20051004,80
+Northeast,20051011,18
+Northeast,20051018,16
+Northeast,20051025,14
+Northeast,20051101,11
+Northeast,20051108,11
+Northeast,20051115,2
+Northeast,20051122,2
+Northeast,20051129,2
+Northeast,20051206,2
+Northeast,20051213,2
+Northeast,20051220,2
+Northeast,20051227,2
+Northeast,20060103,1
+Northeast,20060110,1
+Northeast,20060117,1
+Northeast,20060124,0
+Northeast,20060131,0
+Northeast,20060207,0
+Northeast,20060214,0
+Northeast,20060221,0
+Northeast,20060228,7
+Northeast,20060307,9
+Northeast,20060314,15
+Northeast,20060321,43
+Northeast,20060328,47
+Northeast,20060404,62
+Northeast,20060411,48
+Northeast,20060418,50
+Northeast,20060425,29
+Northeast,20060502,31
+Northeast,20060509,59
+Northeast,20060516,39
+Northeast,20060523,26
+Northeast,20060530,31
+Northeast,20060606,19
+Northeast,20060613,23
+Northeast,20060620,22
+Northeast,20060627,4
+Northeast,20060704,0
+Northeast,20060711,0
+Northeast,20060718,0
+Northeast,20060725,0
+Northeast,20060801,0
+Northeast,20060808,0
+Northeast,20060815,5
+Northeast,20060822,16
+Northeast,20060829,13
+Northeast,20060905,2
+Northeast,20060912,0
+Northeast,20060919,0
+Northeast,20060926,0
+Northeast,20061003,0
+Northeast,20061010,0
+Northeast,20061017,0
+Northeast,20061024,0
+Northeast,20061031,0
+Northeast,20061107,0
+Northeast,20061114,0
+Northeast,20061121,0
+Northeast,20061128,0
+Northeast,20061205,0
+Northeast,20061212,0
+Northeast,20061219,10
+Northeast,20061226,10
+Northeast,20070102,13
+Northeast,20070109,9
+Northeast,20070116,6
+Northeast,20070123,5
+Northeast,20070130,9
+Northeast,20070206,12
+Northeast,20070213,12
+Northeast,20070220,12
+Northeast,20070227,6
+Northeast,20070306,1
+Northeast,20070313,7
+Northeast,20070320,2
+Northeast,20070327,2
+Northeast,20070403,1
+Northeast,20070410,1
+Northeast,20070417,0
+Northeast,20070424,0
+Northeast,20070501,0
+Northeast,20070508,0
+Northeast,20070515,4
+Northeast,20070522,4
+Northeast,20070529,9
+Northeast,20070605,15
+Northeast,20070612,21
+Northeast,20070619,38
+Northeast,20070626,48
+Northeast,20070703,52
+Northeast,20070710,59
+Northeast,20070717,67
+Northeast,20070724,65
+Northeast,20070731,68
+Northeast,20070807,70
+Northeast,20070814,55
+Northeast,20070821,49
+Northeast,20070828,41
+Northeast,20070904,57
+Northeast,20070911,53
+Northeast,20070918,49
+Northeast,20070925,67
+Northeast,20071002,76
+Northeast,20071009,97
+Northeast,20071016,83
+Northeast,20071023,76
+Northeast,20071030,35
+Northeast,20071106,37
+Northeast,20071113,38
+Northeast,20071120,37
+Northeast,20071127,35
+Northeast,20071204,32
+Northeast,20071211,22
+Northeast,20071218,14
+Northeast,20071225,14
+Northeast,20080101,14
+Northeast,20080108,15
+Northeast,20080115,13
+Northeast,20080122,10
+Northeast,20080129,10
+Northeast,20080205,9
+Northeast,20080212,9
+Northeast,20080219,8
+Northeast,20080226,8
+Northeast,20080304,9
+Northeast,20080311,5
+Northeast,20080318,5
+Northeast,20080325,5
+Northeast,20080401,6
+Northeast,20080408,5
+Northeast,20080415,5
+Northeast,20080422,4
+Northeast,20080429,4
+Northeast,20080506,4
+Northeast,20080513,2
+Northeast,20080520,0
+Northeast,20080527,0
+Northeast,20080603,0
+Northeast,20080610,31
+Northeast,20080617,18
+Northeast,20080624,15
+Northeast,20080701,8
+Northeast,20080708,8
+Northeast,20080715,6
+Northeast,20080722,11
+Northeast,20080729,3
+Northeast,20080805,3
+Northeast,20080812,3
+Northeast,20080819,6
+Northeast,20080826,16
+Northeast,20080902,24
+Northeast,20080909,12
+Northeast,20080916,11
+Northeast,20080923,20
+Northeast,20080930,20
+Northeast,20081007,20
+Northeast,20081014,31
+Northeast,20081021,32
+Northeast,20081028,23
+Northeast,20081104,23
+Northeast,20081111,32
+Northeast,20081118,30
+Northeast,20081125,29
+Northeast,20081202,30
+Northeast,20081209,30
+Northeast,20081216,24
+Northeast,20081223,17
+Northeast,20081230,16
+Northeast,20090106,15
+Northeast,20090113,11
+Northeast,20090120,11
+Northeast,20090127,12
+Northeast,20090203,6
+Northeast,20090210,8
+Northeast,20090217,7
+Northeast,20090224,7
+Northeast,20090303,9
+Northeast,20090310,9
+Northeast,20090317,11
+Northeast,20090324,41
+Northeast,20090331,41
+Northeast,20090407,42
+Northeast,20090414,40
+Northeast,20090421,33
+Northeast,20090428,48
+Northeast,20090505,28
+Northeast,20090512,20
+Northeast,20090519,10
+Northeast,20090526,13
+Northeast,20090602,3
+Northeast,20090609,5
+Northeast,20090616,3
+Northeast,20090623,0
+Northeast,20090630,0
+Northeast,20090707,0
+Northeast,20090714,0
+Northeast,20090721,6
+Northeast,20090728,4
+Northeast,20090804,3
+Northeast,20090811,3
+Northeast,20090818,3
+Northeast,20090825,0
+Northeast,20090901,0
+Northeast,20090908,0
+Northeast,20090915,9
+Northeast,20090922,21
+Northeast,20090929,16
+Northeast,20091006,16
+Northeast,20091013,9
+Northeast,20091020,6
+Northeast,20091027,9
+Northeast,20091103,6
+Northeast,20091110,6
+Northeast,20091117,6
+Northeast,20091124,6
+Northeast,20091201,6
+Northeast,20091208,3
+Northeast,20091215,0
+Northeast,20091222,0
+Northeast,20091229,0
+Northeast,20100105,0
+Northeast,20100112,0
+Northeast,20100119,0
+Northeast,20100126,0
+Northeast,20100202,0
+Northeast,20100209,0
+Northeast,20100216,0
+Northeast,20100223,0
+Northeast,20100302,0
+Northeast,20100309,0
+Northeast,20100316,0
+Northeast,20100323,0
+Northeast,20100330,0
+Northeast,20100406,10
+Northeast,20100413,16
+Northeast,20100420,20
+Northeast,20100427,24
+Northeast,20100504,24
+Northeast,20100511,16
+Northeast,20100518,12
+Northeast,20100525,13
+Northeast,20100601,45
+Northeast,20100608,12
+Northeast,20100615,8
+Northeast,20100622,10
+Northeast,20100629,26
+Northeast,20100706,36
+Northeast,20100713,40
+Northeast,20100720,40
+Northeast,20100727,39
+Northeast,20100803,44
+Northeast,20100810,46
+Northeast,20100817,56
+Northeast,20100824,45
+Northeast,20100831,52
+Northeast,20100907,52
+Northeast,20100914,71
+Northeast,20100921,75
+Northeast,20100928,80
+Northeast,20101005,44
+Northeast,20101012,43
+Northeast,20101019,30
+Northeast,20101026,28
+Northeast,20101102,28
+Northeast,20101109,24
+Northeast,20101116,24
+Northeast,20101123,25
+Northeast,20101130,23
+Northeast,20101207,5
+Northeast,20101214,4
+Northeast,20101221,4
+Northeast,20101228,4
+Northeast,20110104,4
+Northeast,20110111,10
+Northeast,20110118,10
+Northeast,20110125,20
+Northeast,20110201,23
+Northeast,20110208,25
+Northeast,20110215,27
+Northeast,20110222,26
+Northeast,20110301,26
+Northeast,20110308,4
+Northeast,20110315,1
+Northeast,20110322,1
+Northeast,20110329,1
+Northeast,20110405,0
+Northeast,20110412,0
+Northeast,20110419,0
+Northeast,20110426,0
+Northeast,20110503,0
+Northeast,20110510,0
+Northeast,20110517,2
+Northeast,20110524,2
+Northeast,20110531,3
+Northeast,20110607,5
+Northeast,20110614,6
+Northeast,20110621,6
+Northeast,20110628,8
+Northeast,20110705,10
+Northeast,20110712,11
+Northeast,20110719,22
+Northeast,20110726,38
+Northeast,20110802,63
+Northeast,20110809,66
+Northeast,20110816,40
+Northeast,20110823,34
+Northeast,20110830,19
+Northeast,20110906,11
+Northeast,20110913,3
+Northeast,20110920,3
+Northeast,20110927,3
+Northeast,20111004,1
+Northeast,20111011,1
+Northeast,20111018,0
+Northeast,20111025,0
+Northeast,20111101,0
+Northeast,20111108,0
+Northeast,20111115,0
+Northeast,20111122,0
+Northeast,20111129,0
+Northeast,20111206,0
+Northeast,20111213,0
+Northeast,20111220,3
+Northeast,20111227,3
+Northeast,20120103,2
+Northeast,20120110,4
+Northeast,20120117,19
+Northeast,20120124,19
+Northeast,20120131,17
+Northeast,20120207,17
+Northeast,20120214,19
+Northeast,20120221,19
+Northeast,20120228,19
+Northeast,20120306,18
+Northeast,20120313,23
+Northeast,20120320,46
+Northeast,20120327,51
+Northeast,20120403,74
+Northeast,20120410,101
+Northeast,20120417,104
+Northeast,20120424,94
+Northeast,20120501,89
+Northeast,20120508,82
+Northeast,20120515,45
+Northeast,20120522,33
+Northeast,20120529,34
+Northeast,20120605,11
+Northeast,20120612,12
+Northeast,20120619,20
+Northeast,20120626,26
+Northeast,20120703,36
+Northeast,20120710,55
+Northeast,20120717,81
+Northeast,20120724,81
+Northeast,20120731,76
+Northeast,20120807,75
+Northeast,20120814,71
+Northeast,20120821,59
+Northeast,20120828,57
+Northeast,20120904,52
+Northeast,20120911,42
+Northeast,20120918,42
+Northeast,20120925,27
+Northeast,20121002,24
+Northeast,20121009,24
+Northeast,20121016,23
+Northeast,20121023,18
+Northeast,20121030,5
+Northeast,20121106,5
+Northeast,20121113,5
+Northeast,20121120,8
+Northeast,20121127,12
+Northeast,20121204,13
+Northeast,20121211,13
+Northeast,20121218,13
+Northeast,20121225,12
+Northeast,20130101,8
+Northeast,20130108,8
+Northeast,20130115,8
+Northeast,20130122,6
+Northeast,20130129,6
+Northeast,20130205,6
+Northeast,20130212,6
+Northeast,20130219,6
+Northeast,20130226,6
+Northeast,20130305,6
+Northeast,20130312,6
+Northeast,20130319,6
+Northeast,20130326,6
+Northeast,20130402,18
+Northeast,20130409,22
+Northeast,20130416,16
+Northeast,20130423,19
+Northeast,20130430,31
+Northeast,20130507,64
+Northeast,20130514,46
+Northeast,20130521,52
+Northeast,20130528,26
+Northeast,20130604,25
+Northeast,20130611,12
+Northeast,20130618,10
+Northeast,20130625,10
+Northeast,20130702,1
+Northeast,20130709,1
+Northeast,20130716,0
+Northeast,20130723,0
+Northeast,20130730,0
+Northeast,20130806,0
+Northeast,20130813,0
+Northeast,20130820,0
+Northeast,20130827,2
+Northeast,20130903,4
+Northeast,20130910,7
+Northeast,20130917,10
+Northeast,20130924,10
+Northeast,20131001,20
+Northeast,20131008,20
+Northeast,20131015,16
+Northeast,20131022,18
+Northeast,20131029,25
+Northeast,20131105,24
+Northeast,20131112,35
+Northeast,20131119,43
+Northeast,20131126,50
+Northeast,20131203,43
+Northeast,20131210,40
+Northeast,20131217,40
+Northeast,20131224,38
+Northeast,20131231,37
+Northeast,20140107,36
+Northeast,20140114,19
+Northeast,20140121,11
+Northeast,20140128,11
+Northeast,20140204,13
+Northeast,20140211,12
+Northeast,20140218,8
+Northeast,20140225,4
+Northeast,20140304,4
+Northeast,20140311,4
+Northeast,20140318,4
+Northeast,20140325,4
+Northeast,20140401,2
+Northeast,20140408,2
+Northeast,20140415,2
+Northeast,20140422,4
+Northeast,20140429,2
+Northeast,20140506,9
+Northeast,20140513,9
+Northeast,20140520,1
+Northeast,20140527,1
+Northeast,20140603,1
+Northeast,20140610,2
+Northeast,20140617,1
+Northeast,20140624,2
+Northeast,20140701,4
+Northeast,20140708,4
+Northeast,20140715,5
+Northeast,20140722,7
+Northeast,20140729,5
+Northeast,20140805,5
+Northeast,20140812,6
+Northeast,20140819,4
+Northeast,20140826,6
+Northeast,20140902,6
+Northeast,20140909,10
+Northeast,20140916,13
+Northeast,20140923,31
+Northeast,20140930,38
+Northeast,20141007,37
+Northeast,20141014,44
+Northeast,20141021,38
+Northeast,20141028,18
+Northeast,20141104,18
+Northeast,20141111,18
+Northeast,20141118,22
+Northeast,20141125,26
+Northeast,20141202,23
+Northeast,20141209,23
+Northeast,20141216,15
+Northeast,20141223,14
+Northeast,20141230,13
+Northeast,20150106,11
+Northeast,20150113,11
+Northeast,20150120,16
+Northeast,20150127,18
+Northeast,20150203,18
+Northeast,20150210,18
+Northeast,20150217,18
+Northeast,20150224,17
+Northeast,20150303,17
+Northeast,20150310,14
+Northeast,20150317,16
+Northeast,20150324,25
+Northeast,20150331,45
+Northeast,20150407,47
+Northeast,20150414,45
+Northeast,20150421,40
+Northeast,20150428,40
+Northeast,20150505,50
+Northeast,20150512,62
+Northeast,20150519,87
+Northeast,20150526,94
+Northeast,20150602,63
+Northeast,20150609,59
+Northeast,20150616,56
+Northeast,20150623,41
+Northeast,20150630,25
+Northeast,20150707,20
+Northeast,20150714,11
+Northeast,20150721,11
+Northeast,20150728,11
+Northeast,20150804,12
+Northeast,20150811,19
+Northeast,20150818,25
+Northeast,20150825,25
+Northeast,20150901,30
+Northeast,20150908,53
+Northeast,20150915,53
+Northeast,20150922,64
+Northeast,20150929,67
+Northeast,20151006,34
+Northeast,20151013,32
+Northeast,20151020,32
+Northeast,20151027,34
+Northeast,20151103,30
+Northeast,20151110,30
+Northeast,20151117,35
+Northeast,20151124,35
+Northeast,20151201,33
+Northeast,20151208,33
+Northeast,20151215,44
+Northeast,20151222,45
+Northeast,20151229,44
+Northeast,20160105,41
+Northeast,20160112,38
+Northeast,20160119,38
+Northeast,20160126,29
+Northeast,20160202,31
+Northeast,20160209,32
+Northeast,20160216,32
+Northeast,20160223,18
+Northeast,20160301,4
+Northeast,20160308,4
+Northeast,20160315,4
+Northeast,20160322,4
+Northeast,20160329,6
+Northeast,20160405,6
+Northeast,20160412,12
+Northeast,20160419,27
+Northeast,20160426,44
+Northeast,20160503,41
+Northeast,20160510,33
+Northeast,20160517,34
+Northeast,20160524,41
+Northeast,20160531,40
+Northeast,20160607,45
+Northeast,20160614,51
+Northeast,20160621,69
+Northeast,20160628,78
+Northeast,20160705,88
+Northeast,20160712,92
+Northeast,20160719,96
+Northeast,20160726,105
+Northeast,20160802,97
+Northeast,20160809,102
+Northeast,20160816,99
+Northeast,20160823,96
+Northeast,20160830,101
+Northeast,20160906,105
+Northeast,20160913,126
+Northeast,20160920,127
+Northeast,20160927,145
+Northeast,20161004,134
+Northeast,20161011,142
+Northeast,20161018,161
+Northeast,20161025,144
+Northeast,20161101,141
+Northeast,20161108,141
+Northeast,20161115,160
+Northeast,20161122,158
+Northeast,20161129,155
+Northeast,20161206,153
+Northeast,20161213,151
+Northeast,20161220,136
+Northeast,20161227,132
+Northeast,20170103,126
+Northeast,20170110,122
+Northeast,20170117,119
+Northeast,20170124,111
+Northeast,20170131,105
+Northeast,20170207,104
+Northeast,20170214,87
+Northeast,20170221,87
+Northeast,20170228,82
+Northeast,20170307,81
+Northeast,20170314,74
+Northeast,20170321,50
+Northeast,20170328,50
+Northeast,20170404,41
+Northeast,20170411,31
+Northeast,20170418,30
+Northeast,20170425,20
+Northeast,20170502,14
+Northeast,20170509,3
+Northeast,20170516,2
+Northeast,20170523,2
+Northeast,20170530,2
+Northeast,20170606,0
+Northeast,20170613,1
+Northeast,20170620,3
+Northeast,20170627,2
+Northeast,20170704,3
+Northeast,20170711,2
+Northeast,20170718,3
+Northeast,20170725,7
+Northeast,20170801,11
+Northeast,20170808,13
+Northeast,20170815,16
+Northeast,20170822,16
+Northeast,20170829,17
+Northeast,20170905,17
+Northeast,20170912,13
+Northeast,20170919,14
+Northeast,20170926,26
+Northeast,20171003,49
+Northeast,20171010,50
+Northeast,20171017,56
+Northeast,20171024,76
+Northeast,20171031,10
+Northeast,20171107,9
+Northeast,20171114,9
+Northeast,20171121,8
+Northeast,20171128,8
+Northeast,20171205,17
+Northeast,20171212,18
+Northeast,20171219,25
+Northeast,20171226,25
+Northeast,20180102,29
+Northeast,20180109,32
+Northeast,20180116,32
+Northeast,20180123,32
+Northeast,20180130,32
+Northeast,20180206,28
+Northeast,20180213,7
+Northeast,20180220,6
+Northeast,20180227,3
+Northeast,20180306,3
+Northeast,20180313,3
+Northeast,20180320,3
+Northeast,20180327,1
+Northeast,20180403,1
+Northeast,20180410,3
+Northeast,20180417,2
+Northeast,20180424,2
+Northeast,20180501,2
+Northeast,20180508,2
+Northeast,20180515,1
+Northeast,20180522,1
+Northeast,20180529,1
+Northeast,20180605,7
+Northeast,20180612,7
+Northeast,20180619,29
+Northeast,20180626,36
+Northeast,20180703,38
+Northeast,20180710,44
+Northeast,20180717,54
+Northeast,20180724,49
+Northeast,20180731,36
+Northeast,20180807,32
+Northeast,20180814,32
+Northeast,20180821,27
+Northeast,20180828,27
+Northeast,20180904,30
+Northeast,20180911,25
+Northeast,20180918,25
+Northeast,20180925,27
+Northeast,20181002,27
+Northeast,20181009,27
+Northeast,20181016,21
+Northeast,20181023,19
+Northeast,20181030,14
+Northeast,20181106,10
+Northeast,20181113,5
+Northeast,20181120,5
+Northeast,20181127,4
+Northeast,20181204,4
+Northeast,20181211,4
+Northeast,20181218,4
+Northeast,20181225,4
+Northeast,20190101,3
+Northeast,20190108,1
+Northeast,20190115,1
+Northeast,20190122,0
+Northeast,20190129,0
+Northeast,20190205,0
+Northeast,20190212,0
+Northeast,20190219,0
+Northeast,20190226,0
+Northeast,20190305,0
+Northeast,20190312,0
+Northeast,20190319,0
+Northeast,20190326,0
+Northeast,20190402,0
+Northeast,20190409,3
+Northeast,20190416,0
+Northeast,20190423,0
+Northeast,20190430,0
+Northeast,20190507,0
+Northeast,20190514,0
+Northeast,20190521,0
+Northeast,20190528,0
+Northeast,20190604,0
+Northeast,20190611,0
+Northeast,20190618,0
+Northeast,20190625,0
+Northeast,20190702,0
+Northeast,20190709,0
+Northeast,20190716,1
+Northeast,20190723,0
+Northeast,20190730,0
+Northeast,20190806,3
+Northeast,20190813,6
+Northeast,20190820,7
+Northeast,20190827,14
+Northeast,20190903,7
+Northeast,20190910,9
+Northeast,20190917,22
+Northeast,20190924,57
+Northeast,20191001,62
+Northeast,20191008,55
+Northeast,20191015,65
+Northeast,20191022,45
+Northeast,20191029,30
+Northeast,20191105,5
+Northeast,20191112,3
+Northeast,20191119,3
+Northeast,20191126,2
+Northeast,20191203,2
+Northeast,20191210,1
+Northeast,20191217,0
+Northeast,20191224,0
+Northeast,20191231,0
+Northeast,20200107,0
+Northeast,20200114,1
+Northeast,20200121,2
+Northeast,20200128,2
+Northeast,20200204,2
+Northeast,20200211,0
+Northeast,20200218,0
+Northeast,20200225,0
+Northeast,20200303,0
+Northeast,20200310,0
+Northeast,20200317,6
+Northeast,20200324,3
+Northeast,20200331,0
+Northeast,20200407,0
+Northeast,20200414,0
+Northeast,20200421,0
+Northeast,20200428,0
+Northeast,20200505,0
+Northeast,20200512,0
+Northeast,20200519,3
+Northeast,20200526,5
+Northeast,20200602,9
+Northeast,20200609,31
+Northeast,20200616,36
+Northeast,20200623,58
+Northeast,20200630,60
+Northeast,20200707,106
+Northeast,20200714,94
+Northeast,20200721,98
+Northeast,20200728,101
+Northeast,20200804,96
+Northeast,20200811,87
+Northeast,20200818,101
+Northeast,20200825,107
+Northeast,20200901,91
+Northeast,20200908,94
+Northeast,20200915,104
+Northeast,20200922,119
+Northeast,20200929,146
+Northeast,20201006,150
+Northeast,20201013,147
+Northeast,20201020,133
+Northeast,20201027,131
+Northeast,20201103,105
+Northeast,20201110,106
+Northeast,20201117,99
+Northeast,20201124,94
+Northeast,20201201,77
+Northeast,20201208,61
+Northeast,20201215,57
+Northeast,20201222,57
+Northeast,20201229,26
+Northeast,20210105,24
+Northeast,20210112,25
+Northeast,20210119,25
+Northeast,20210126,25
+Northeast,20210202,23
+Northeast,20210209,22
+Northeast,20210216,22
+Northeast,20210223,22
+Northeast,20210302,22
+Northeast,20210309,28
+Northeast,20210316,29
+Northeast,20210323,35
+Northeast,20210330,46
+Northeast,20210406,50
+Northeast,20210413,63
+Northeast,20210420,63
+Northeast,20210427,68
+Northeast,20210504,66
+Northeast,20210511,27
+Northeast,20210518,29
+Northeast,20210525,50
+Northeast,20210601,43
+Northeast,20210608,53
+Northeast,20210615,55
+Northeast,20210622,62
+Northeast,20210629,65
+Northeast,20210706,64
+Northeast,20210713,44
+Northeast,20210720,36
+Northeast,20210727,33
+Northeast,20210803,39
+Northeast,20210810,43
+Northeast,20210817,43
+Northeast,20210824,35
+Northeast,20210831,37
+Northeast,20210907,29
+Northeast,20210914,22
+Northeast,20210921,20
+Northeast,20210928,14
+Northeast,20211005,14
+Northeast,20211012,19
+Northeast,20211019,17
+Northeast,20211026,17
+Northeast,20211102,11
+Northeast,20211109,11
+Northeast,20211116,11
+Northeast,20211123,11
+Northeast,20211130,13
+Northeast,20211207,14
+Northeast,20211214,20
+Northeast,20211221,26
+Northeast,20211228,27
+Northeast,20220104,18
+Northeast,20220111,16
+Northeast,20220118,15
+Northeast,20220125,14
+Northeast,20220201,21
+Northeast,20220208,22
+Northeast,20220215,21
+Northeast,20220222,21
+Northeast,20220301,21
+Northeast,20220308,30
+Northeast,20220315,30
+Northeast,20220322,33
+Northeast,20220329,32
+Northeast,20220405,37
+Northeast,20220412,24
+Northeast,20220419,20
+Northeast,20220426,20
+Northeast,20220503,20
+Northeast,20220510,9
+Northeast,20220517,16
+Northeast,20220524,17
+Northeast,20220531,15
+Northeast,20220607,17
+Northeast,20220614,16
+Northeast,20220621,20
+Northeast,20220628,37
+Northeast,20220705,49
+Northeast,20220712,68
+Northeast,20220719,71
+Northeast,20220726,73
+Northeast,20220802,78
+Northeast,20220809,76
+Northeast,20220816,85
+Northeast,20220823,86
+Northeast,20220830,96
+Northeast,20220906,87
+Northeast,20220913,79
+Northeast,20220920,74
+Northeast,20220927,48
+Northeast,20221004,40
+Northeast,20221011,32
+Northeast,20221018,21
+Northeast,20221025,21
+Northeast,20221101,23
+Northeast,20221108,33
+Northeast,20221115,13
+Northeast,20221122,12
+Northeast,20221129,13
+Northeast,20221206,13
+Northeast,20221213,14
+Northeast,20221220,11
+Northeast,20221227,10
+Northeast,20230103,10
+Northeast,20230110,8
+Northeast,20230117,6
+Northeast,20230124,5
+Northeast,20230131,3
+Northeast,20230207,4
+Northeast,20230214,4
+Northeast,20230221,4
+Northeast,20230228,6
+Northeast,20230307,2
+Northeast,20230314,2
+Northeast,20230321,4
+Northeast,20230328,9
+Northeast,20230404,12
+Northeast,20230411,20
+Northeast,20230418,32
+Northeast,20230425,34
+Northeast,20230502,16
+Northeast,20230509,13
+Northeast,20230516,18
+Northeast,20230523,14
+Northeast,20230530,52
+Northeast,20230606,88
+Northeast,20230613,104
+Northeast,20230620,107
+Northeast,20230627,92
+Northeast,20230704,81
+Northeast,20230711,60
+Northeast,20230718,38
+Northeast,20230725,27
+Northeast,20230801,18
+Northeast,20230808,16
+Northeast,20230815,12
+Northeast,20230822,12
+Northeast,20230829,11
+Northeast,20230905,11
+Northeast,20230912,10
+Northeast,20230919,16
+Northeast,20230926,13
+Northeast,20231003,20
+Northeast,20231010,20
+South,20000104,174
+South,20000111,184
+South,20000118,201
+South,20000125,198
+South,20000201,204
+South,20000208,209
+South,20000215,211
+South,20000222,211
+South,20000229,218
+South,20000307,220
+South,20000314,221
+South,20000321,210
+South,20000328,174
+South,20000404,166
+South,20000411,149
+South,20000418,149
+South,20000425,152
+South,20000502,150
+South,20000509,139
+South,20000516,142
+South,20000523,132
+South,20000530,129
+South,20000606,102
+South,20000613,103
+South,20000620,100
+South,20000627,93
+South,20000704,68
+South,20000711,82
+South,20000718,114
+South,20000725,132
+South,20000801,141
+South,20000808,148
+South,20000815,163
+South,20000822,177
+South,20000829,217
+South,20000905,276
+South,20000912,309
+South,20000919,310
+South,20000926,303
+South,20001003,311
+South,20001010,294
+South,20001017,296
+South,20001024,261
+South,20001031,250
+South,20001107,145
+South,20001114,136
+South,20001121,111
+South,20001128,85
+South,20001205,81
+South,20001212,82
+South,20001219,70
+South,20001226,66
+South,20010102,63
+South,20010109,66
+South,20010116,66
+South,20010123,53
+South,20010130,49
+South,20010206,47
+South,20010213,45
+South,20010220,36
+South,20010227,34
+South,20010306,31
+South,20010313,31
+South,20010320,29
+South,20010327,28
+South,20010403,29
+South,20010410,33
+South,20010417,36
+South,20010424,37
+South,20010501,47
+South,20010508,64
+South,20010515,65
+South,20010522,64
+South,20010529,64
+South,20010605,56
+South,20010612,44
+South,20010619,64
+South,20010626,75
+South,20010703,73
+South,20010710,84
+South,20010717,101
+South,20010724,126
+South,20010731,152
+South,20010807,162
+South,20010814,131
+South,20010821,123
+South,20010828,116
+South,20010904,91
+South,20010911,79
+South,20010918,74
+South,20010925,67
+South,20011002,67
+South,20011009,68
+South,20011016,62
+South,20011023,78
+South,20011030,86
+South,20011106,95
+South,20011113,100
+South,20011120,91
+South,20011127,86
+South,20011204,84
+South,20011211,76
+South,20011218,75
+South,20011225,79
+South,20020101,78
+South,20020108,80
+South,20020115,80
+South,20020122,78
+South,20020129,75
+South,20020205,62
+South,20020212,54
+South,20020219,56
+South,20020226,60
+South,20020305,64
+South,20020312,85
+South,20020319,79
+South,20020326,80
+South,20020402,74
+South,20020409,67
+South,20020416,60
+South,20020423,72
+South,20020430,69
+South,20020507,86
+South,20020514,117
+South,20020521,116
+South,20020528,115
+South,20020604,111
+South,20020611,118
+South,20020618,110
+South,20020625,120
+South,20020702,102
+South,20020709,89
+South,20020716,79
+South,20020723,78
+South,20020730,57
+South,20020806,42
+South,20020813,45
+South,20020820,36
+South,20020827,38
+South,20020903,54
+South,20020910,62
+South,20020917,66
+South,20020924,48
+South,20021001,67
+South,20021008,62
+South,20021015,48
+South,20021022,44
+South,20021029,24
+South,20021105,19
+South,20021112,17
+South,20021119,17
+South,20021126,17
+South,20021203,17
+South,20021210,16
+South,20021217,16
+South,20021224,16
+South,20021231,13
+South,20030107,15
+South,20030114,15
+South,20030121,13
+South,20030128,14
+South,20030204,13
+South,20030211,14
+South,20030218,13
+South,20030225,8
+South,20030304,7
+South,20030311,20
+South,20030318,19
+South,20030325,20
+South,20030401,25
+South,20030408,30
+South,20030415,40
+South,20030422,39
+South,20030429,75
+South,20030506,93
+South,20030513,118
+South,20030520,140
+South,20030527,132
+South,20030603,144
+South,20030610,131
+South,20030617,90
+South,20030624,77
+South,20030701,56
+South,20030708,32
+South,20030715,55
+South,20030722,62
+South,20030729,82
+South,20030805,93
+South,20030812,101
+South,20030819,101
+South,20030826,104
+South,20030902,79
+South,20030909,78
+South,20030916,61
+South,20030923,62
+South,20030930,51
+South,20031007,45
+South,20031014,46
+South,20031021,52
+South,20031028,61
+South,20031104,70
+South,20031111,85
+South,20031118,75
+South,20031125,71
+South,20031202,66
+South,20031209,72
+South,20031216,71
+South,20031223,75
+South,20031230,77
+South,20040106,98
+South,20040113,95
+South,20040120,72
+South,20040127,67
+South,20040203,67
+South,20040210,67
+South,20040217,67
+South,20040224,61
+South,20040302,45
+South,20040309,33
+South,20040316,29
+South,20040323,30
+South,20040330,32
+South,20040406,28
+South,20040413,21
+South,20040420,29
+South,20040427,17
+South,20040504,13
+South,20040511,16
+South,20040518,16
+South,20040525,47
+South,20040601,60
+South,20040608,52
+South,20040615,45
+South,20040622,26
+South,20040629,18
+South,20040706,18
+South,20040713,15
+South,20040720,17
+South,20040727,10
+South,20040803,10
+South,20040810,6
+South,20040817,2
+South,20040824,1
+South,20040831,1
+South,20040907,1
+South,20040914,5
+South,20040921,10
+South,20040928,14
+South,20041005,26
+South,20041012,4
+South,20041019,2
+South,20041026,2
+South,20041102,0
+South,20041109,0
+South,20041116,0
+South,20041123,0
+South,20041130,0
+South,20041207,0
+South,20041214,0
+South,20041221,0
+South,20041228,0
+South,20050104,0
+South,20050111,0
+South,20050118,0
+South,20050125,0
+South,20050201,0
+South,20050208,0
+South,20050215,0
+South,20050222,0
+South,20050301,0
+South,20050308,3
+South,20050315,4
+South,20050322,5
+South,20050329,4
+South,20050405,8
+South,20050412,9
+South,20050419,11
+South,20050426,27
+South,20050503,64
+South,20050510,68
+South,20050517,65
+South,20050524,78
+South,20050531,76
+South,20050607,84
+South,20050614,84
+South,20050621,80
+South,20050628,120
+South,20050705,133
+South,20050712,119
+South,20050719,112
+South,20050726,108
+South,20050802,103
+South,20050809,90
+South,20050816,80
+South,20050823,80
+South,20050830,70
+South,20050906,69
+South,20050913,85
+South,20050920,79
+South,20050927,47
+South,20051004,60
+South,20051011,62
+South,20051018,60
+South,20051025,89
+South,20051101,110
+South,20051108,132
+South,20051115,142
+South,20051122,141
+South,20051129,149
+South,20051206,165
+South,20051213,175
+South,20051220,179
+South,20051227,177
+South,20060103,189
+South,20060110,209
+South,20060117,221
+South,20060124,223
+South,20060131,220
+South,20060207,230
+South,20060214,225
+South,20060221,227
+South,20060228,234
+South,20060307,238
+South,20060314,243
+South,20060321,215
+South,20060328,209
+South,20060404,210
+South,20060411,224
+South,20060418,247
+South,20060425,250
+South,20060502,221
+South,20060509,167
+South,20060516,162
+South,20060523,169
+South,20060530,190
+South,20060606,211
+South,20060613,231
+South,20060620,225
+South,20060627,221
+South,20060704,226
+South,20060711,220
+South,20060718,243
+South,20060725,266
+South,20060801,265
+South,20060808,279
+South,20060815,276
+South,20060822,278
+South,20060829,255
+South,20060905,230
+South,20060912,223
+South,20060919,178
+South,20060926,166
+South,20061003,168
+South,20061010,178
+South,20061017,154
+South,20061024,141
+South,20061031,135
+South,20061107,117
+South,20061114,118
+South,20061121,123
+South,20061128,131
+South,20061205,127
+South,20061212,131
+South,20061219,144
+South,20061226,138
+South,20070102,130
+South,20070109,116
+South,20070116,103
+South,20070123,78
+South,20070130,74
+South,20070206,77
+South,20070213,82
+South,20070220,81
+South,20070227,82
+South,20070306,91
+South,20070313,94
+South,20070320,96
+South,20070327,100
+South,20070403,61
+South,20070410,65
+South,20070417,47
+South,20070424,57
+South,20070501,57
+South,20070508,57
+South,20070515,59
+South,20070522,63
+South,20070529,69
+South,20070605,74
+South,20070612,74
+South,20070619,74
+South,20070626,70
+South,20070703,65
+South,20070710,47
+South,20070717,44
+South,20070724,43
+South,20070731,45
+South,20070807,49
+South,20070814,61
+South,20070821,77
+South,20070828,80
+South,20070904,77
+South,20070911,63
+South,20070918,56
+South,20070925,56
+South,20071002,58
+South,20071009,60
+South,20071016,69
+South,20071023,48
+South,20071030,33
+South,20071106,45
+South,20071113,65
+South,20071120,80
+South,20071127,56
+South,20071204,70
+South,20071211,65
+South,20071218,55
+South,20071225,55
+South,20080101,65
+South,20080108,84
+South,20080115,93
+South,20080122,86
+South,20080129,95
+South,20080205,102
+South,20080212,112
+South,20080219,101
+South,20080226,99
+South,20080304,100
+South,20080311,93
+South,20080318,96
+South,20080325,82
+South,20080401,89
+South,20080408,94
+South,20080415,96
+South,20080422,97
+South,20080429,103
+South,20080506,90
+South,20080513,85
+South,20080520,74
+South,20080527,80
+South,20080603,84
+South,20080610,114
+South,20080617,155
+South,20080624,155
+South,20080701,153
+South,20080708,149
+South,20080715,147
+South,20080722,153
+South,20080729,150
+South,20080805,154
+South,20080812,142
+South,20080819,110
+South,20080826,84
+South,20080902,74
+South,20080909,65
+South,20080916,51
+South,20080923,53
+South,20080930,57
+South,20081007,58
+South,20081014,51
+South,20081021,52
+South,20081028,60
+South,20081104,74
+South,20081111,66
+South,20081118,64
+South,20081125,73
+South,20081202,79
+South,20081209,84
+South,20081216,77
+South,20081223,83
+South,20081230,73
+South,20090106,78
+South,20090113,101
+South,20090120,106
+South,20090127,136
+South,20090203,147
+South,20090210,153
+South,20090217,143
+South,20090224,148
+South,20090303,167
+South,20090310,180
+South,20090317,169
+South,20090324,175
+South,20090331,152
+South,20090407,151
+South,20090414,137
+South,20090421,123
+South,20090428,117
+South,20090505,102
+South,20090512,101
+South,20090519,95
+South,20090526,88
+South,20090602,87
+South,20090609,99
+South,20090616,100
+South,20090623,100
+South,20090630,115
+South,20090707,114
+South,20090714,127
+South,20090721,121
+South,20090728,113
+South,20090804,96
+South,20090811,94
+South,20090818,94
+South,20090825,94
+South,20090901,91
+South,20090908,88
+South,20090915,63
+South,20090922,59
+South,20090929,54
+South,20091006,41
+South,20091013,37
+South,20091020,39
+South,20091027,28
+South,20091103,27
+South,20091110,27
+South,20091117,27
+South,20091124,29
+South,20091201,28
+South,20091208,24
+South,20091215,21
+South,20091222,19
+South,20091229,18
+South,20100105,18
+South,20100112,18
+South,20100119,17
+South,20100126,17
+South,20100202,10
+South,20100209,4
+South,20100216,3
+South,20100223,3
+South,20100302,2
+South,20100309,8
+South,20100316,2
+South,20100323,2
+South,20100330,4
+South,20100406,10
+South,20100413,17
+South,20100420,19
+South,20100427,18
+South,20100504,23
+South,20100511,31
+South,20100518,25
+South,20100525,26
+South,20100601,41
+South,20100608,38
+South,20100615,29
+South,20100622,56
+South,20100629,52
+South,20100706,42
+South,20100713,42
+South,20100720,45
+South,20100727,44
+South,20100803,44
+South,20100810,44
+South,20100817,50
+South,20100824,55
+South,20100831,76
+South,20100907,66
+South,20100914,53
+South,20100921,61
+South,20100928,73
+South,20101005,75
+South,20101012,93
+South,20101019,117
+South,20101026,116
+South,20101102,125
+South,20101109,120
+South,20101116,122
+South,20101123,123
+South,20101130,137
+South,20101207,165
+South,20101214,171
+South,20101221,193
+South,20101228,204
+South,20110104,190
+South,20110111,181
+South,20110118,180
+South,20110125,185
+South,20110201,182
+South,20110208,184
+South,20110215,190
+South,20110222,219
+South,20110301,219
+South,20110308,223
+South,20110315,220
+South,20110322,239
+South,20110329,260
+South,20110405,274
+South,20110412,278
+South,20110419,290
+South,20110426,275
+South,20110503,274
+South,20110510,285
+South,20110517,281
+South,20110524,280
+South,20110531,286
+South,20110607,302
+South,20110614,309
+South,20110621,325
+South,20110628,339
+South,20110705,344
+South,20110712,355
+South,20110719,349
+South,20110726,361
+South,20110802,367
+South,20110809,370
+South,20110816,364
+South,20110823,368
+South,20110830,379
+South,20110906,344
+South,20110913,349
+South,20110920,346
+South,20110927,346
+South,20111004,348
+South,20111011,345
+South,20111018,347
+South,20111025,344
+South,20111101,342
+South,20111108,345
+South,20111115,338
+South,20111122,318
+South,20111129,291
+South,20111206,274
+South,20111213,275
+South,20111220,265
+South,20111227,254
+South,20120103,255
+South,20120110,244
+South,20120117,240
+South,20120124,240
+South,20120131,229
+South,20120207,216
+South,20120214,213
+South,20120221,190
+South,20120228,191
+South,20120306,196
+South,20120313,184
+South,20120320,161
+South,20120327,146
+South,20120403,140
+South,20120410,137
+South,20120417,128
+South,20120424,127
+South,20120501,135
+South,20120508,133
+South,20120515,113
+South,20120522,135
+South,20120529,151
+South,20120605,153
+South,20120612,142
+South,20120619,160
+South,20120626,192
+South,20120703,206
+South,20120710,218
+South,20120717,206
+South,20120724,215
+South,20120731,220
+South,20120807,228
+South,20120814,237
+South,20120821,230
+South,20120828,231
+South,20120904,225
+South,20120911,231
+South,20120918,227
+South,20120925,233
+South,20121002,200
+South,20121009,194
+South,20121016,187
+South,20121023,188
+South,20121030,187
+South,20121106,191
+South,20121113,195
+South,20121120,211
+South,20121127,223
+South,20121204,235
+South,20121211,238
+South,20121218,238
+South,20121225,239
+South,20130101,237
+South,20130108,232
+South,20130115,201
+South,20130122,198
+South,20130129,199
+South,20130205,196
+South,20130212,193
+South,20130219,192
+South,20130226,182
+South,20130305,187
+South,20130312,182
+South,20130319,198
+South,20130326,203
+South,20130402,207
+South,20130409,199
+South,20130416,199
+South,20130423,196
+South,20130430,192
+South,20130507,196
+South,20130514,191
+South,20130521,189
+South,20130528,179
+South,20130604,175
+South,20130611,170
+South,20130618,165
+South,20130625,165
+South,20130702,177
+South,20130709,196
+South,20130716,203
+South,20130723,202
+South,20130730,187
+South,20130806,189
+South,20130813,180
+South,20130820,177
+South,20130827,187
+South,20130903,190
+South,20130910,203
+South,20130917,213
+South,20130924,172
+South,20131001,145
+South,20131008,144
+South,20131015,130
+South,20131022,126
+South,20131029,122
+South,20131105,110
+South,20131112,110
+South,20131119,112
+South,20131126,95
+South,20131203,93
+South,20131210,91
+South,20131217,95
+South,20131224,91
+South,20131231,89
+South,20140107,89
+South,20140114,93
+South,20140121,99
+South,20140128,112
+South,20140204,122
+South,20140211,122
+South,20140218,122
+South,20140225,141
+South,20140304,137
+South,20140311,139
+South,20140318,139
+South,20140325,156
+South,20140401,159
+South,20140408,152
+South,20140415,159
+South,20140422,171
+South,20140429,185
+South,20140506,215
+South,20140513,197
+South,20140520,201
+South,20140527,184
+South,20140603,178
+South,20140610,168
+South,20140617,165
+South,20140624,157
+South,20140701,149
+South,20140708,150
+South,20140715,149
+South,20140722,135
+South,20140729,134
+South,20140805,129
+South,20140812,128
+South,20140819,129
+South,20140826,134
+South,20140902,135
+South,20140909,130
+South,20140916,126
+South,20140923,118
+South,20140930,127
+South,20141007,126
+South,20141014,116
+South,20141021,117
+South,20141028,124
+South,20141104,124
+South,20141111,119
+South,20141118,119
+South,20141125,111
+South,20141202,112
+South,20141209,121
+South,20141216,128
+South,20141223,130
+South,20141230,122
+South,20150106,107
+South,20150113,108
+South,20150120,114
+South,20150127,111
+South,20150203,113
+South,20150210,125
+South,20150217,142
+South,20150224,141
+South,20150303,132
+South,20150310,122
+South,20150317,120
+South,20150324,109
+South,20150331,107
+South,20150407,109
+South,20150414,104
+South,20150421,89
+South,20150428,76
+South,20150505,74
+South,20150512,55
+South,20150519,40
+South,20150526,21
+South,20150602,9
+South,20150609,8
+South,20150616,7
+South,20150623,8
+South,20150630,8
+South,20150707,4
+South,20150714,2
+South,20150721,3
+South,20150728,13
+South,20150804,29
+South,20150811,61
+South,20150818,71
+South,20150825,68
+South,20150901,76
+South,20150908,94
+South,20150915,100
+South,20150922,110
+South,20150929,125
+South,20151006,148
+South,20151013,165
+South,20151020,190
+South,20151027,80
+South,20151103,40
+South,20151110,27
+South,20151117,21
+South,20151124,11
+South,20151201,4
+South,20151208,1
+South,20151215,2
+South,20151222,2
+South,20151229,2
+South,20160105,1
+South,20160112,1
+South,20160119,1
+South,20160126,1
+South,20160202,1
+South,20160209,6
+South,20160216,26
+South,20160223,12
+South,20160301,20
+South,20160308,30
+South,20160315,12
+South,20160322,15
+South,20160329,27
+South,20160405,30
+South,20160412,31
+South,20160419,27
+South,20160426,23
+South,20160503,17
+South,20160510,16
+South,20160517,11
+South,20160524,17
+South,20160531,18
+South,20160607,18
+South,20160614,19
+South,20160621,23
+South,20160628,24
+South,20160705,29
+South,20160712,35
+South,20160719,42
+South,20160726,59
+South,20160802,57
+South,20160809,58
+South,20160816,40
+South,20160823,27
+South,20160830,24
+South,20160906,21
+South,20160913,20
+South,20160920,21
+South,20160927,32
+South,20161004,46
+South,20161011,67
+South,20161018,87
+South,20161025,102
+South,20161101,123
+South,20161108,126
+South,20161115,143
+South,20161122,164
+South,20161129,161
+South,20161206,121
+South,20161213,118
+South,20161220,110
+South,20161227,100
+South,20170103,86
+South,20170110,90
+South,20170117,79
+South,20170124,56
+South,20170131,56
+South,20170207,59
+South,20170214,59
+South,20170221,59
+South,20170228,76
+South,20170307,86
+South,20170314,84
+South,20170321,97
+South,20170328,83
+South,20170404,57
+South,20170411,52
+South,20170418,44
+South,20170425,29
+South,20170502,16
+South,20170509,19
+South,20170516,29
+South,20170523,15
+South,20170530,22
+South,20170606,12
+South,20170613,17
+South,20170620,22
+South,20170627,27
+South,20170704,25
+South,20170711,22
+South,20170718,25
+South,20170725,28
+South,20170801,28
+South,20170808,20
+South,20170815,8
+South,20170822,9
+South,20170829,3
+South,20170905,3
+South,20170912,8
+South,20170919,22
+South,20170926,30
+South,20171003,29
+South,20171010,30
+South,20171017,40
+South,20171024,40
+South,20171031,45
+South,20171107,59
+South,20171114,77
+South,20171121,100
+South,20171128,129
+South,20171205,142
+South,20171212,144
+South,20171219,142
+South,20171226,116
+South,20180102,127
+South,20180109,139
+South,20180116,149
+South,20180123,164
+South,20180130,177
+South,20180206,191
+South,20180213,177
+South,20180220,172
+South,20180227,122
+South,20180306,110
+South,20180313,112
+South,20180320,116
+South,20180327,120
+South,20180403,104
+South,20180410,105
+South,20180417,106
+South,20180424,110
+South,20180501,108
+South,20180508,97
+South,20180515,104
+South,20180522,99
+South,20180529,101
+South,20180605,118
+South,20180612,126
+South,20180619,117
+South,20180626,121
+South,20180703,136
+South,20180710,124
+South,20180717,121
+South,20180724,138
+South,20180731,146
+South,20180807,160
+South,20180814,137
+South,20180821,122
+South,20180828,122
+South,20180904,115
+South,20180911,74
+South,20180918,70
+South,20180925,46
+South,20181002,41
+South,20181009,29
+South,20181016,12
+South,20181023,10
+South,20181030,6
+South,20181106,4
+South,20181113,3
+South,20181120,3
+South,20181127,5
+South,20181204,6
+South,20181211,7
+South,20181218,9
+South,20181225,14
+South,20190101,5
+South,20190108,4
+South,20190115,5
+South,20190122,6
+South,20190129,6
+South,20190205,10
+South,20190212,22
+South,20190219,27
+South,20190226,37
+South,20190305,39
+South,20190312,32
+South,20190319,22
+South,20190326,31
+South,20190402,40
+South,20190409,30
+South,20190416,19
+South,20190423,12
+South,20190430,8
+South,20190507,2
+South,20190514,0
+South,20190521,2
+South,20190528,6
+South,20190604,7
+South,20190611,4
+South,20190618,7
+South,20190625,5
+South,20190702,5
+South,20190709,6
+South,20190716,5
+South,20190723,7
+South,20190730,18
+South,20190806,38
+South,20190813,57
+South,20190820,69
+South,20190827,73
+South,20190903,72
+South,20190910,88
+South,20190917,104
+South,20190924,105
+South,20191001,114
+South,20191008,110
+South,20191015,110
+South,20191022,100
+South,20191029,81
+South,20191105,70
+South,20191112,55
+South,20191119,56
+South,20191126,57
+South,20191203,61
+South,20191210,63
+South,20191217,65
+South,20191224,68
+South,20191231,63
+South,20200107,65
+South,20200114,61
+South,20200121,62
+South,20200128,60
+South,20200204,59
+South,20200211,55
+South,20200218,45
+South,20200225,36
+South,20200303,42
+South,20200310,43
+South,20200317,43
+South,20200324,38
+South,20200331,41
+South,20200407,39
+South,20200414,36
+South,20200421,37
+South,20200428,38
+South,20200505,37
+South,20200512,45
+South,20200519,36
+South,20200526,30
+South,20200602,35
+South,20200609,48
+South,20200616,63
+South,20200623,60
+South,20200630,68
+South,20200707,65
+South,20200714,71
+South,20200721,82
+South,20200728,77
+South,20200804,70
+South,20200811,80
+South,20200818,86
+South,20200825,102
+South,20200901,99
+South,20200908,83
+South,20200915,71
+South,20200922,66
+South,20200929,67
+South,20201006,73
+South,20201013,79
+South,20201020,88
+South,20201027,92
+South,20201103,85
+South,20201110,110
+South,20201117,137
+South,20201124,157
+South,20201201,155
+South,20201208,158
+South,20201215,157
+South,20201222,159
+South,20201229,162
+South,20210105,118
+South,20210112,101
+South,20210119,108
+South,20210126,96
+South,20210202,104
+South,20210209,113
+South,20210216,104
+South,20210223,107
+South,20210302,107
+South,20210309,123
+South,20210316,130
+South,20210323,125
+South,20210330,121
+South,20210406,133
+South,20210413,135
+South,20210420,126
+South,20210427,124
+South,20210504,91
+South,20210511,91
+South,20210518,69
+South,20210525,54
+South,20210601,41
+South,20210608,29
+South,20210615,27
+South,20210622,30
+South,20210629,20
+South,20210706,12
+South,20210713,10
+South,20210720,7
+South,20210727,5
+South,20210803,6
+South,20210810,10
+South,20210817,10
+South,20210824,7
+South,20210831,9
+South,20210907,13
+South,20210914,24
+South,20210921,40
+South,20210928,63
+South,20211005,57
+South,20211012,64
+South,20211019,58
+South,20211026,73
+South,20211102,79
+South,20211109,80
+South,20211116,89
+South,20211123,97
+South,20211130,120
+South,20211207,136
+South,20211214,148
+South,20211221,147
+South,20211228,168
+South,20220104,204
+South,20220111,213
+South,20220118,222
+South,20220125,228
+South,20220201,228
+South,20220208,208
+South,20220215,216
+South,20220222,214
+South,20220301,218
+South,20220308,248
+South,20220315,249
+South,20220322,232
+South,20220329,230
+South,20220405,225
+South,20220412,231
+South,20220419,221
+South,20220426,215
+South,20220503,211
+South,20220510,204
+South,20220517,213
+South,20220524,193
+South,20220531,184
+South,20220607,177
+South,20220614,179
+South,20220621,189
+South,20220628,205
+South,20220705,211
+South,20220712,242
+South,20220719,268
+South,20220726,286
+South,20220802,282
+South,20220809,283
+South,20220816,271
+South,20220823,228
+South,20220830,193
+South,20220906,153
+South,20220913,149
+South,20220920,155
+South,20220927,182
+South,20221004,210
+South,20221011,229
+South,20221018,235
+South,20221025,245
+South,20221101,237
+South,20221108,223
+South,20221115,218
+South,20221122,216
+South,20221129,194
+South,20221206,185
+South,20221213,170
+South,20221220,149
+South,20221227,149
+South,20230103,137
+South,20230110,135
+South,20230117,137
+South,20230124,137
+South,20230131,134
+South,20230207,131
+South,20230214,125
+South,20230221,126
+South,20230228,129
+South,20230307,131
+South,20230314,134
+South,20230321,136
+South,20230328,141
+South,20230404,142
+South,20230411,131
+South,20230418,134
+South,20230425,129
+South,20230502,125
+South,20230509,121
+South,20230516,106
+South,20230523,95
+South,20230530,93
+South,20230606,86
+South,20230613,83
+South,20230620,85
+South,20230627,90
+South,20230704,94
+South,20230711,91
+South,20230718,98
+South,20230725,104
+South,20230801,108
+South,20230808,129
+South,20230815,150
+South,20230822,196
+South,20230829,208
+South,20230905,226
+South,20230912,236
+South,20230919,247
+South,20230926,247
+South,20231003,254
+South,20231010,239
+Southeast,20000104,133
+Southeast,20000111,131
+Southeast,20000118,131
+Southeast,20000125,121
+Southeast,20000201,103
+Southeast,20000208,104
+Southeast,20000215,103
+Southeast,20000222,101
+Southeast,20000229,135
+Southeast,20000307,148
+Southeast,20000314,158
+Southeast,20000321,158
+Southeast,20000328,153
+Southeast,20000404,152
+Southeast,20000411,144
+Southeast,20000418,144
+Southeast,20000425,138
+Southeast,20000502,142
+Southeast,20000509,150
+Southeast,20000516,177
+Southeast,20000523,188
+Southeast,20000530,204
+Southeast,20000606,207
+Southeast,20000613,251
+Southeast,20000620,254
+Southeast,20000627,273
+Southeast,20000704,256
+Southeast,20000711,268
+Southeast,20000718,288
+Southeast,20000725,269
+Southeast,20000801,257
+Southeast,20000808,241
+Southeast,20000815,230
+Southeast,20000822,233
+Southeast,20000829,233
+Southeast,20000905,219
+Southeast,20000912,213
+Southeast,20000919,193
+Southeast,20000926,160
+Southeast,20001003,161
+Southeast,20001010,166
+Southeast,20001017,202
+Southeast,20001024,225
+Southeast,20001031,280
+Southeast,20001107,275
+Southeast,20001114,270
+Southeast,20001121,242
+Southeast,20001128,219
+Southeast,20001205,224
+Southeast,20001212,224
+Southeast,20001219,206
+Southeast,20001226,204
+Southeast,20010102,191
+Southeast,20010109,196
+Southeast,20010116,199
+Southeast,20010123,178
+Southeast,20010130,184
+Southeast,20010206,192
+Southeast,20010213,215
+Southeast,20010220,226
+Southeast,20010227,226
+Southeast,20010306,205
+Southeast,20010313,197
+Southeast,20010320,192
+Southeast,20010327,186
+Southeast,20010403,160
+Southeast,20010410,154
+Southeast,20010417,158
+Southeast,20010424,160
+Southeast,20010501,156
+Southeast,20010508,205
+Southeast,20010515,224
+Southeast,20010522,211
+Southeast,20010529,205
+Southeast,20010605,176
+Southeast,20010612,143
+Southeast,20010619,121
+Southeast,20010626,118
+Southeast,20010703,101
+Southeast,20010710,78
+Southeast,20010717,76
+Southeast,20010724,68
+Southeast,20010731,53
+Southeast,20010807,31
+Southeast,20010814,31
+Southeast,20010821,26
+Southeast,20010828,34
+Southeast,20010904,27
+Southeast,20010911,27
+Southeast,20010918,31
+Southeast,20010925,26
+Southeast,20011002,34
+Southeast,20011009,51
+Southeast,20011016,54
+Southeast,20011023,86
+Southeast,20011030,123
+Southeast,20011106,141
+Southeast,20011113,154
+Southeast,20011120,173
+Southeast,20011127,173
+Southeast,20011204,191
+Southeast,20011211,168
+Southeast,20011218,173
+Southeast,20011225,180
+Southeast,20020101,198
+Southeast,20020108,200
+Southeast,20020115,189
+Southeast,20020122,180
+Southeast,20020129,174
+Southeast,20020205,180
+Southeast,20020212,174
+Southeast,20020219,187
+Southeast,20020226,201
+Southeast,20020305,194
+Southeast,20020312,226
+Southeast,20020319,219
+Southeast,20020326,216
+Southeast,20020402,185
+Southeast,20020409,185
+Southeast,20020416,176
+Southeast,20020423,184
+Southeast,20020430,207
+Southeast,20020507,203
+Southeast,20020514,218
+Southeast,20020521,222
+Southeast,20020528,227
+Southeast,20020604,227
+Southeast,20020611,235
+Southeast,20020618,232
+Southeast,20020625,239
+Southeast,20020702,235
+Southeast,20020709,236
+Southeast,20020716,231
+Southeast,20020723,235
+Southeast,20020730,213
+Southeast,20020806,214
+Southeast,20020813,232
+Southeast,20020820,240
+Southeast,20020827,230
+Southeast,20020903,211
+Southeast,20020910,227
+Southeast,20020917,201
+Southeast,20020924,183
+Southeast,20021001,161
+Southeast,20021008,189
+Southeast,20021015,142
+Southeast,20021022,119
+Southeast,20021029,112
+Southeast,20021105,98
+Southeast,20021112,71
+Southeast,20021119,53
+Southeast,20021126,53
+Southeast,20021203,52
+Southeast,20021210,50
+Southeast,20021217,33
+Southeast,20021224,33
+Southeast,20021231,21
+Southeast,20030107,18
+Southeast,20030114,18
+Southeast,20030121,19
+Southeast,20030128,19
+Southeast,20030204,26
+Southeast,20030211,29
+Southeast,20030218,29
+Southeast,20030225,27
+Southeast,20030304,27
+Southeast,20030311,14
+Southeast,20030318,14
+Southeast,20030325,2
+Southeast,20030401,0
+Southeast,20030408,0
+Southeast,20030415,0
+Southeast,20030422,0
+Southeast,20030429,0
+Southeast,20030506,1
+Southeast,20030513,12
+Southeast,20030520,4
+Southeast,20030527,0
+Southeast,20030603,0
+Southeast,20030610,0
+Southeast,20030617,0
+Southeast,20030624,0
+Southeast,20030701,0
+Southeast,20030708,0
+Southeast,20030715,0
+Southeast,20030722,0
+Southeast,20030729,0
+Southeast,20030805,0
+Southeast,20030812,0
+Southeast,20030819,0
+Southeast,20030826,0
+Southeast,20030902,0
+Southeast,20030909,0
+Southeast,20030916,0
+Southeast,20030923,0
+Southeast,20030930,0
+Southeast,20031007,0
+Southeast,20031014,0
+Southeast,20031021,0
+Southeast,20031028,0
+Southeast,20031104,0
+Southeast,20031111,0
+Southeast,20031118,0
+Southeast,20031125,0
+Southeast,20031202,0
+Southeast,20031209,5
+Southeast,20031216,1
+Southeast,20031223,2
+Southeast,20031230,2
+Southeast,20040106,0
+Southeast,20040113,0
+Southeast,20040120,0
+Southeast,20040127,0
+Southeast,20040203,0
+Southeast,20040210,0
+Southeast,20040217,0
+Southeast,20040224,0
+Southeast,20040302,0
+Southeast,20040309,0
+Southeast,20040316,0
+Southeast,20040323,37
+Southeast,20040330,45
+Southeast,20040406,61
+Southeast,20040413,56
+Southeast,20040420,61
+Southeast,20040427,67
+Southeast,20040504,46
+Southeast,20040511,51
+Southeast,20040518,59
+Southeast,20040525,103
+Southeast,20040601,103
+Southeast,20040608,88
+Southeast,20040615,66
+Southeast,20040622,58
+Southeast,20040629,26
+Southeast,20040706,14
+Southeast,20040713,17
+Southeast,20040720,14
+Southeast,20040727,12
+Southeast,20040803,16
+Southeast,20040810,27
+Southeast,20040817,3
+Southeast,20040824,3
+Southeast,20040831,3
+Southeast,20040907,0
+Southeast,20040914,0
+Southeast,20040921,0
+Southeast,20040928,0
+Southeast,20041005,0
+Southeast,20041012,0
+Southeast,20041019,0
+Southeast,20041026,0
+Southeast,20041102,0
+Southeast,20041109,0
+Southeast,20041116,0
+Southeast,20041123,2
+Southeast,20041130,0
+Southeast,20041207,0
+Southeast,20041214,3
+Southeast,20041221,4
+Southeast,20041228,3
+Southeast,20050104,3
+Southeast,20050111,3
+Southeast,20050118,3
+Southeast,20050125,3
+Southeast,20050201,4
+Southeast,20050208,4
+Southeast,20050215,9
+Southeast,20050222,11
+Southeast,20050301,6
+Southeast,20050308,18
+Southeast,20050315,18
+Southeast,20050322,14
+Southeast,20050329,6
+Southeast,20050405,1
+Southeast,20050412,0
+Southeast,20050419,0
+Southeast,20050426,0
+Southeast,20050503,0
+Southeast,20050510,0
+Southeast,20050517,6
+Southeast,20050524,6
+Southeast,20050531,7
+Southeast,20050607,4
+Southeast,20050614,0
+Southeast,20050621,8
+Southeast,20050628,11
+Southeast,20050705,12
+Southeast,20050712,2
+Southeast,20050719,2
+Southeast,20050726,2
+Southeast,20050802,1
+Southeast,20050809,0
+Southeast,20050816,0
+Southeast,20050823,0
+Southeast,20050830,2
+Southeast,20050906,14
+Southeast,20050913,20
+Southeast,20050920,45
+Southeast,20050927,52
+Southeast,20051004,66
+Southeast,20051011,16
+Southeast,20051018,18
+Southeast,20051025,23
+Southeast,20051101,47
+Southeast,20051108,51
+Southeast,20051115,71
+Southeast,20051122,56
+Southeast,20051129,25
+Southeast,20051206,12
+Southeast,20051213,8
+Southeast,20051220,5
+Southeast,20051227,5
+Southeast,20060103,3
+Southeast,20060110,13
+Southeast,20060117,14
+Southeast,20060124,10
+Southeast,20060131,13
+Southeast,20060207,10
+Southeast,20060214,6
+Southeast,20060221,15
+Southeast,20060228,30
+Southeast,20060307,34
+Southeast,20060314,46
+Southeast,20060321,48
+Southeast,20060328,77
+Southeast,20060404,104
+Southeast,20060411,103
+Southeast,20060418,114
+Southeast,20060425,111
+Southeast,20060502,105
+Southeast,20060509,104
+Southeast,20060516,81
+Southeast,20060523,79
+Southeast,20060530,89
+Southeast,20060606,100
+Southeast,20060613,114
+Southeast,20060620,99
+Southeast,20060627,81
+Southeast,20060704,89
+Southeast,20060711,94
+Southeast,20060718,126
+Southeast,20060725,132
+Southeast,20060801,134
+Southeast,20060808,145
+Southeast,20060815,146
+Southeast,20060822,162
+Southeast,20060829,148
+Southeast,20060905,127
+Southeast,20060912,116
+Southeast,20060919,75
+Southeast,20060926,70
+Southeast,20061003,86
+Southeast,20061010,91
+Southeast,20061017,92
+Southeast,20061024,83
+Southeast,20061031,73
+Southeast,20061107,66
+Southeast,20061114,68
+Southeast,20061121,41
+Southeast,20061128,31
+Southeast,20061205,35
+Southeast,20061212,48
+Southeast,20061219,62
+Southeast,20061226,60
+Southeast,20070102,59
+Southeast,20070109,52
+Southeast,20070116,50
+Southeast,20070123,40
+Southeast,20070130,40
+Southeast,20070206,34
+Southeast,20070213,47
+Southeast,20070220,57
+Southeast,20070227,58
+Southeast,20070306,47
+Southeast,20070313,102
+Southeast,20070320,108
+Southeast,20070327,130
+Southeast,20070403,144
+Southeast,20070410,146
+Southeast,20070417,127
+Southeast,20070424,161
+Southeast,20070501,184
+Southeast,20070508,200
+Southeast,20070515,204
+Southeast,20070522,227
+Southeast,20070529,245
+Southeast,20070605,222
+Southeast,20070612,230
+Southeast,20070619,238
+Southeast,20070626,240
+Southeast,20070703,227
+Southeast,20070710,226
+Southeast,20070717,231
+Southeast,20070724,234
+Southeast,20070731,246
+Southeast,20070807,256
+Southeast,20070814,284
+Southeast,20070821,305
+Southeast,20070828,300
+Southeast,20070904,272
+Southeast,20070911,298
+Southeast,20070918,281
+Southeast,20070925,279
+Southeast,20071002,298
+Southeast,20071009,305
+Southeast,20071016,321
+Southeast,20071023,302
+Southeast,20071030,245
+Southeast,20071106,253
+Southeast,20071113,272
+Southeast,20071120,285
+Southeast,20071127,289
+Southeast,20071204,299
+Southeast,20071211,314
+Southeast,20071218,313
+Southeast,20071225,311
+Southeast,20080101,283
+Southeast,20080108,284
+Southeast,20080115,288
+Southeast,20080122,276
+Southeast,20080129,281
+Southeast,20080205,272
+Southeast,20080212,273
+Southeast,20080219,269
+Southeast,20080226,230
+Southeast,20080304,227
+Southeast,20080311,193
+Southeast,20080318,192
+Southeast,20080325,188
+Southeast,20080401,192
+Southeast,20080408,161
+Southeast,20080415,159
+Southeast,20080422,154
+Southeast,20080429,145
+Southeast,20080506,148
+Southeast,20080513,141
+Southeast,20080520,141
+Southeast,20080527,143
+Southeast,20080603,149
+Southeast,20080610,173
+Southeast,20080617,182
+Southeast,20080624,188
+Southeast,20080701,193
+Southeast,20080708,186
+Southeast,20080715,179
+Southeast,20080722,186
+Southeast,20080729,187
+Southeast,20080805,188
+Southeast,20080812,203
+Southeast,20080819,201
+Southeast,20080826,149
+Southeast,20080902,136
+Southeast,20080909,118
+Southeast,20080916,116
+Southeast,20080923,114
+Southeast,20080930,137
+Southeast,20081007,137
+Southeast,20081014,131
+Southeast,20081021,132
+Southeast,20081028,109
+Southeast,20081104,111
+Southeast,20081111,116
+Southeast,20081118,110
+Southeast,20081125,116
+Southeast,20081202,110
+Southeast,20081209,100
+Southeast,20081216,54
+Southeast,20081223,53
+Southeast,20081230,52
+Southeast,20090106,58
+Southeast,20090113,51
+Southeast,20090120,51
+Southeast,20090127,59
+Southeast,20090203,65
+Southeast,20090210,116
+Southeast,20090217,130
+Southeast,20090224,143
+Southeast,20090303,140
+Southeast,20090310,143
+Southeast,20090317,140
+Southeast,20090324,138
+Southeast,20090331,103
+Southeast,20090407,70
+Southeast,20090414,63
+Southeast,20090421,58
+Southeast,20090428,64
+Southeast,20090505,60
+Southeast,20090512,53
+Southeast,20090519,31
+Southeast,20090526,11
+Southeast,20090602,5
+Southeast,20090609,3
+Southeast,20090616,3
+Southeast,20090623,4
+Southeast,20090630,11
+Southeast,20090707,30
+Southeast,20090714,30
+Southeast,20090721,35
+Southeast,20090728,33
+Southeast,20090804,30
+Southeast,20090811,30
+Southeast,20090818,38
+Southeast,20090825,30
+Southeast,20090901,22
+Southeast,20090908,26
+Southeast,20090915,32
+Southeast,20090922,38
+Southeast,20090929,27
+Southeast,20091006,24
+Southeast,20091013,27
+Southeast,20091020,26
+Southeast,20091027,30
+Southeast,20091103,27
+Southeast,20091110,27
+Southeast,20091117,15
+Southeast,20091124,12
+Southeast,20091201,10
+Southeast,20091208,4
+Southeast,20091215,3
+Southeast,20091222,2
+Southeast,20091229,1
+Southeast,20100105,1
+Southeast,20100112,1
+Southeast,20100119,1
+Southeast,20100126,0
+Southeast,20100202,0
+Southeast,20100209,0
+Southeast,20100216,0
+Southeast,20100223,0
+Southeast,20100302,0
+Southeast,20100309,3
+Southeast,20100316,0
+Southeast,20100323,0
+Southeast,20100330,0
+Southeast,20100406,5
+Southeast,20100413,6
+Southeast,20100420,9
+Southeast,20100427,18
+Southeast,20100504,16
+Southeast,20100511,22
+Southeast,20100518,11
+Southeast,20100525,6
+Southeast,20100601,6
+Southeast,20100608,5
+Southeast,20100615,6
+Southeast,20100622,8
+Southeast,20100629,24
+Southeast,20100706,46
+Southeast,20100713,50
+Southeast,20100720,61
+Southeast,20100727,75
+Southeast,20100803,73
+Southeast,20100810,84
+Southeast,20100817,85
+Southeast,20100824,62
+Southeast,20100831,61
+Southeast,20100907,70
+Southeast,20100914,109
+Southeast,20100921,144
+Southeast,20100928,130
+Southeast,20101005,98
+Southeast,20101012,111
+Southeast,20101019,126
+Southeast,20101026,130
+Southeast,20101102,132
+Southeast,20101109,132
+Southeast,20101116,128
+Southeast,20101123,143
+Southeast,20101130,158
+Southeast,20101207,151
+Southeast,20101214,151
+Southeast,20101221,152
+Southeast,20101228,156
+Southeast,20110104,155
+Southeast,20110111,173
+Southeast,20110118,181
+Southeast,20110125,186
+Southeast,20110201,192
+Southeast,20110208,174
+Southeast,20110215,184
+Southeast,20110222,191
+Southeast,20110301,199
+Southeast,20110308,183
+Southeast,20110315,169
+Southeast,20110322,172
+Southeast,20110329,158
+Southeast,20110405,139
+Southeast,20110412,137
+Southeast,20110419,127
+Southeast,20110426,125
+Southeast,20110503,129
+Southeast,20110510,142
+Southeast,20110517,154
+Southeast,20110524,161
+Southeast,20110531,176
+Southeast,20110607,196
+Southeast,20110614,215
+Southeast,20110621,236
+Southeast,20110628,232
+Southeast,20110705,240
+Southeast,20110712,216
+Southeast,20110719,193
+Southeast,20110726,195
+Southeast,20110802,204
+Southeast,20110809,201
+Southeast,20110816,173
+Southeast,20110823,173
+Southeast,20110830,187
+Southeast,20110906,157
+Southeast,20110913,160
+Southeast,20110920,163
+Southeast,20110927,153
+Southeast,20111004,154
+Southeast,20111011,155
+Southeast,20111018,152
+Southeast,20111025,150
+Southeast,20111101,156
+Southeast,20111108,161
+Southeast,20111115,164
+Southeast,20111122,163
+Southeast,20111129,144
+Southeast,20111206,149
+Southeast,20111213,147
+Southeast,20111220,152
+Southeast,20111227,148
+Southeast,20120103,157
+Southeast,20120110,168
+Southeast,20120117,181
+Southeast,20120124,174
+Southeast,20120131,186
+Southeast,20120207,198
+Southeast,20120214,210
+Southeast,20120221,203
+Southeast,20120228,201
+Southeast,20120306,184
+Southeast,20120313,188
+Southeast,20120320,199
+Southeast,20120327,191
+Southeast,20120403,195
+Southeast,20120410,214
+Southeast,20120417,222
+Southeast,20120424,221
+Southeast,20120501,241
+Southeast,20120508,238
+Southeast,20120515,220
+Southeast,20120522,206
+Southeast,20120529,193
+Southeast,20120605,171
+Southeast,20120612,129
+Southeast,20120619,125
+Southeast,20120626,114
+Southeast,20120703,138
+Southeast,20120710,140
+Southeast,20120717,137
+Southeast,20120724,134
+Southeast,20120731,127
+Southeast,20120807,113
+Southeast,20120814,94
+Southeast,20120821,92
+Southeast,20120828,84
+Southeast,20120904,76
+Southeast,20120911,78
+Southeast,20120918,77
+Southeast,20120925,74
+Southeast,20121002,62
+Southeast,20121009,59
+Southeast,20121016,67
+Southeast,20121023,69
+Southeast,20121030,74
+Southeast,20121106,91
+Southeast,20121113,103
+Southeast,20121120,114
+Southeast,20121127,145
+Southeast,20121204,158
+Southeast,20121211,156
+Southeast,20121218,157
+Southeast,20121225,158
+Southeast,20130101,147
+Southeast,20130108,147
+Southeast,20130115,144
+Southeast,20130122,131
+Southeast,20130129,151
+Southeast,20130205,152
+Southeast,20130212,130
+Southeast,20130219,131
+Southeast,20130226,83
+Southeast,20130305,78
+Southeast,20130312,75
+Southeast,20130319,76
+Southeast,20130326,55
+Southeast,20130402,57
+Southeast,20130409,48
+Southeast,20130416,40
+Southeast,20130423,35
+Southeast,20130430,28
+Southeast,20130507,14
+Southeast,20130514,14
+Southeast,20130521,15
+Southeast,20130528,19
+Southeast,20130604,19
+Southeast,20130611,8
+Southeast,20130618,9
+Southeast,20130625,9
+Southeast,20130702,4
+Southeast,20130709,1
+Southeast,20130716,0
+Southeast,20130723,0
+Southeast,20130730,0
+Southeast,20130806,0
+Southeast,20130813,0
+Southeast,20130820,0
+Southeast,20130827,0
+Southeast,20130903,0
+Southeast,20130910,0
+Southeast,20130917,2
+Southeast,20130924,2
+Southeast,20131001,9
+Southeast,20131008,9
+Southeast,20131015,1
+Southeast,20131022,11
+Southeast,20131029,24
+Southeast,20131105,31
+Southeast,20131112,39
+Southeast,20131119,57
+Southeast,20131126,50
+Southeast,20131203,43
+Southeast,20131210,41
+Southeast,20131217,42
+Southeast,20131224,29
+Southeast,20131231,8
+Southeast,20140107,9
+Southeast,20140114,5
+Southeast,20140121,5
+Southeast,20140128,15
+Southeast,20140204,9
+Southeast,20140211,5
+Southeast,20140218,3
+Southeast,20140225,2
+Southeast,20140304,2
+Southeast,20140311,6
+Southeast,20140318,6
+Southeast,20140325,7
+Southeast,20140401,10
+Southeast,20140408,1
+Southeast,20140415,1
+Southeast,20140422,3
+Southeast,20140429,2
+Southeast,20140506,4
+Southeast,20140513,7
+Southeast,20140520,5
+Southeast,20140527,7
+Southeast,20140603,8
+Southeast,20140610,8
+Southeast,20140617,6
+Southeast,20140624,6
+Southeast,20140701,5
+Southeast,20140708,14
+Southeast,20140715,24
+Southeast,20140722,20
+Southeast,20140729,29
+Southeast,20140805,28
+Southeast,20140812,27
+Southeast,20140819,31
+Southeast,20140826,39
+Southeast,20140902,50
+Southeast,20140909,43
+Southeast,20140916,44
+Southeast,20140923,48
+Southeast,20140930,56
+Southeast,20141007,51
+Southeast,20141014,40
+Southeast,20141021,37
+Southeast,20141028,46
+Southeast,20141104,54
+Southeast,20141111,61
+Southeast,20141118,59
+Southeast,20141125,39
+Southeast,20141202,38
+Southeast,20141209,41
+Southeast,20141216,49
+Southeast,20141223,49
+Southeast,20141230,16
+Southeast,20150106,12
+Southeast,20150113,10
+Southeast,20150120,16
+Southeast,20150127,15
+Southeast,20150203,17
+Southeast,20150210,26
+Southeast,20150217,33
+Southeast,20150224,34
+Southeast,20150303,28
+Southeast,20150310,27
+Southeast,20150317,28
+Southeast,20150324,28
+Southeast,20150331,37
+Southeast,20150407,44
+Southeast,20150414,41
+Southeast,20150421,17
+Southeast,20150428,13
+Southeast,20150505,15
+Southeast,20150512,19
+Southeast,20150519,21
+Southeast,20150526,37
+Southeast,20150602,37
+Southeast,20150609,30
+Southeast,20150616,35
+Southeast,20150623,55
+Southeast,20150630,59
+Southeast,20150707,53
+Southeast,20150714,56
+Southeast,20150721,62
+Southeast,20150728,65
+Southeast,20150804,83
+Southeast,20150811,82
+Southeast,20150818,84
+Southeast,20150825,82
+Southeast,20150901,84
+Southeast,20150908,90
+Southeast,20150915,94
+Southeast,20150922,92
+Southeast,20150929,61
+Southeast,20151006,26
+Southeast,20151013,31
+Southeast,20151020,33
+Southeast,20151027,27
+Southeast,20151103,20
+Southeast,20151110,10
+Southeast,20151117,11
+Southeast,20151124,8
+Southeast,20151201,7
+Southeast,20151208,5
+Southeast,20151215,8
+Southeast,20151222,7
+Southeast,20151229,6
+Southeast,20160105,7
+Southeast,20160112,7
+Southeast,20160119,6
+Southeast,20160126,4
+Southeast,20160202,5
+Southeast,20160209,2
+Southeast,20160216,2
+Southeast,20160223,1
+Southeast,20160301,3
+Southeast,20160308,7
+Southeast,20160315,9
+Southeast,20160322,11
+Southeast,20160329,17
+Southeast,20160405,17
+Southeast,20160412,19
+Southeast,20160419,35
+Southeast,20160426,43
+Southeast,20160503,46
+Southeast,20160510,33
+Southeast,20160517,38
+Southeast,20160524,31
+Southeast,20160531,37
+Southeast,20160607,39
+Southeast,20160614,46
+Southeast,20160621,51
+Southeast,20160628,55
+Southeast,20160705,59
+Southeast,20160712,62
+Southeast,20160719,64
+Southeast,20160726,66
+Southeast,20160802,71
+Southeast,20160809,63
+Southeast,20160816,62
+Southeast,20160823,60
+Southeast,20160830,66
+Southeast,20160906,54
+Southeast,20160913,73
+Southeast,20160920,76
+Southeast,20160927,87
+Southeast,20161004,82
+Southeast,20161011,96
+Southeast,20161018,116
+Southeast,20161025,130
+Southeast,20161101,139
+Southeast,20161108,153
+Southeast,20161115,181
+Southeast,20161122,210
+Southeast,20161129,219
+Southeast,20161206,199
+Southeast,20161213,190
+Southeast,20161220,194
+Southeast,20161227,194
+Southeast,20170103,141
+Southeast,20170110,128
+Southeast,20170117,127
+Southeast,20170124,75
+Southeast,20170131,75
+Southeast,20170207,75
+Southeast,20170214,93
+Southeast,20170221,100
+Southeast,20170228,109
+Southeast,20170307,109
+Southeast,20170314,108
+Southeast,20170321,124
+Southeast,20170328,136
+Southeast,20170404,121
+Southeast,20170411,118
+Southeast,20170418,135
+Southeast,20170425,113
+Southeast,20170502,108
+Southeast,20170509,99
+Southeast,20170516,99
+Southeast,20170523,78
+Southeast,20170530,68
+Southeast,20170606,45
+Southeast,20170613,21
+Southeast,20170620,11
+Southeast,20170627,5
+Southeast,20170704,1
+Southeast,20170711,0
+Southeast,20170718,1
+Southeast,20170725,5
+Southeast,20170801,11
+Southeast,20170808,11
+Southeast,20170815,8
+Southeast,20170822,10
+Southeast,20170829,14
+Southeast,20170905,9
+Southeast,20170912,2
+Southeast,20170919,3
+Southeast,20170926,5
+Southeast,20171003,13
+Southeast,20171010,23
+Southeast,20171017,32
+Southeast,20171024,28
+Southeast,20171031,25
+Southeast,20171107,27
+Southeast,20171114,42
+Southeast,20171121,53
+Southeast,20171128,72
+Southeast,20171205,88
+Southeast,20171212,86
+Southeast,20171219,90
+Southeast,20171226,90
+Southeast,20180102,106
+Southeast,20180109,115
+Southeast,20180116,119
+Southeast,20180123,135
+Southeast,20180130,132
+Southeast,20180206,124
+Southeast,20180213,70
+Southeast,20180220,63
+Southeast,20180227,61
+Southeast,20180306,68
+Southeast,20180313,74
+Southeast,20180320,71
+Southeast,20180327,79
+Southeast,20180403,88
+Southeast,20180410,91
+Southeast,20180417,74
+Southeast,20180424,59
+Southeast,20180501,52
+Southeast,20180508,56
+Southeast,20180515,52
+Southeast,20180522,19
+Southeast,20180529,3
+Southeast,20180605,2
+Southeast,20180612,1
+Southeast,20180619,2
+Southeast,20180626,2
+Southeast,20180703,3
+Southeast,20180710,4
+Southeast,20180717,6
+Southeast,20180724,4
+Southeast,20180731,7
+Southeast,20180807,2
+Southeast,20180814,3
+Southeast,20180821,3
+Southeast,20180828,4
+Southeast,20180904,12
+Southeast,20180911,12
+Southeast,20180918,13
+Southeast,20180925,17
+Southeast,20181002,18
+Southeast,20181009,22
+Southeast,20181016,13
+Southeast,20181023,15
+Southeast,20181030,13
+Southeast,20181106,12
+Southeast,20181113,13
+Southeast,20181120,13
+Southeast,20181127,13
+Southeast,20181204,9
+Southeast,20181211,11
+Southeast,20181218,11
+Southeast,20181225,10
+Southeast,20190101,11
+Southeast,20190108,12
+Southeast,20190115,13
+Southeast,20190122,13
+Southeast,20190129,7
+Southeast,20190205,5
+Southeast,20190212,5
+Southeast,20190219,4
+Southeast,20190226,6
+Southeast,20190305,6
+Southeast,20190312,12
+Southeast,20190319,14
+Southeast,20190326,31
+Southeast,20190402,48
+Southeast,20190409,48
+Southeast,20190416,45
+Southeast,20190423,37
+Southeast,20190430,38
+Southeast,20190507,38
+Southeast,20190514,32
+Southeast,20190521,38
+Southeast,20190528,63
+Southeast,20190604,87
+Southeast,20190611,61
+Southeast,20190618,44
+Southeast,20190625,37
+Southeast,20190702,34
+Southeast,20190709,35
+Southeast,20190716,31
+Southeast,20190723,30
+Southeast,20190730,30
+Southeast,20190806,28
+Southeast,20190813,43
+Southeast,20190820,41
+Southeast,20190827,35
+Southeast,20190903,31
+Southeast,20190910,38
+Southeast,20190917,65
+Southeast,20190924,119
+Southeast,20191001,138
+Southeast,20191008,167
+Southeast,20191015,190
+Southeast,20191022,147
+Southeast,20191029,125
+Southeast,20191105,89
+Southeast,20191112,71
+Southeast,20191119,55
+Southeast,20191126,49
+Southeast,20191203,40
+Southeast,20191210,41
+Southeast,20191217,31
+Southeast,20191224,9
+Southeast,20191231,9
+Southeast,20200107,7
+Southeast,20200114,7
+Southeast,20200121,10
+Southeast,20200128,20
+Southeast,20200204,19
+Southeast,20200211,7
+Southeast,20200218,7
+Southeast,20200225,9
+Southeast,20200303,9
+Southeast,20200310,11
+Southeast,20200317,15
+Southeast,20200324,22
+Southeast,20200331,38
+Southeast,20200407,48
+Southeast,20200414,47
+Southeast,20200421,40
+Southeast,20200428,29
+Southeast,20200505,25
+Southeast,20200512,30
+Southeast,20200519,31
+Southeast,20200526,26
+Southeast,20200602,15
+Southeast,20200609,5
+Southeast,20200616,5
+Southeast,20200623,4
+Southeast,20200630,4
+Southeast,20200707,3
+Southeast,20200714,5
+Southeast,20200721,18
+Southeast,20200728,28
+Southeast,20200804,19
+Southeast,20200811,15
+Southeast,20200818,10
+Southeast,20200825,3
+Southeast,20200901,3
+Southeast,20200908,7
+Southeast,20200915,7
+Southeast,20200922,2
+Southeast,20200929,1
+Southeast,20201006,2
+Southeast,20201013,2
+Southeast,20201020,3
+Southeast,20201027,4
+Southeast,20201103,4
+Southeast,20201110,4
+Southeast,20201117,4
+Southeast,20201124,14
+Southeast,20201201,11
+Southeast,20201208,12
+Southeast,20201215,17
+Southeast,20201222,16
+Southeast,20201229,12
+Southeast,20210105,6
+Southeast,20210112,6
+Southeast,20210119,10
+Southeast,20210126,14
+Southeast,20210202,23
+Southeast,20210209,19
+Southeast,20210216,15
+Southeast,20210223,10
+Southeast,20210302,11
+Southeast,20210309,16
+Southeast,20210316,20
+Southeast,20210323,18
+Southeast,20210330,14
+Southeast,20210406,15
+Southeast,20210413,13
+Southeast,20210420,25
+Southeast,20210427,27
+Southeast,20210504,23
+Southeast,20210511,25
+Southeast,20210518,30
+Southeast,20210525,52
+Southeast,20210601,68
+Southeast,20210608,59
+Southeast,20210615,39
+Southeast,20210622,26
+Southeast,20210629,22
+Southeast,20210706,18
+Southeast,20210713,11
+Southeast,20210720,10
+Southeast,20210727,11
+Southeast,20210803,12
+Southeast,20210810,14
+Southeast,20210817,11
+Southeast,20210824,6
+Southeast,20210831,6
+Southeast,20210907,8
+Southeast,20210914,9
+Southeast,20210921,7
+Southeast,20210928,3
+Southeast,20211005,11
+Southeast,20211012,11
+Southeast,20211019,12
+Southeast,20211026,24
+Southeast,20211102,26
+Southeast,20211109,26
+Southeast,20211116,34
+Southeast,20211123,50
+Southeast,20211130,71
+Southeast,20211207,105
+Southeast,20211214,102
+Southeast,20211221,91
+Southeast,20211228,100
+Southeast,20220104,61
+Southeast,20220111,60
+Southeast,20220118,43
+Southeast,20220125,34
+Southeast,20220201,37
+Southeast,20220208,24
+Southeast,20220215,30
+Southeast,20220222,50
+Southeast,20220301,61
+Southeast,20220308,88
+Southeast,20220315,78
+Southeast,20220322,61
+Southeast,20220329,63
+Southeast,20220405,64
+Southeast,20220412,56
+Southeast,20220419,52
+Southeast,20220426,54
+Southeast,20220503,58
+Southeast,20220510,58
+Southeast,20220517,72
+Southeast,20220524,57
+Southeast,20220531,38
+Southeast,20220607,41
+Southeast,20220614,47
+Southeast,20220621,69
+Southeast,20220628,96
+Southeast,20220705,95
+Southeast,20220712,55
+Southeast,20220719,39
+Southeast,20220726,34
+Southeast,20220802,24
+Southeast,20220809,23
+Southeast,20220816,22
+Southeast,20220823,13
+Southeast,20220830,14
+Southeast,20220906,19
+Southeast,20220913,16
+Southeast,20220920,20
+Southeast,20220927,39
+Southeast,20221004,27
+Southeast,20221011,54
+Southeast,20221018,58
+Southeast,20221025,79
+Southeast,20221101,94
+Southeast,20221108,111
+Southeast,20221115,92
+Southeast,20221122,95
+Southeast,20221129,95
+Southeast,20221206,82
+Southeast,20221213,87
+Southeast,20221220,72
+Southeast,20221227,69
+Southeast,20230103,67
+Southeast,20230110,59
+Southeast,20230117,59
+Southeast,20230124,45
+Southeast,20230131,38
+Southeast,20230207,31
+Southeast,20230214,24
+Southeast,20230221,27
+Southeast,20230228,36
+Southeast,20230307,53
+Southeast,20230314,49
+Southeast,20230321,57
+Southeast,20230328,73
+Southeast,20230404,81
+Southeast,20230411,64
+Southeast,20230418,63
+Southeast,20230425,64
+Southeast,20230502,38
+Southeast,20230509,39
+Southeast,20230516,38
+Southeast,20230523,27
+Southeast,20230530,16
+Southeast,20230606,20
+Southeast,20230613,32
+Southeast,20230620,31
+Southeast,20230627,16
+Southeast,20230704,15
+Southeast,20230711,13
+Southeast,20230718,10
+Southeast,20230725,9
+Southeast,20230801,14
+Southeast,20230808,14
+Southeast,20230815,24
+Southeast,20230822,39
+Southeast,20230829,44
+Southeast,20230905,35
+Southeast,20230912,40
+Southeast,20230919,53
+Southeast,20230926,57
+Southeast,20231003,79
+Southeast,20231010,97
+West,20000104,14
+West,20000111,30
+West,20000118,32
+West,20000125,34
+West,20000201,30
+West,20000208,28
+West,20000215,31
+West,20000222,24
+West,20000229,24
+West,20000307,22
+West,20000314,16
+West,20000321,17
+West,20000328,15
+West,20000404,17
+West,20000411,19
+West,20000418,21
+West,20000425,20
+West,20000502,21
+West,20000509,22
+West,20000516,30
+West,20000523,30
+West,20000530,34
+West,20000606,36
+West,20000613,43
+West,20000620,47
+West,20000627,52
+West,20000704,56
+West,20000711,60
+West,20000718,55
+West,20000725,54
+West,20000801,56
+West,20000808,62
+West,20000815,67
+West,20000822,67
+West,20000829,74
+West,20000905,65
+West,20000912,64
+West,20000919,66
+West,20000926,69
+West,20001003,74
+West,20001010,72
+West,20001017,60
+West,20001024,61
+West,20001031,45
+West,20001107,31
+West,20001114,24
+West,20001121,25
+West,20001128,25
+West,20001205,22
+West,20001212,22
+West,20001219,20
+West,20001226,19
+West,20010102,21
+West,20010109,25
+West,20010116,22
+West,20010123,37
+West,20010130,37
+West,20010206,38
+West,20010213,56
+West,20010220,55
+West,20010227,58
+West,20010306,59
+West,20010313,68
+West,20010320,70
+West,20010327,70
+West,20010403,73
+West,20010410,73
+West,20010417,74
+West,20010424,73
+West,20010501,73
+West,20010508,73
+West,20010515,77
+West,20010522,77
+West,20010529,78
+West,20010605,82
+West,20010612,86
+West,20010619,94
+West,20010626,101
+West,20010703,114
+West,20010710,103
+West,20010717,103
+West,20010724,102
+West,20010731,105
+West,20010807,104
+West,20010814,105
+West,20010821,112
+West,20010828,117
+West,20010904,120
+West,20010911,132
+West,20010918,132
+West,20010925,132
+West,20011002,133
+West,20011009,134
+West,20011016,134
+West,20011023,134
+West,20011030,137
+West,20011106,141
+West,20011113,141
+West,20011120,140
+West,20011127,137
+West,20011204,129
+West,20011211,126
+West,20011218,124
+West,20011225,119
+West,20020101,117
+West,20020108,105
+West,20020115,103
+West,20020122,104
+West,20020129,99
+West,20020205,102
+West,20020212,108
+West,20020219,110
+West,20020226,112
+West,20020305,111
+West,20020312,128
+West,20020319,121
+West,20020326,127
+West,20020402,132
+West,20020409,135
+West,20020416,143
+West,20020423,152
+West,20020430,157
+West,20020507,158
+West,20020514,165
+West,20020521,164
+West,20020528,173
+West,20020604,182
+West,20020611,179
+West,20020618,182
+West,20020625,190
+West,20020702,197
+West,20020709,197
+West,20020716,201
+West,20020723,203
+West,20020730,202
+West,20020806,208
+West,20020813,207
+West,20020820,203
+West,20020827,204
+West,20020903,199
+West,20020910,190
+West,20020917,188
+West,20020924,186
+West,20021001,183
+West,20021008,182
+West,20021015,182
+West,20021022,183
+West,20021029,183
+West,20021105,191
+West,20021112,177
+West,20021119,177
+West,20021126,178
+West,20021203,177
+West,20021210,186
+West,20021217,179
+West,20021224,178
+West,20021231,173
+West,20030107,176
+West,20030114,182
+West,20030121,184
+West,20030128,187
+West,20030204,185
+West,20030211,190
+West,20030218,186
+West,20030225,188
+West,20030304,187
+West,20030311,185
+West,20030318,188
+West,20030325,185
+West,20030401,179
+West,20030408,172
+West,20030415,167
+West,20030422,168
+West,20030429,163
+West,20030506,159
+West,20030513,157
+West,20030520,159
+West,20030527,160
+West,20030603,163
+West,20030610,163
+West,20030617,166
+West,20030624,163
+West,20030701,167
+West,20030708,167
+West,20030715,176
+West,20030722,182
+West,20030729,191
+West,20030805,192
+West,20030812,192
+West,20030819,195
+West,20030826,198
+West,20030902,196
+West,20030909,196
+West,20030916,192
+West,20030923,192
+West,20030930,190
+West,20031007,192
+West,20031014,194
+West,20031021,195
+West,20031028,200
+West,20031104,197
+West,20031111,198
+West,20031118,195
+West,20031125,194
+West,20031202,194
+West,20031209,193
+West,20031216,192
+West,20031223,192
+West,20031230,185
+West,20040106,184
+West,20040113,178
+West,20040120,178
+West,20040127,176
+West,20040203,176
+West,20040210,176
+West,20040217,177
+West,20040224,177
+West,20040302,170
+West,20040309,168
+West,20040316,168
+West,20040323,170
+West,20040330,172
+West,20040406,161
+West,20040413,165
+West,20040420,167
+West,20040427,167
+West,20040504,173
+West,20040511,174
+West,20040518,174
+West,20040525,173
+West,20040601,170
+West,20040608,167
+West,20040615,167
+West,20040622,166
+West,20040629,170
+West,20040706,172
+West,20040713,174
+West,20040720,179
+West,20040727,184
+West,20040803,184
+West,20040810,185
+West,20040817,188
+West,20040824,183
+West,20040831,180
+West,20040907,174
+West,20040914,169
+West,20040921,166
+West,20040928,157
+West,20041005,156
+West,20041012,156
+West,20041019,154
+West,20041026,149
+West,20041102,148
+West,20041109,146
+West,20041116,144
+West,20041123,143
+West,20041130,136
+West,20041207,136
+West,20041214,133
+West,20041221,135
+West,20041228,129
+West,20050104,121
+West,20050111,119
+West,20050118,117
+West,20050125,117
+West,20050201,124
+West,20050208,125
+West,20050215,124
+West,20050222,126
+West,20050301,125
+West,20050308,126
+West,20050315,130
+West,20050322,130
+West,20050329,123
+West,20050405,120
+West,20050412,111
+West,20050419,104
+West,20050426,99
+West,20050503,96
+West,20050510,89
+West,20050517,81
+West,20050524,81
+West,20050531,81
+West,20050607,77
+West,20050614,71
+West,20050621,67
+West,20050628,69
+West,20050705,71
+West,20050712,67
+West,20050719,68
+West,20050726,75
+West,20050802,79
+West,20050809,73
+West,20050816,72
+West,20050823,70
+West,20050830,70
+West,20050906,70
+West,20050913,70
+West,20050920,71
+West,20050927,70
+West,20051004,64
+West,20051011,59
+West,20051018,56
+West,20051025,56
+West,20051101,60
+West,20051108,55
+West,20051115,54
+West,20051122,53
+West,20051129,52
+West,20051206,45
+West,20051213,47
+West,20051220,49
+West,20051227,46
+West,20060103,41
+West,20060110,41
+West,20060117,47
+West,20060124,47
+West,20060131,53
+West,20060207,63
+West,20060214,62
+West,20060221,64
+West,20060228,65
+West,20060307,68
+West,20060314,67
+West,20060321,69
+West,20060328,69
+West,20060404,69
+West,20060411,66
+West,20060418,67
+West,20060425,68
+West,20060502,70
+West,20060509,75
+West,20060516,75
+West,20060523,74
+West,20060530,76
+West,20060606,79
+West,20060613,82
+West,20060620,82
+West,20060627,83
+West,20060704,80
+West,20060711,76
+West,20060718,85
+West,20060725,90
+West,20060801,82
+West,20060808,83
+West,20060815,84
+West,20060822,76
+West,20060829,77
+West,20060905,80
+West,20060912,78
+West,20060919,76
+West,20060926,74
+West,20061003,75
+West,20061010,70
+West,20061017,70
+West,20061024,69
+West,20061031,66
+West,20061107,55
+West,20061114,55
+West,20061121,54
+West,20061128,54
+West,20061205,57
+West,20061212,58
+West,20061219,69
+West,20061226,68
+West,20070102,68
+West,20070109,73
+West,20070116,71
+West,20070123,76
+West,20070130,81
+West,20070206,86
+West,20070213,86
+West,20070220,88
+West,20070227,83
+West,20070306,83
+West,20070313,95
+West,20070320,97
+West,20070327,110
+West,20070403,107
+West,20070410,111
+West,20070417,120
+West,20070424,115
+West,20070501,115
+West,20070508,111
+West,20070515,114
+West,20070522,115
+West,20070529,115
+West,20070605,114
+West,20070612,111
+West,20070619,113
+West,20070626,113
+West,20070703,116
+West,20070710,127
+West,20070717,129
+West,20070724,139
+West,20070731,143
+West,20070807,147
+West,20070814,146
+West,20070821,148
+West,20070828,147
+West,20070904,147
+West,20070911,145
+West,20070918,145
+West,20070925,140
+West,20071002,138
+West,20071009,136
+West,20071016,136
+West,20071023,130
+West,20071030,127
+West,20071106,128
+West,20071113,125
+West,20071120,125
+West,20071127,126
+West,20071204,116
+West,20071211,114
+West,20071218,116
+West,20071225,116
+West,20080101,120
+West,20080108,114
+West,20080115,114
+West,20080122,110
+West,20080129,100
+West,20080205,96
+West,20080212,95
+West,20080219,94
+West,20080226,91
+West,20080304,86
+West,20080311,86
+West,20080318,88
+West,20080325,88
+West,20080401,83
+West,20080408,76
+West,20080415,80
+West,20080422,79
+West,20080429,86
+West,20080506,84
+West,20080513,84
+West,20080520,82
+West,20080527,64
+West,20080603,69
+West,20080610,69
+West,20080617,72
+West,20080624,72
+West,20080701,71
+West,20080708,71
+West,20080715,68
+West,20080722,69
+West,20080729,72
+West,20080805,75
+West,20080812,74
+West,20080819,71
+West,20080826,71
+West,20080902,72
+West,20080909,72
+West,20080916,77
+West,20080923,76
+West,20080930,76
+West,20081007,75
+West,20081014,72
+West,20081021,76
+West,20081028,75
+West,20081104,73
+West,20081111,71
+West,20081118,75
+West,20081125,75
+West,20081202,77
+West,20081209,80
+West,20081216,85
+West,20081223,81
+West,20081230,77
+West,20090106,76
+West,20090113,73
+West,20090120,73
+West,20090127,74
+West,20090203,76
+West,20090210,74
+West,20090217,70
+West,20090224,71
+West,20090303,72
+West,20090310,64
+West,20090317,65
+West,20090324,68
+West,20090331,68
+West,20090407,65
+West,20090414,66
+West,20090421,70
+West,20090428,69
+West,20090505,65
+West,20090512,64
+West,20090519,66
+West,20090526,57
+West,20090602,61
+West,20090609,60
+West,20090616,59
+West,20090623,53
+West,20090630,55
+West,20090707,55
+West,20090714,56
+West,20090721,56
+West,20090728,52
+West,20090804,52
+West,20090811,57
+West,20090818,54
+West,20090825,57
+West,20090901,59
+West,20090908,61
+West,20090915,60
+West,20090922,55
+West,20090929,63
+West,20091006,65
+West,20091013,68
+West,20091020,59
+West,20091027,56
+West,20091103,57
+West,20091110,59
+West,20091117,59
+West,20091124,65
+West,20091201,65
+West,20091208,67
+West,20091215,70
+West,20091222,70
+West,20091229,75
+West,20100105,77
+West,20100112,91
+West,20100119,89
+West,20100126,71
+West,20100202,69
+West,20100209,70
+West,20100216,74
+West,20100223,74
+West,20100302,74
+West,20100309,75
+West,20100316,73
+West,20100323,72
+West,20100330,71
+West,20100406,69
+West,20100413,69
+West,20100420,67
+West,20100427,67
+West,20100504,65
+West,20100511,62
+West,20100518,57
+West,20100525,54
+West,20100601,53
+West,20100608,47
+West,20100615,50
+West,20100622,48
+West,20100629,46
+West,20100706,39
+West,20100713,39
+West,20100720,41
+West,20100727,37
+West,20100803,31
+West,20100810,31
+West,20100817,30
+West,20100824,30
+West,20100831,29
+West,20100907,28
+West,20100914,29
+West,20100921,33
+West,20100928,41
+West,20101005,41
+West,20101012,39
+West,20101019,39
+West,20101026,34
+West,20101102,34
+West,20101109,37
+West,20101116,37
+West,20101123,35
+West,20101130,35
+West,20101207,35
+West,20101214,38
+West,20101221,37
+West,20101228,34
+West,20110104,33
+West,20110111,31
+West,20110118,31
+West,20110125,33
+West,20110201,40
+West,20110208,40
+West,20110215,39
+West,20110222,35
+West,20110301,37
+West,20110308,39
+West,20110315,41
+West,20110322,42
+West,20110329,45
+West,20110405,47
+West,20110412,47
+West,20110419,47
+West,20110426,50
+West,20110503,52
+West,20110510,53
+West,20110517,53
+West,20110524,51
+West,20110531,50
+West,20110607,54
+West,20110614,55
+West,20110621,55
+West,20110628,61
+West,20110705,60
+West,20110712,58
+West,20110719,57
+West,20110726,57
+West,20110802,56
+West,20110809,55
+West,20110816,55
+West,20110823,54
+West,20110830,54
+West,20110906,54
+West,20110913,55
+West,20110920,50
+West,20110927,54
+West,20111004,55
+West,20111011,48
+West,20111018,47
+West,20111025,48
+West,20111101,49
+West,20111108,49
+West,20111115,49
+West,20111122,49
+West,20111129,49
+West,20111206,50
+West,20111213,50
+West,20111220,46
+West,20111227,59
+West,20120103,63
+West,20120110,70
+West,20120117,73
+West,20120124,78
+West,20120131,82
+West,20120207,83
+West,20120214,82
+West,20120221,85
+West,20120228,90
+West,20120306,92
+West,20120313,99
+West,20120320,92
+West,20120327,95
+West,20120403,99
+West,20120410,99
+West,20120417,96
+West,20120424,98
+West,20120501,98
+West,20120508,100
+West,20120515,101
+West,20120522,106
+West,20120529,107
+West,20120605,107
+West,20120612,109
+West,20120619,125
+West,20120626,145
+West,20120703,150
+West,20120710,149
+West,20120717,152
+West,20120724,155
+West,20120731,155
+West,20120807,155
+West,20120814,158
+West,20120821,159
+West,20120828,158
+West,20120904,162
+West,20120911,161
+West,20120918,160
+West,20120925,160
+West,20121002,161
+West,20121009,163
+West,20121016,159
+West,20121023,161
+West,20121030,161
+West,20121106,157
+West,20121113,153
+West,20121120,155
+West,20121127,163
+West,20121204,159
+West,20121211,157
+West,20121218,158
+West,20121225,164
+West,20130101,163
+West,20130108,161
+West,20130115,161
+West,20130122,163
+West,20130129,160
+West,20130205,158
+West,20130212,152
+West,20130219,155
+West,20130226,157
+West,20130305,154
+West,20130312,152
+West,20130319,153
+West,20130326,155
+West,20130402,156
+West,20130409,156
+West,20130416,148
+West,20130423,152
+West,20130430,152
+West,20130507,159
+West,20130514,160
+West,20130521,159
+West,20130528,159
+West,20130604,158
+West,20130611,160
+West,20130618,169
+West,20130625,182
+West,20130702,186
+West,20130709,185
+West,20130716,186
+West,20130723,190
+West,20130730,188
+West,20130806,188
+West,20130813,189
+West,20130820,192
+West,20130827,191
+West,20130903,181
+West,20130910,180
+West,20130917,151
+West,20130924,148
+West,20131001,133
+West,20131008,129
+West,20131015,128
+West,20131022,126
+West,20131029,126
+West,20131105,125
+West,20131112,125
+West,20131119,121
+West,20131126,117
+West,20131203,114
+West,20131210,115
+West,20131217,117
+West,20131224,117
+West,20131231,118
+West,20140107,126
+West,20140114,134
+West,20140121,134
+West,20140128,140
+West,20140204,140
+West,20140211,141
+West,20140218,135
+West,20140225,136
+West,20140304,136
+West,20140311,133
+West,20140318,130
+West,20140325,131
+West,20140401,131
+West,20140408,131
+West,20140415,131
+West,20140422,134
+West,20140429,135
+West,20140506,135
+West,20140513,136
+West,20140520,136
+West,20140527,135
+West,20140603,141
+West,20140610,141
+West,20140617,143
+West,20140624,143
+West,20140701,138
+West,20140708,139
+West,20140715,137
+West,20140722,140
+West,20140729,139
+West,20140805,138
+West,20140812,138
+West,20140819,137
+West,20140826,135
+West,20140902,133
+West,20140909,132
+West,20140916,131
+West,20140923,127
+West,20140930,126
+West,20141007,126
+West,20141014,125
+West,20141021,125
+West,20141028,122
+West,20141104,121
+West,20141111,121
+West,20141118,121
+West,20141125,121
+West,20141202,122
+West,20141209,122
+West,20141216,119
+West,20141223,119
+West,20141230,119
+West,20150106,118
+West,20150113,119
+West,20150120,118
+West,20150127,122
+West,20150203,120
+West,20150210,119
+West,20150217,132
+West,20150224,133
+West,20150303,134
+West,20150310,133
+West,20150317,134
+West,20150324,136
+West,20150331,139
+West,20150407,140
+West,20150414,140
+West,20150421,139
+West,20150428,142
+West,20150505,145
+West,20150512,144
+West,20150519,141
+West,20150526,137
+West,20150602,141
+West,20150609,138
+West,20150616,141
+West,20150623,151
+West,20150630,156
+West,20150707,165
+West,20150714,164
+West,20150721,161
+West,20150728,168
+West,20150804,168
+West,20150811,168
+West,20150818,168
+West,20150825,171
+West,20150901,171
+West,20150908,165
+West,20150915,164
+West,20150922,157
+West,20150929,157
+West,20151006,147
+West,20151013,147
+West,20151020,147
+West,20151027,144
+West,20151103,138
+West,20151110,136
+West,20151117,135
+West,20151124,133
+West,20151201,127
+West,20151208,125
+West,20151215,119
+West,20151222,117
+West,20151229,113
+West,20160105,109
+West,20160112,104
+West,20160119,99
+West,20160126,97
+West,20160202,97
+West,20160209,94
+West,20160216,93
+West,20160223,94
+West,20160301,95
+West,20160308,92
+West,20160315,92
+West,20160322,94
+West,20160329,93
+West,20160405,90
+West,20160412,92
+West,20160419,89
+West,20160426,90
+West,20160503,85
+West,20160510,82
+West,20160517,79
+West,20160524,77
+West,20160531,73
+West,20160607,78
+West,20160614,78
+West,20160621,82
+West,20160628,84
+West,20160705,83
+West,20160712,83
+West,20160719,89
+West,20160726,91
+West,20160802,90
+West,20160809,94
+West,20160816,94
+West,20160823,88
+West,20160830,88
+West,20160906,90
+West,20160913,86
+West,20160920,88
+West,20160927,84
+West,20161004,81
+West,20161011,73
+West,20161018,68
+West,20161025,68
+West,20161101,70
+West,20161108,69
+West,20161115,70
+West,20161122,70
+West,20161129,70
+West,20161206,71
+West,20161213,71
+West,20161220,70
+West,20161227,61
+West,20170103,59
+West,20170110,45
+West,20170117,44
+West,20170124,36
+West,20170131,34
+West,20170207,30
+West,20170214,28
+West,20170221,32
+West,20170228,31
+West,20170307,26
+West,20170314,27
+West,20170321,29
+West,20170328,28
+West,20170404,27
+West,20170411,27
+West,20170418,28
+West,20170425,26
+West,20170502,22
+West,20170509,23
+West,20170516,24
+West,20170523,23
+West,20170530,26
+West,20170606,30
+West,20170613,31
+West,20170620,35
+West,20170627,36
+West,20170704,40
+West,20170711,44
+West,20170718,53
+West,20170725,55
+West,20170801,51
+West,20170808,49
+West,20170815,43
+West,20170822,47
+West,20170829,52
+West,20170905,59
+West,20170912,61
+West,20170919,57
+West,20170926,55
+West,20171003,52
+West,20171010,49
+West,20171017,46
+West,20171024,42
+West,20171031,44
+West,20171107,40
+West,20171114,38
+West,20171121,37
+West,20171128,45
+West,20171205,47
+West,20171212,55
+West,20171219,58
+West,20171226,59
+West,20180102,61
+West,20180109,67
+West,20180116,71
+West,20180123,78
+West,20180130,105
+West,20180206,104
+West,20180213,105
+West,20180220,107
+West,20180227,106
+West,20180306,111
+West,20180313,111
+West,20180320,109
+West,20180327,106
+West,20180403,104
+West,20180410,104
+West,20180417,103
+West,20180424,104
+West,20180501,105
+West,20180508,106
+West,20180515,108
+West,20180522,108
+West,20180529,107
+West,20180605,110
+West,20180612,111
+West,20180619,113
+West,20180626,117
+West,20180703,118
+West,20180710,121
+West,20180717,125
+West,20180724,127
+West,20180731,129
+West,20180807,130
+West,20180814,135
+West,20180821,135
+West,20180828,135
+West,20180904,137
+West,20180911,136
+West,20180918,139
+West,20180925,142
+West,20181002,141
+West,20181009,131
+West,20181016,126
+West,20181023,126
+West,20181030,122
+West,20181106,119
+West,20181113,119
+West,20181120,119
+West,20181127,119
+West,20181204,117
+West,20181211,117
+West,20181218,117
+West,20181225,116
+West,20190101,113
+West,20190108,111
+West,20190115,112
+West,20190122,101
+West,20190129,93
+West,20190205,91
+West,20190212,90
+West,20190219,82
+West,20190226,65
+West,20190305,61
+West,20190312,44
+West,20190319,38
+West,20190326,31
+West,20190402,31
+West,20190409,27
+West,20190416,23
+West,20190423,19
+West,20190430,18
+West,20190507,17
+West,20190514,17
+West,20190521,17
+West,20190528,16
+West,20190604,17
+West,20190611,16
+West,20190618,20
+West,20190625,20
+West,20190702,20
+West,20190709,38
+West,20190716,47
+West,20190723,48
+West,20190730,49
+West,20190806,38
+West,20190813,34
+West,20190820,38
+West,20190827,46
+West,20190903,52
+West,20190910,56
+West,20190917,50
+West,20190924,45
+West,20191001,41
+West,20191008,41
+West,20191015,45
+West,20191022,53
+West,20191029,52
+West,20191105,51
+West,20191112,60
+West,20191119,59
+West,20191126,65
+West,20191203,57
+West,20191210,47
+West,20191217,49
+West,20191224,48
+West,20191231,47
+West,20200107,45
+West,20200114,44
+West,20200121,47
+West,20200128,48
+West,20200204,46
+West,20200211,47
+West,20200218,47
+West,20200225,49
+West,20200303,52
+West,20200310,52
+West,20200317,52
+West,20200324,52
+West,20200331,54
+West,20200407,53
+West,20200414,56
+West,20200421,59
+West,20200428,62
+West,20200505,70
+West,20200512,74
+West,20200519,79
+West,20200526,79
+West,20200602,83
+West,20200609,88
+West,20200616,92
+West,20200623,93
+West,20200630,93
+West,20200707,95
+West,20200714,100
+West,20200721,109
+West,20200728,116
+West,20200804,122
+West,20200811,125
+West,20200818,134
+West,20200825,148
+West,20200901,159
+West,20200908,167
+West,20200915,173
+West,20200922,177
+West,20200929,180
+West,20201006,183
+West,20201013,188
+West,20201020,190
+West,20201027,188
+West,20201103,188
+West,20201110,190
+West,20201117,189
+West,20201124,197
+West,20201201,198
+West,20201208,203
+West,20201215,205
+West,20201222,204
+West,20201229,204
+West,20210105,203
+West,20210112,207
+West,20210119,207
+West,20210126,210
+West,20210202,209
+West,20210209,208
+West,20210216,204
+West,20210223,204
+West,20210302,202
+West,20210309,204
+West,20210316,201
+West,20210323,200
+West,20210330,201
+West,20210406,202
+West,20210413,203
+West,20210420,210
+West,20210427,214
+West,20210504,218
+West,20210511,218
+West,20210518,215
+West,20210525,214
+West,20210601,213
+West,20210608,216
+West,20210615,216
+West,20210622,221
+West,20210629,228
+West,20210706,233
+West,20210713,238
+West,20210720,245
+West,20210727,242
+West,20210803,241
+West,20210810,238
+West,20210817,237
+West,20210824,228
+West,20210831,223
+West,20210907,221
+West,20210914,222
+West,20210921,222
+West,20210928,223
+West,20211005,224
+West,20211012,222
+West,20211019,221
+West,20211026,218
+West,20211102,215
+West,20211109,214
+West,20211116,213
+West,20211123,215
+West,20211130,218
+West,20211207,219
+West,20211214,216
+West,20211221,213
+West,20211228,197
+West,20220104,186
+West,20220111,182
+West,20220118,181
+West,20220125,182
+West,20220201,182
+West,20220208,182
+West,20220215,182
+West,20220222,183
+West,20220301,190
+West,20220308,189
+West,20220315,193
+West,20220322,191
+West,20220329,191
+West,20220405,197
+West,20220412,199
+West,20220419,199
+West,20220426,201
+West,20220503,199
+West,20220510,200
+West,20220517,204
+West,20220524,206
+West,20220531,204
+West,20220607,206
+West,20220614,204
+West,20220621,202
+West,20220628,195
+West,20220705,194
+West,20220712,188
+West,20220719,183
+West,20220726,173
+West,20220802,165
+West,20220809,159
+West,20220816,156
+West,20220823,154
+West,20220830,153
+West,20220906,153
+West,20220913,156
+West,20220920,160
+West,20220927,161
+West,20221004,159
+West,20221011,158
+West,20221018,159
+West,20221025,160
+West,20221101,160
+West,20221108,155
+West,20221115,154
+West,20221122,154
+West,20221129,152
+West,20221206,149
+West,20221213,145
+West,20221220,144
+West,20221227,144
+West,20230103,135
+West,20230110,127
+West,20230117,123
+West,20230124,119
+West,20230131,119
+West,20230207,113
+West,20230214,112
+West,20230221,112
+West,20230228,104
+West,20230307,99
+West,20230314,92
+West,20230321,86
+West,20230328,74
+West,20230404,68
+West,20230411,61
+West,20230418,60
+West,20230425,58
+West,20230502,58
+West,20230509,55
+West,20230516,50
+West,20230523,48
+West,20230530,46
+West,20230606,43
+West,20230613,38
+West,20230620,37
+West,20230627,36
+West,20230704,35
+West,20230711,36
+West,20230718,39
+West,20230725,46
+West,20230801,54
+West,20230808,62
+West,20230815,61
+West,20230822,62
+West,20230829,65
+West,20230905,67
+West,20230912,67
+West,20230919,67
+West,20230926,68
+West,20231003,68
+West,20231010,69
