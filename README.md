@@ -1,12 +1,14 @@
 # US-Drought-Data: analysis through recurrent neural networks
 
+**How well can we predict the future extent of drought in state, just using knowledge of present and past drought levels?** 
+
 ![USDM Splash page for October 13](USDM_splash_page.png)
 
 Justin Ripley, 2023
 
 Drought can be costly. 
 Rain is needed to restore reservoirs and water crops. 
-Droughts can cause billions of dollars worth of damage to agriculture, for example the 2020-2022 drought in California caused at around [2 billion](https://wsm.ucmerced.edu/wp-content/uploads/2022/11/Economic_Impact_CA_Drought_V01.pdf) dollars worth of damage. 
+Droughts can cause billions of dollars worth of damage to agriculture, for example the 2020-2022 drought in California caused around [2 billion USD](https://wsm.ucmerced.edu/wp-content/uploads/2022/11/Economic_Impact_CA_Drought_V01.pdf) worth of damage. 
 Being able to predict the probability of drought can help farmers, city planners, and state water regulators adjust their usage of limited water resources before they are strained by lower than average rain and snowfall.
 
 The [Southwestern North American megadrought](https://en.wikipedia.org/wiki/Southwestern_North_American_megadrought) began in 2020, and is arguably still ongoing. Theoretical work in climate science (that is, the results from large scale climate simulations) suggest that droughts may become more common in the U.S. west as atmospheric carbon dioxide levels go up. 
@@ -14,7 +16,8 @@ The [Southwestern North American megadrought](https://en.wikipedia.org/wiki/Sout
 Regardless of long-term changes, here we explore if there is any way to predict the composition of drought (the percentage of each drought category) $n$ weeks into the future, at the state, climate region, and national (contiguous united states) level. 
 The traditional approach to predicting drought would be to run a climate/weather model that includes dozens/hundreds/thousands of free paramters, that would would either guess at or directly measure. 
 
-1. Four first goal is explore how well one can do by only using past and current drought information (our approach is partially inspired by work on modeling flue outbreaks using only the number of people who have the flu, see for example https://behavioralscientist.org/gigerenzer-one-data-point-can-beat-big-data/). 
+1. Four first goal is explore how well one can do by only using past and current drought information.
+Oour approach is partially inspired by work by [Gerd Gigerenzer](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer) on modeling flue outbreaks using only the number of people who have the flu. For more discussion about what he did, see this [link](https://behavioralscientist.org/gigerenzer-one-data-point-can-beat-big-data/). 
 2. Our second goal is to learn more about recurrent neural networks (RNNs), which are used in modeling time-series data. 
 
 ## About the U.S. Drought monitor
@@ -37,7 +40,8 @@ Statistics at the county level though are somewhat noisy, since drought often af
 Because of this, we focus on data at the state level for larger states (e.g. California, Texas, Florida, New York), at the level of climate rgions, and at the national level. 
 Of course, it would be more useful for planners/farmers to have predictivity at that level, but that will likely require more data and drought estimators than just the current level of drought. 
 
-I downloaded this data from the [USDM Data Download page](https://droughtmonitor.unl.edu/DmData/DataDownload.aspx).
+All the data I used can be found on the [USDM Data Download page](https://droughtmonitor.unl.edu/DmData/DataDownload.aspx).
+The USDM data is very clean; I did not have to clean anything before use.
 
 ## Note on data
 
