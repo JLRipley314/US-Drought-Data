@@ -1,4 +1,6 @@
-# US-Drought-Data
+# US-Drought-Data: analysis through recurrent neural networks
+
+![USDM Splash page for October 13](USDM_splash_page.png)
 
 Justin Ripley, 2023
 
