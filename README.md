@@ -3,7 +3,6 @@
 **How well can one predict the future extent of drought in state, just using knowledge of present and past drought levels?** 
 
 ![USDM Splash page for October 13](USDM_splash_page.png)
-![Total drought indicators West region](total_drought_West.pdf)
 
 Drought can be costly. 
 Rain is needed to restore reservoirs and water crops. 
@@ -53,5 +52,7 @@ All the data I used can be found on the [USDM Data Download page](https://drough
 The USDM data is very clean; I did not have to clean anything before use.
 
 ## Note on data
+
+![Total drought indicators West region](total_drought_West.png)
 
 The way the USDM format their drought percentage data is that the percentages in each category obey $D0\geq D1\geq D2\geq D3 \geq D4$. For example, if 100% of a state is in D1 drought, then 100% is in D0 drought. If you want to know how much of a state is really in D0 drought, you need to look at $D0-D1$. 
