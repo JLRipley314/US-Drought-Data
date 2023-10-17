@@ -1,10 +1,9 @@
 # US-Drought-Data: analysis through recurrent neural networks
 
-**How well can we predict the future extent of drought in state, just using knowledge of present and past drought levels?** 
+**How well can one predict the future extent of drought in state, just using knowledge of present and past drought levels?** 
 
 ![USDM Splash page for October 13](USDM_splash_page.png)
-
-Justin Ripley, 2023
+![Total drought indicators West region](total_drought_West.pdf)
 
 Drought can be costly. 
 Rain is needed to restore reservoirs and water crops. 
@@ -16,9 +15,19 @@ The [Southwestern North American megadrought](https://en.wikipedia.org/wiki/Sout
 Regardless of long-term changes, here we explore if there is any way to predict the composition of drought (the percentage of each drought category) $n$ weeks into the future, at the state, climate region, and national (contiguous united states) level. 
 The traditional approach to predicting drought would be to run a climate/weather model that includes dozens/hundreds/thousands of free paramters, that would would either guess at or directly measure. 
 
-1. Four first goal is explore how well one can do by only using past and current drought information.
-Oour approach is partially inspired by work by [Gerd Gigerenzer](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer) on modeling flue outbreaks using only the number of people who have the flu. For more discussion about what he did, see this [link](https://behavioralscientist.org/gigerenzer-one-data-point-can-beat-big-data/). 
-2. Our second goal is to learn more about recurrent neural networks (RNNs), which are used in modeling time-series data. 
+1. My first goal here is explore how well one can do by only using past and current drought information.
+My approach is partially inspired by work by [Gerd Gigerenzer](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer) on modeling flue outbreaks using only the number of people who have the flu. For more discussion about what he did, see this [link](https://behavioralscientist.org/gigerenzer-one-data-point-can-beat-big-data/). 
+2. My second goal is to learn more about recurrent neural networks (RNNs), and how to implement them in pytorch.  
+
+The upshot of all this is that it seems pretty hard to predict future drought information given only past and present drought information. 
+This is not too surprising, given the drought data looks fairly stochastic.
+That the data is so stochastic-looking suggests that rainfall -- without any more atmospheric data -- is fairly stochastic. 
+
+If you think there is something that I could improve in my analysis with **the data I have**, please let me know. 
+Certainly including more data would be useful, such as the atmospheric moisture levels and barometric data, as 
+
+1. low pressure + high moisture = rain 
+2. high pressure + dry = no rain
 
 ## About the U.S. Drought monitor
 
@@ -34,10 +43,10 @@ along with percentage in that region that is classified as D0, etc. The USDM als
  
 $DCSI = D0 \times 1 + D1 \times 2 + D2 \times 3 + D3 \times 4 + D4 \times 5$ 
 
-In a few different notebooks, we consider drought statistics at the state, climate region, and national level. 
+In a few different notebooks, I consider drought statistics at the state, climate region, and national level. 
 The USDM provides drought data at the county level.
 Statistics at the county level though are somewhat noisy, since drought often affects a wide area (e.g. at the county level, usually either the whole county is drought free or the whole county is in drought).
-Because of this, we focus on data at the state level for larger states (e.g. California, Texas, Florida, New York), at the level of climate rgions, and at the national level. 
+Because of this, I focus on data at the state level for larger states (e.g. California, Texas, Florida, New York), at the level of climate rgions, and at the national level. 
 Of course, it would be more useful for planners/farmers to have predictivity at that level, but that will likely require more data and drought estimators than just the current level of drought. 
 
 All the data I used can be found on the [USDM Data Download page](https://droughtmonitor.unl.edu/DmData/DataDownload.aspx).
