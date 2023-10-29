@@ -18,12 +18,12 @@ The traditional approach to predicting drought would be to run a climate/weather
 My approach is partially inspired by work by [Gerd Gigerenzer](https://www.mpib-berlin.mpg.de/staff/gerd-gigerenzer) on modeling flue outbreaks using only the number of people who have the flu. For more discussion about what he did, see this [link](https://behavioralscientist.org/gigerenzer-one-data-point-can-beat-big-data/). 
 2. My second goal is to learn more about recurrent neural networks (RNNs), and how to implement them in pytorch.  
 
-The upshot of all this is that it seems pretty hard to predict future drought information given only past and present drought information. 
-This is not too surprising, given the drought data looks fairly stochastic.
-That the data is so stochastic-looking suggests that rainfall -- without any more atmospheric data -- is fairly stochastic. 
+The upshot of all this is that it seems pretty hard to predict future drought information multiple weeks into the future is fairly difficult given only past drought information.
+We did fairly well predicting the levels of drought only one week in advance though--even the simple guess of assuming next week nothing changes does fairly well.
 
-If you think there is something that I could improve in my analysis with **the data I have**, please let me know. 
-Certainly including more data would be useful, such as the atmospheric moisture levels and barometric data, as 
+If you think there is something that I could improve in my analysis, please let me know.
+This is not a formal report or paper, but I would like to improve my results, and I would like to increase my knowledge of recurrent neural networks. 
+Certainly including more data would be useful, such as the atmospheric moisture levels and barometric data, as generally 
 
 1. low pressure + high moisture = rain 
 2. high pressure + dry = no rain
