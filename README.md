@@ -55,4 +55,11 @@ The USDM data is very clean; I did not have to clean anything before use.
 
 ![Total drought indicators West region](total_drought_West.png)
 
-The way the USDM format their drought percentage data is that the percentages in each category obey $D0\geq D1\geq D2\geq D3 \geq D4$. For example, if 100% of a state is in D1 drought, then 100% is in D0 drought. If you want to know how much of a state is really in D0 drought, you need to look at $D0-D1$. 
+The way the USDM format their drought percentage data is that the percentages in each category obey $D0\geq D1\geq D2\geq D3 \geq D4$. For example, if 100% of a state is in D1 drought, then 100% is in D0 drought. If you want to know how much of a state is really in D0 drought, you need to look at $D0-D1$.
+
+# Dependencies
+
+If you want to run the exact same environment I used, run
+```
+conda env create -f environment.yml
+``` 
