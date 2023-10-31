@@ -30,7 +30,9 @@ Certainly including more data would be useful, such as the atmospheric moisture 
 
 ## About the U.S. Drought monitor
 
-The [U.S. Drought monitor](https://droughtmonitor.unl.edu/CurrentMap.aspx) (USDM) keeps comprehensive statistics on how much of the country is in drought. The monitor is updated weekly, and its easy to download data that goes as far back as Jan 1, 2020 from their online data portal. The USDM rates the level of drought in a given geographical area (e.g. state) as 
+![Total drought indicators West region](total_drought_West.png)
+
+The [U.S. Drought monitor](https://droughtmonitor.unl.edu/CurrentMap.aspx) (USDM) keeps comprehensive statistics on how much of the country is in drought. The monitor is updated weekly, and its easy to download data that goes as far back as Jan 1, 2020 from their online data portal. The USDM rates the percentage that a given geographical area (e.g. a county, state, or "region") is the following 5 categories of drought 
 - None: no drought
 - D0: Abnormally dry
 - D1: Moderate drought
@@ -38,9 +40,17 @@ The [U.S. Drought monitor](https://droughtmonitor.unl.edu/CurrentMap.aspx) (USDM
 - D3: Extreme drought
 - D4: Exceptional drought
 
-along with percentage in that region that is classified as D0, etc. The USDM also provides a Drought Severity and Coverage Index (DSCI), for a region, which is the following agregate statistic 
- 
-$DCSI = D0 \times 1 + D1 \times 2 + D2 \times 3 + D3 \times 4 + D4 \times 5$ 
+along with percentage in that region that is classified as D0, etc. 
+The quantities D0-D4 are percentages, although the sum of them is usually larger than one hundred, that is 
+generally $ D0 + D1 + D2 + D3 + D4 > 100$. 
+The way these numbers work is that Di indicates that Di% of the region is in _at least_ that category of drought.
+For example, one could have D1=90 and D2=40, so that only D1-D2 = 50% is _only_ in the drought category D1, while 40% is in _at least_ the drought category of D2.
+The USDM also provides a Drought Severity and Coverage Index (DSCI), for a region, which is the following agregate statistic $DCSI = D0 \times 1 + D1 \times 2 + D2 \times 3 + D3 \times 4 + D4 \times 5$, although I'm not sure why they keep track of this particular combination. 
+
+The USDM does not go into too much detail about how they compute the quantities D0-D4, although it is clear they aggregate observations of water table levels, the health of crops and other vegetation, and measurements of soil moisture.
+Each quantities Di takes into account multiple different kinds measurements taken from a variety of U.S. government agencies. 
+
+# Notebooks
 
 In a few different notebooks, I consider drought statistics at the state, climate region, and national level. 
 The USDM provides drought data at the county level.
@@ -51,11 +61,7 @@ Of course, it would be more useful for planners/farmers to have predictivity at 
 All the data I used can be found on the [USDM Data Download page](https://droughtmonitor.unl.edu/DmData/DataDownload.aspx).
 The USDM data is very clean; I did not have to clean anything before use.
 
-## Note on data
-
-![Total drought indicators West region](total_drought_West.png)
-
-The way the USDM format their drought percentage data is that the percentages in each category obey $D0\geq D1\geq D2\geq D3 \geq D4$. For example, if 100% of a state is in D1 drought, then 100% is in D0 drought. If you want to know how much of a state is really in D0 drought, you need to look at $D0-D1$.
+I apply a recurrent neural network, and compare its forecasts to actual data in ``Drought-Analysis/Regional-Drought.ipynb``. 
 
 # Dependencies
 
